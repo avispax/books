@@ -102,26 +102,31 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 
 # 同人誌
 
+[{iro}2]OCRE_No002_C101_NFT.pdf
+[@Tomokazu106]Goで始めるBitcoin.pdf
 [#個人開発のあれこれ]2022年度版FirebaseFirestore最新情報&実践Stripeサブスクリプション実装.pdf
 [2020SecHack365]2020SecHack365文芸部部誌　年越し号.pdf
 [2x3dimensions]Fintechで儲かりたい！- 入門編 -.pdf
-[418 I'm a teapot]開発者のためのJulia言語入門.pdf
 [418 I'm a teapot]開発者のためのJulia言語入門_pass_j9dmt5ax.pdf
+[418 I'm a teapot]開発者のためのJulia言語入門.pdf
 [74th]VS Code Dev Container Guidebook no font 開発環境はすべてコンテナの中へ.pdf
 [74th]VS Code Dev Container Guidebook 開発環境はすべてコンテナの中へ.pdf
 [74th]VS Code デバッグ技術 2nd edition.pdf
 [8pockets]はじめてのhttp2.pdf
-[@Tomokazu106]Goで始めるBitcoin.pdf
-[allzero.jp]Firebase from All Zero DEVELOP 1st.pdf
+[９号研究室]その新人研修はヤバくないですか？.pdf
 [allzero.jp]Firebase from All Zero DEVELOP 1st_c94.pdf
+[allzero.jp]Firebase from All Zero DEVELOP 1st.pdf
 [Amplify屋さん]Amplify Console 実践入門.pdf
 [Archived Technologies]Clean Architecture for React.pdf
-[Auth屋]OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本.pdf
-[Auth屋]OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本_別冊図.pdf
 [Auth屋]OAuth・OIDCの攻撃と対策を整理して理解できる本（リダイレクトへの攻撃編).pdf
+[Auth屋]OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本_別冊図.pdf
+[Auth屋]OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本.pdf
 [Auth屋]雰囲気でOAuth2.0を使っているエンジニアがOAuth2.0を整理して理解できる本.pdf
 [BAKUNETSU VICTORY]新しいデジタルノート術で第二の脳をつくろう_ver1.1.pdf
+[bearkoベアコ @ブロックチェーンゲーマー]マイクリプトヒーローズ解体新書【虎の巻】.pdf
+[bearkoベアコ @ブロックチェーンゲーマー]マイクリプトヒーローズ解体新書【龍の巻】.pdf
 [blastengine]メールを取り巻くテクノロジー.pdf
+[c.9]WebAssemblyで出来ること.pdf
 [C++全く分からん]C++プログラム高速化のための知識と計測.epub
 [C++全く分からん]C++プログラム高速化のための知識と計測.zip
 [C++全く分からん]仕事でやるC++高速化.pdf
@@ -139,24 +144,33 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [dayjournal]Pythonではじめるマップアプリケーションプラグイン.pdf
 [Develup]VMとコンテナで作るポータブルネットワークシミュレーター.pdf
 [Develup]パケットキャプチャで見てみようMySQLデッドロック編.pdf
-[DevRel Meetup]マンガで分かるDevRel.pdf
 [DevRel Meetup]マンガで分かるDevRel_4C.pdf
+[DevRel Meetup]マンガで分かるDevRel.pdf
 [DX Labo]マスタリングDX 入門編.pdf
+[Elements有志]ELEMENTS Tech Book.epub
+[Elements有志]ELEMENTS Tech Book.pdf
 [ENGINY]エンジニアのための英単語辞書.pdf
 [ENGINY]初心者による初心者のためのFlutter詳解.pdf
 [erefy-s]みんなで叩いてみたPWAへの入門の扉.pdf
 [feb19]App Recipe Book 「体重管理アプリ」 モバイルアプリ DIY レシピ.pdf
 [feb19]Figma Developers Book - Web REST API + Plugin 開発入門.pdf
 [feb19]Google Fit Book for Beginners 〜Google Fit 開発入門〜.pdf
+[FireStarter]Practicable Firebase.pdf
+[FireStarter]Testable Firebase.pdf
 [fkuMnk]僕のGCPのリモートコンピューティングで動画配信するヤバイやつ.pdf
 [flightbooks]Markdownで技術同人誌を書こう電子版_1.pdf
 [FlightBooks]セキュリティチェックシートの薄い本.pdf
 [Fnow]dabble in..Extraedition_OpenShift.pdf
 [Fnow]Operating System Maniacs 4.0（Free）.pdf
+[Fnow]Operating System Maniacs Version7.5.pdf
 [FREES]ゆかちゃんは学びたい！！【チャットノベル式】Go言語入門！！〜Go言語で部活のお悩み解決〜.pdf
+[G.C.M Records]クリエーターのためのツール・ガジェットによる自己操縦術.pdf
+[GO Inc. テックブック部（MoT Lab）]THE TECH BOOK Vol.3 by GO Inc..pdf
 [Goodpatch Inc.]ブックパッチ vol.4.pdf
-[hirax]PythonやJupyterでiPhone_iPad先端機能を簡単･自由にプログラミング！「土台篇（後編）」.pdf
+[hachi]Rails のコードを読む.pdf
 [hirax]PythonやJupyterでiPhone_iPad先端機能を簡単･自由にプログラミング！「活用篇（前編）」.pdf
+[hirax]PythonやJupyterでiPhone_iPad先端機能を簡単･自由にプログラミング！「土台篇（後編）」.pdf
+[igaiga.rb && becolomochi]Railsの教科書.pdf
 [ik-fib]SSH Handbook.pdf
 [InfosysAdviser]スタートアップ・中小企業の情シスにお勧めのクラウドサービス使い倒してみた 1.1版.pdf
 [InfosysAdviser]スタートアップ・中小企業の情シスにお勧めのクラウドサービス使い倒してみた.pdf
@@ -170,6 +184,7 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [k2wanko]Web開発者のためのFirebase（電子書籍）.epub
 [k2wanko]Web開発者のためのFirebase（電子書籍）.pdf
 [ka'sらぼ]Pythonで始めるテストツール製作 Menu Based CLI編.pdf
+[KLab 株式会社]KLab Tech Book Vol. 11.pdf
 [KLab 株式会社]KLabTechBook_Vol1.pdf
 [KLab 株式会社]KLabTechBook_Vol10.pdf
 [KLab 株式会社]KLabTechBook_Vol2.pdf
@@ -188,15 +203,18 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [Lebexc]Flutter Widget解説_B5_電子版.epub
 [Liquid有志]はじめてのeKYC.epub
 [Liquid有志]はじめてのeKYC.pdf
+[lxc-jp]Linux Container Book (1) Namespace  Network 編.pdf
+[lxc-jp]Linux Container Book (2) cgroup v1 編.pdf
 [mican juice.]図でざっくり分かるWEBフロントエンドの歴史本.pdf
 [minami1389]Java To Kotlin To Better Kotlin Handbook dlcard pass kot_kot_kotlin_11.pdf
 [minami1389]Java to Kotlin to better Kotlin Handbook_パス解除.pdf
+[MishProto]QUICの参考書―ゼロから作るRust言語による実装解説―Initial Packet編.pdf
 [mochikoAsTech]AWSをはじめよう_電子書籍版_v02.pdf
 [mochikoAsTech]DNSをはじめよう_改訂第2版.pdf
 [mochikoAsTech]Gitのサブモジュールで困ったら読む本.pdf
 [mochikoAsTech]SSLをはじめよう ～「なんとなく」から「ちゃんとわかる！」へ～.pdf
-[MoT Lab]Mobility Technologiesアーキテクチャー全て_v1.0.3.pdf
 [MoT Lab]Mobility Technologiesアーキテクチャー全て_v1.0.3_見開きページ.pdf
+[MoT Lab]Mobility Technologiesアーキテクチャー全て_v1.0.3.pdf
 [MoT Lab]Tech It Up Vol.2 by Mobility Technologies.pdf
 [mr-csce]作って学ぶルーティングプロトコル〜RustでBGPを実装〜.pdf
 [mtskhs]Firestore Testing −なぜテストを書くのか、どう書くのかがよくわかる！−.pdf
@@ -208,9 +226,12 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [Nikkei Engineer Team]Nikkei Development Book vol3 パス解除.pdf
 [NISC]情報セキュリティハンドブック.pdf
 [noraneco]curlコマンド完全に理解する.pdf
+[Nostr Idol Project]Hello Nostr! 先住民が教えるNostrの歩き方.pdf
+[NRUG-SREs]俺たちのSREとNew Relic -書籍編-.pdf
 [NTTテクノクロス株式会社]ゼロから始めるFlutterアプリ開発入門 .pdf
 [NTTテクノクロス株式会社]宣言的UIアプリ開発食べくらべ.pdf
 [O'CREILLY]厳選 お蔵入り OCREILLY_ChoTBF2017.pdf
+[O'CREILLY]初めてのお蔵入り.pdf
 [O'CREILLY]詳解 お蔵入り OCREILLY_TBF02.pdf
 [O'Reilly]The Site Reliability Workbook next18.pdf
 [OHK]Amazon Web Servicesコスト最適化入門 マルチアカウント編.epub
@@ -227,9 +248,13 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [Project MM]Project MM Vol.6.pdf
 [radiberry pi!]radiberry pi!ラジオ録音マニュアル.pdf
 [rust-lang-ja]rustbook-ja-c94.zip
+[saltforest]ドメインイベント作るイベント駆動設計.pdf
+[SatisFactory]【増補版】Flutter実践　- 現場で使える80の定石 -.pdf
 [SatisFactory]Flutter入門 - 簡易フレームワークを作る -.pdf
 [SaveOurServers.io]ActiveDirectoryの歩き方.pdf
+[SG Rails]コードレビューで学ぶ Ruby on Rails.pdf
 [SGE.go]SGE Go Tech Book Vol.02.pdf
+[SGE.go]SGE Go Tech Book Vol.03.pdf
 [SGE.go]SGE Go Tech Book.pdf
 [shonansurvivors]TerraformでFargateを構築してGitHub Actionsでデプロイ！Laravel編.pdf
 [SIGCOWW]COSMICレイヤゼロSP1.epub
@@ -237,6 +262,7 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [Southern Paradise]GRIMOIRE インフラ系チートシート集 ver.α.pdf
 [SOZO人(ZINE)]JavaScriptでいきなり機械学習を遊び倒す本.pdf
 [SOZO人(ZINE)]JavaScriptでスクリーンキャストのアプリを開発する本.pdf
+[techbito]Power Automate ではじめるローコード開発サバイバルガイド.pdf
 [TechBooster]24_Edge_of_Android_8.pdf
 [TechBooster]25_JavaScriptoon3.pdf
 [TechBooster]27_FirstStepReVIEW.pdf
@@ -255,10 +281,6 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [Wantedly執筆部]Wantedly Engineering Handbook.pdf
 [Wantedly執筆部]Wantedly-TechBook1.epub
 [Wantedly執筆部]Wantedly-TechBook1.pdf
-[Wantedly執筆部]Wantedly-TechBook10.epub
-[Wantedly執筆部]Wantedly-TechBook10.pdf
-[Wantedly執筆部]Wantedly-TechBook11.epub
-[Wantedly執筆部]Wantedly-TechBook11.pdf
 [Wantedly執筆部]Wantedly-TechBook2.epub
 [Wantedly執筆部]Wantedly-TechBook2.pdf
 [Wantedly執筆部]Wantedly-TechBook3.epub
@@ -275,159 +297,179 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [Wantedly執筆部]Wantedly-TechBook8.pdf
 [Wantedly執筆部]Wantedly-TechBook9.epub
 [Wantedly執筆部]Wantedly-TechBook9.pdf
+[Wantedly執筆部]Wantedly-TechBook10.epub
+[Wantedly執筆部]Wantedly-TechBook10.pdf
+[Wantedly執筆部]Wantedly-TechBook11.epub
+[Wantedly執筆部]Wantedly-TechBook11.pdf
+[Wantedly執筆部]WANTEDLY-TECHBOOK12.epub
+[Wantedly執筆部]WANTEDLY-TECHBOOK12.pdf
+[web-apps.tech]詳解Go標準パッケージ.pdf
+[web-apps.tech]詳解Go標準パッケージ2.pdf
 [Webサービス作り隊]マッチングサービスを開発したら大失敗したのでその理由を解説してみた.pdf
 [Women Who Go Tokyo]Go Starter Book.pdf
 [Women Who Go Tokyo]Goでちょっとひといき.pdf
+[XRWG]XR関連WG TECHBOOK.pdf
 [yuuu]AWS Amplifyで作るIoTバックエンド.pdf
 [ZENKEI AI FORUM]ゼロからはじめるAI.pdf
-[⻯睛舎]エクセル死滅しろ.pdf
+[Zli]Zli TechBook Vol.4.pdf
 [あいらぶ量子コンピュータ]高校数学からはじめる量子コンピュータ.pdf
 [あいらぶ量子コンピュータ]高校数学からはじめる量子コンピュータ2.pdf
+[あじゃりこ開発]血液型ABO式　アジャイルチームの作り方.pdf
+[アトリヱ未來]Middlemanで樂しく創るウェブサイト.pdf
+[アライとウマカツ]クラウドネイティブファーストストーリー.pdf
 [あらど島]React×TypeScriptから始めるD3.js.pdf
 [いしかわきょーすけ]中国の大型書店に行けないので通販で中文書籍を購入してみた2.pdf
+[いずれこの技術が滅びるとしても]初心者でもできるWAF構築とペネトレーションテスト.pdf
+[いずれこの技術が滅びるとしても]情報セキュリティをはじめましょう 第二版.pdf
+[いずれこの技術が滅びるとしても]飛行機操縦教育の教科書.pdf
+[いのべこ]アドベントカレンダーはじめました。.pdf
 [いのべこ]いのべこたちの自由な夏休みはどこまでも。.pdf
 [いのべこ]いのべこの夏休みは、自由研究三昧。.pdf
-[いのべこ]アドベントカレンダーはじめました。.pdf
 [いのべこ]進め！いのべこアドカレ冬の陣.pdf
+[イモに聞け]JavaScript徹底攻略 関数 付録圏論についての補足.pdf
+[イモに聞け]JavaScript徹底攻略 非同期処理 Promise,asyncawaitの仕組みと使い方.pdf
+[イモに聞け]JavaScript徹底攻略 変数.pdf
+[イモに聞け]素のJavaScriptによる実践オブジェクト指向.pdf
+[エゥーゴ]ライブラリを作ろう.pdf
 [えがら家]RecalBoxでレトロPCを遊ぶ準備号.pdf
+[エンジニアの登壇を応援する会]エンジニアの成長を応援する本.zip
+[エンジニアの登壇を応援する会]エンジニアの成長を応援する本2.pdf
+[エンジニア登山部]Goのポインタを完全に理解する本.pdf
+[おとうふ工房]まんがではじめるGitOps.pdf
 [おれさまラボ]セキュリティ、わからん.pdf
 [かいていどうくつ]Kubernetesの単語帳.pdf
+[カウプラン機関極東支部]Pythonの黒魔術.pdf
+[カエルと空]Google Cloud Platformで学ぶTerraform 〜基礎編〜_20200912_v1.0.0.zip
+[カエルと空]Google Cloud Platformで学ぶTerraform 〜実践編〜_20201226_v1.0.0.zip
 [からふるぼーど]実践マニアックテスト　WebiOSAndroid編.pdf
 [きんとーん・らぼ]REACT ＆ REST API.epub
+[きんとーん・らぼ]俺の自由研究 - ChatGPT×kintoneでダブルDX！‐.pdf
 [きんとーん・らぼ]俺の自由研究_Vuejsで始めるポータルカスタマイズ.epub
 [きんとーん・らぼ]絶品！kintone餃子.pdf
+[クッキーの日記]NeurIPS 2021 にみる 最近のニューラル系列モデルへの発見・工夫・理解 未完成ドラフト.pdf
+[クックパッド執筆部]Cookpad Tech Book v1_0_0.pdf
+[グミとおばけ博士]四則演算と簡単な図形だけで数学が苦手な人に三角関数を教える本.pdf
 [くるみ割り書房]りあクト！1_TypeScriptで始めるつらくないReact開発.pdf
 [くるみ割り書房]りあクト！2_TypeScriptで極める現場のReact開発.pdf
 [くるみ割り書房]りあクト！3_Firebaseで始めるサーバーレスReact開発.pdf
+[くろすてっく]RPA Pattern.pdf
+[げぐはつ書房]Tailwind CSS まとめ Advanced！新世界へ.pdf
 [げぐはつ書房]Tailwind CSS まとめ v3.0対応版.pdf
 [こたうち企画]REST APIのための自動テストの実践 アジリティのためのテスト・アーキテクチャ.pdf
+[コテツ商会]MacではじめるSTM32 Lite M1 Mac版.pdf
+[こはくのランプ]Starting Cilium.pdf
+[コピペテック]ネコでもわかるSalesforceアクセス権限について.pdf
+[ザ・シメサバズ]PWA を Google Play Storeに公開するハンズオン.pdf
+[ザ・シメサバズ]個人Webサービスシステム構成事典_20200910.pdf
 [さきさん文庫]APIを作りながら進むGo中級者への道.pdf
 [さわら]Auth0によるSaaS開発ガイド.pdf
+[シーホーちゃんとゆかいな仲間たち]Firebase Authenticationなら多分これが一番早いと思います.pdf
+[シーホーちゃんとゆかいな仲間たち]検索だけじゃないElasticsearch入門+.pdf
+[シーホーちゃんとゆかいな仲間たち]私が書いてきた・⾒てきた・聞いてきたプログラミングアンチパターン.pdf
 [しおだいふく]Nuxt + Firebase 捨てられるWebアプリケーション設計.pdf
-[しょぼんブログ]ゼロからはじめるWindows 11 デバイス展開.pdf
+[じゅ～しぃ～すくりぷと]はじめてのDocker & SageMaker　実運用のための一歩先の機械学習.pdf
 [じょいとも]プログラマーのための技術者列伝.pdf
 [じょいとも]プログラマーのための技術者列伝2.pdf
+[じょいとも]プログラマーのための技術者列伝３.pdf
+[じょいとも]プログラマーのための技術者列伝４.pdf
+[しょぼんブログ]Google WorkspaceのSSO How to.pdf
+[しょぼんブログ]IntuneではじめるmacOSiOS管理.pdf
+[しょぼんブログ]ゼロからはじめるWindows 11 デバイス展開.pdf
+[シン・オブジェクト倶楽部]わかるかも！？ ドメイン駆動設計  はじめの一歩.pdf
+[ジンギスカン同盟]IoTプラットフォームの勘どころ.pdf
+[スクワットWADDY]AWS REST API と Angular SPA によるサーバーレスアプリケーション実装例と設計指針_TypeScript.pdf
 [すべてがM(icro)になる]Microservices architecture よろず本 その一＆その二.pdf
 [すべてがM(icro)になる]Microservices architecture よろず本 その三.pdf
 [すべてがM(icro)になる]OpenAPI 3を完全に理解できる本 3.0.3対応版.pdf
+[スマートマキアート]裁判 ～個人事業主として株式会社に民事訴訟を起こして事実上勝訴した話～.pdf
 [すらりんラボ]手軽に使う Docker の本.pdf
 [そねお書店]IBM QとBlueqatでゼロから始める量子コンピュータ.pdf
+[ダブルピース文庫]公務員の文書改竄防止システムをブロックチェーンで作ってみた.pdf
+[タムコム]業務システムのつくりかた 非エンジニアのためのシステム設計論.pdf
 [ちんちらんど]スケジューリング問題のおはなし.pdf
 [ちんちらんど]最短路問題のおはなし.pdf
 [つまみぐい本舗]Dark Mode対応のためのUIKit対策本.pdf
 [つまみぐい本舗]入門 型入門 TaPL.pdf
+[てきとうなサークル]自由ソフトウェア、オープンソースと新冷戦.pdf
 [とっしんの会]とっしん本.pdf
 [とまと屋]FlexboxとGrid Layoutを使ったCSSレイアウト入門.epub
 [とまと屋]作って学ぶ、FlutterとFirebaseを使ったアプリ開発.pdf
 [とまと屋]入門 Riverpod.epub
 [なんでもトークン]2020年のブロックチェーン.pdf
 [なんでもトークン]NFTをシステムに組み込む.pdf
+[にせねこ.info]はじめてのNostr.pdf
+[ニフティ]ニフティのスクラム.pdf
 [ねこじょーかー]猫でもわかるBlazor入門_ver1.1.pdf
 [ねこはうす]ねこはうす通信準備号_第二版.pdf
 [ねこはうす]マンガでわかるかもしれないAzureのはじめ方！？.pdf
 [ねこはうす]マンガでわかるかもしれないGCPのそこそこうすい本.pdf
 [ねこはうす]絶対に？！すべらないAWSのおはなし.pdf
+[ノンプログラマーのためのスキルアップ研究会]ノーコード・ローコードで作る！QRを使った『じゃがいも収穫管理アプリ』の作り方.pdf
 [ばぐばぐ]コードメトリクスからコード品質を確保する話_rev04.pdf
+[ひかる黄金わかめ帝国]Goの次期標準 構造化ログ slog解説.pdf
 [ひたひた]WebAssemblyテキストフォーマットで読み解くコンピューティングの未来.epub
 [ひたひた]WebAssemblyテキストフォーマットで読み解くコンピューティングの未来.pdf
+[ビットバンク株式会社]Practical TypeScript in bitbank.pdf
 [ひのまる呉服店]クリエイターおよび万人のための　売れる！　色彩学マニュアル.pdf
 [ふぃーるどのーつ]sweetmusic-vol1-2.pdf
 [ふぃーるどのーつ]sweetmusic-vol3.pdf
+[フォージビジョン]TypeScriptでAPI開発(Nest公式ドキュメント翻訳).pdf
+[フォーレストーン]Flutter で作るアプリとゲームの融合 _ 電卓騎士の開発Tips _.pdf
+[フローライト]ハードウェアエンジニアのための中国語入門.pdf
+[プロジェクトマネージャ保護者会]「考える」考えかた ～個人にもチームにも効く思考プロセス～.pdf
+[プロジェクトマネージャ保護者会]アジャイルな強いチームを作る チームビルディング超実践ガイド.pdf
+[プロジェクトマネージャ保護者会]ふりかえりカタログ.pdf
+[プロジェクトマネージャ保護者会]決め方の強化書 ～意思決定とチームビルディング～.pdf
+[プロトコル研究所]詳解QUICクライアント接続編.pdf
 [へにゃぺんて]エミュレータのコードを読んでわかるセガサターン.pdf
 [へにゃぺんて]ゲームボーイOS「AMADO」で8ビットマシン語入門.pdf
 [へにゃぺんて]セガサターンCDシステムのうすい本.pdf
 [へにゃぺんて]セガサターンとMIDIで通信する本.pdf
 [へにゃぺんて]バイナリ生物学入門.pdf
+[ペンギンエクスプレス]交通とUI_Vol1.pdf
+[ホロラボ技術書部]ホロらぼん Vol.01.pdf
 [まぐろのみぞおち]RDBエンジニアでもできる！MongoDBの構築と運用入門.pdf
 [まこソフト]だまこソフト NOW! vol.3.pdf
+[まねふぉ執筆部]Money Forward TechBook #6.pdf
 [まねふぉ執筆部]moneyforward_techbook_1.pdf
 [まねふぉ執筆部]moneyforward_techbook_2.pdf
 [まねふぉ執筆部]moneyforward_techbook_3.pdf
 [まるみデザインファーム]まるみデザインファーム.zip
+[ミイダス株式会社]HR Science Technical Note#01.pdf
 [めがねをかけるんだ]技術的負債返済計画.pdf
+[メメメモモ]クリーンアーキテクチャとサーバレスで実装するWebAPI.pdf
+[メメメモモ]サーバレスとSPAで実装するWebアプリケーション.pdf
 [めもおきば]めもおきば TechReport 2019.04.pdf
 [めもおきば]めもおきば TechReport 2021.12.pdf
 [めもおきば]めもおきば TechReport総集編Vol.1.pdf
 [めりくる]VoiceXMLは衰退しました.pdf
 [めりくる]おためし！リアルタイム音声認識.pdf
+[モウフカブール]ぼくのCtrl+Alt+Z Vol2.pdf
+[モウフカブール]ぼくのCtrl+Alt+Z Vol3.pdf
+[モウフカブール]作っては捨てる時代の過ごし方〜AWSとdockerを少しずつ取り入れませんかにゃ？.pdf
+[モザイク研究所]クラウドで始める量子コンピュータ.pdf
 [もちっとカフェ]Word2Vec使い倒しブック～Hello Worldから最近の研究成果まで～.pdf
+[ヤサイゼリー]がんばらないデータ加工 Rによるくり返し作業入門 前編.pdf
 [やっすんのエンジニア大学]TypeScriptで始めるServerless入門.pdf
 [よろず屋H]AWS CodePipelineを使った簡易CMS.epub
 [りまりま団]ひよこエンジニアに贈るお仕事サバイバルガイド.pdf
 [るてんのお部屋]Google Chrome ユーザーデータ自動軽量化Book.zip
 [るてんのお部屋]Steamゲーム販売参戦記.pdf
+[ワールドビルドシスターズ]58日後に退職するPM.pdf
 [ゐろはカルタ]ITエンジニア英会話例文集＆便利ツール集v1.01.pdf
-[アトリヱ未來]Middlemanで樂しく創るウェブサイト.pdf
-[アライとウマカツ]クラウドネイティブファーストストーリー.pdf
-[イモに聞け]JavaScript徹底攻略 変数.pdf
-[イモに聞け]JavaScript徹底攻略 非同期処理 Promise,asyncawaitの仕組みと使い方.pdf
-[イモに聞け]素のJavaScriptによる実践オブジェクト指向.pdf
-[エゥーゴ]ライブラリを作ろう.pdf
-[エンジニアの登壇を応援する会]エンジニアの成長を応援する本.zip
-[エンジニアの登壇を応援する会]エンジニアの成長を応援する本2.pdf
-[エンジニア登山部]Goのポインタを完全に理解する本.pdf
-[カウプラン機関極東支部]Pythonの黒魔術.pdf
-[カエルと空]Google Cloud Platformで学ぶTerraform 〜基礎編〜_20200912_v1.0.0.zip
-[カエルと空]Google Cloud Platformで学ぶTerraform 〜実践編〜_20201226_v1.0.0.zip
-[クッキーの日記]NeurIPS 2021 にみる 最近のニューラル系列モデルへの発見・工夫・理解 未完成ドラフト.pdf
-[クックパッド執筆部]Cookpad Tech Book v1_0_0.pdf
-[コテツ商会]MacではじめるSTM32 Lite M1 Mac版.pdf
-[ザ・シメサバズ]PWA を Google Play Storeに公開するハンズオン.pdf
-[ザ・シメサバズ]個人Webサービスシステム構成事典_20200910.pdf
-[シン・オブジェクト倶楽部]わかるかも！？ ドメイン駆動設計  はじめの一歩.pdf
-[シーホーちゃんとゆかいな仲間たち]Firebase Authenticationなら多分これが一番早いと思います.pdf
-[シーホーちゃんとゆかいな仲間たち]検索だけじゃないElasticsearch入門+.pdf
-[シーホーちゃんとゆかいな仲間たち]私が書いてきた・⾒てきた・聞いてきたプログラミングアンチパターン.pdf
-[ジンギスカン同盟]IoTプラットフォームの勘どころ.pdf
-[スクワットWADDY]AWS REST API と Angular SPA によるサーバーレスアプリケーション実装例と設計指針_TypeScript.pdf
-[スマートマキアート]裁判 ～個人事業主として株式会社に民事訴訟を起こして事実上勝訴した話～.pdf
-[タムコム]業務システムのつくりかた 非エンジニアのためのシステム設計論.pdf
-[ダブルピース文庫]公務員の文書改竄防止システムをブロックチェーンで作ってみた.pdf
-[ニフティ]ニフティのスクラム.pdf
-[ノンプログラマーのためのスキルアップ研究会]ノーコード・ローコードで作る！QRを使った『じゃがいも収穫管理アプリ』の作り方.pdf
-[ビットバンク株式会社]Practical TypeScript in bitbank.pdf
-[フォージビジョン]TypeScriptでAPI開発(Nest公式ドキュメント翻訳).pdf
-[フォーレストーン]Flutter で作るアプリとゲームの融合 _ 電卓騎士の開発Tips _.pdf
-[プロジェクトマネージャ保護者会]「考える」考えかた ～個人にもチームにも効く思考プロセス～.pdf
-[プロジェクトマネージャ保護者会]ふりかえりカタログ.pdf
-[プロジェクトマネージャ保護者会]アジャイルな強いチームを作る チームビルディング超実践ガイド.pdf
-[プロジェクトマネージャ保護者会]決め方の強化書 ～意思決定とチームビルディング～.pdf
-[ペンギンエクスプレス]交通とUI_Vol1.pdf
-[メメメモモ]クリーンアーキテクチャとサーバレスで実装するWebAPI.pdf
-[メメメモモ]サーバレスとSPAで実装するWebアプリケーション.pdf
-[モウフカブール]ぼくのCtrl+Alt+Z Vol2.pdf
-[モウフカブール]ぼくのCtrl+Alt+Z Vol3.pdf
-[モウフカブール]作っては捨てる時代の過ごし方〜AWSとdockerを少しずつ取り入れませんかにゃ？.pdf
-[モザイク研究所]クラウドで始める量子コンピュータ.pdf
-[ヤサイゼリー]がんばらないデータ加工 Rによるくり返し作業入門 前編.pdf
-[井山梃子歴史館]Rustジェネレータ徹底解説.pdf
-[京姫鉄道出版]マンガ版 こうしす！ セキュリティに完璧を求めるのは間違っているだろうか Part 1-2.epub
-[京姫鉄道出版]マンガ版 こうしす！ セキュリティに完璧を求めるのは間違っているだろうか Part 3.epub
-[仮空制御研究室]簡単な二足歩行ロボットの作り方.pdf
-[伊勢的新常識]Ride on Updrift with Push Notifications v1.0.1.pdf
-[低反発]Flutter地獄-広告SDK編.pdf
-[全日本キャリア教育改善推進協会]一歩を踏み出すときのキャリアヒントブック.pdf
-[六本木一丁目のポイントクラブ]DMM PointClub Tech Book #1.pdf
-[加藤家の食卓]誰でもわかる！UXデザイン入門書 導入編.pdf
-[南関東開発機構]日銀ネットについて調べてみた本（仮）.pdf
-[味噌とんトロ定食]Goで学ぶGoogle Cloud Functions.pdf
-[味噌とんトロ定食]クラウドオブジェクトストレージサービスの使い方 Google Cloud Storage編.pdf
-[味噌とんトロ定食]ゲームが上手にならないから強化学習にチャレンジしてみた.pdf
-[味噌とんトロ定食]取ろう！GCP Professional Cloud Architect.pdf
-[味噌とんトロ定食]新卒SE、1年間で機械学習エンジニアを目指す.pdf
-[情報処理学会]情報処理 特集別刷「2050年の情報処理」.pdf
-[情報処理学会]情報処理 特集別刷「博士課程進学のメリット・デメリット」.pdf
-[情報処理学会]情報処理 連載「情報の授業をしよう」厳選版（高等学校実践編）.pdf
-[教育心理学を学ぶ会]理論と実践でわかる職場の教育.pdf
-[昭和オヤジの寄合所]やる夫で学ぶReact、Reduxだお・・Redux-toolkit使えんのか？.pdf
 [暗黒通信団]Windows10のインストール法 技術書展電子版.pdf
 [暗黒通信団]究極のモデルについての一考察.pdf
-[杜の都の開発室]5日で構築する！？AWS LambdaとVue.jsでつくる位置情報付きの旅行記録サイト.pdf
-[杜の都の開発室]Cloudflare Workers+Pagesで旅行メモのサイトを作ってみよう！.pdf
-[杜の都の開発室]Google CloudとGitHub ActionsでPull Request連動環境を作る本.pdf
-[東京ラビットハウス]JavaScriptで覚える暗号通貨入門‗Bitcoin完全に理解した前編.pdf
+[伊勢的新常識]Ride on Updrift with Push Notifications v1.0.1.pdf
+[井山梃子歴史館]Rustジェネレータ徹底解説.pdf
+[仮空制御研究室]簡単な二足歩行ロボットの作り方.pdf
+[加藤家の食卓]誰でもわかる！UXデザイン入門書 導入編.pdf
+[楽天グループ株式会社ラクマ事業部 DevRelチーム]RAKUMA TECH BOOK Vol.2.pdf
+[楽描商店]コンテナ時代のWebサービスの作り方_ver_1.pdf
+[楽描商店]コンテナ時代のWebサービスの作り方_ver_2.epub
+[楽描商店]コンテナ時代のWebサービスの作り方_ver_2.pdf
 [株式会社ACCESS技術書典同好会]ACCESSテックブック 2.pdf
 [株式会社ACCESS技術書典同好会]アイのムチ よくないレビューの例とレビューで折れないメンタルづくり.pdf
+[株式会社MIXI]MIXI TECH NOTE #09.pdf
 [株式会社インプレス]軽量Alpine LinuxによるDockerコンテナ構築術.pdf
 [株式会社ミクシィ]mixi tech note 01.pdf
 [株式会社ミクシィ]mixi tech note 02.pdf
@@ -442,156 +484,157 @@ Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現�
 [株式会社メディアドゥ ]Tech Do Book #2.zip
 [株式会社メディアドゥ ]Tech Do Book #3.zip
 [株式会社メディアドゥ ]Tech Do Book #4.zip
-[楽天グループ株式会社ラクマ事業部 DevRelチーム]RAKUMA TECH BOOK Vol.2.pdf
-[楽描商店]コンテナ時代のWebサービスの作り方_ver_1.pdf
-[楽描商店]コンテナ時代のWebサービスの作り方_ver_2.epub
-[楽描商店]コンテナ時代のWebサービスの作り方_ver_2.pdf
-[橄欖石庵]ユーザー認証 概括的に学ぶ、クラウドサービス時代のユーザー認証.pdf
-[武田システム]ReactとPythonでAPI販売サービスを作ろう.pdf
-[毎日がフライデー]Salesforce Platformという、けっこう使えるアプリ開発基盤を紹介する本_v1.pdf
-[流しうどん機]再実装 Flutter (1).pdf
-[流しうどん機]再実装 Flutter (2).pdf
-[浜風もっこす]実用的なログの探求.pdf
-[湊川あいの、わかば家。]マンガでわかるDocker3_AWS編_ダウンロード版_v3.pdf
-[湊川あいの、わかば家。]マンガでわかるDocker4_Compose編.pdf
-[湊川あいの、わかば家。]マンガでわかるDocker_技術書典4_電子版.pdf
-[猫耳堂]『くいっく』 HTTP3編.pdf
-[猫耳堂]『くいっく』DATAGRAM編.pdf
-[猫耳堂]『くいっく』HTTP3編 RFC対応版.pdf
-[白熊出版会]はじめてのGoコード生成.pdf
-[白熊出版会]スターティングgRPC 第2版.pdf
-[耕作部屋]React チュートリアル以外の開発入門〜CDD・テスト・ビルド〜.pdf
-[脆弱性診断研究会]OWASP ZAPとCIツールで実践　脆弱性診断自動化（初級編）.pdf
-[若草製作所]デスクトップアプリ開発 WPF(C#)入門 未完成版.pdf
-[萌えるEIT倶楽部]Cloudflare Accessではじめるゼロトラストネットワーク.pdf
-[薬局ガレリア]薬局を作ろう.pdf
+[関数型玩具製作所]半自動着色読書 (準備号).pdf
+[虚構遊閑地]CSSのdisplayがみるみる分かる魔法の本.pdf
+[虚構遊閑地]CSSのpositionabsolute;が怖くなくなる魔法の本.pdf
+[京姫鉄道出版]マンガ版 こうしす！ セキュリティに完璧を求めるのは間違っているだろうか Part 1-2.epub
+[京姫鉄道出版]マンガ版 こうしす！ セキュリティに完璧を求めるのは間違っているだろうか Part 3.epub
+[教育心理学を学ぶ会]理論と実践でわかる職場の教育.pdf
+[極地分析所]Snowflakeのすゝめ.pdf
 [虎の穴ラボ]虎の穴ラボの薄い本 1.pdf
 [虎の穴ラボ]虎の穴ラボの薄い本 2.pdf
 [虎の穴ラボ]虎の穴ラボの薄い本 3.pdf
 [虎の穴ラボ]虎の穴ラボの薄い本 4.pdf
 [虎の穴ラボ]虎の穴ラボの薄い本 5pdf
 [虎の穴ラボ]虎の穴ラボの薄い本 6.pdf
+[虎の穴ラボ]虎の穴ラボの薄い本。vol.7.pdf
 [虎空棘魚]あつまれ CI サービス　２０２１夏　タダではじめる継続的インテグレーション生活.epub
 [虎空棘魚]あつまれ CI サービス　２０２１夏　タダではじめる継続的インテグレーション生活.pdf
-[虚構遊閑地]CSSのdisplayがみるみる分かる魔法の本.pdf
-[虚構遊閑地]CSSのpositionabsolute;が怖くなくなる魔法の本.pdf
-[親方Project]ぼくのアジャイル100本ノック.pdf
-[親方Project]ワンストップ見積もり.pdf
-[親方Project]ワンストップ！ 技術同⼈誌を書こう.pdf
-[調布技研]色んなところでKubernetesを動かす本.pdf
-[進捗大陸]進捗大陸08.pdf
-[遊びたがり]Reゼロから始めるSlack Hubot開発.pdf
-[関数型玩具製作所]半自動着色読書 (準備号).pdf
-[電脳律速]株とPythonでお金儲けを目指す本2_つぎのいっぽ編.pdf
-[電脳律速]株とPythonでお金儲けを目指す本_はじめのいっぽ編.pdf
-[高尾モンキーパーク]GAS Automation Book 正誤表.zip
-[９号研究室]その新人研修はヤバくないですか？.pdf
-
-# 技術書典 14
-
-[bearkoベアコ @ブロックチェーンゲーマー]マイクリプトヒーローズ解体新書【虎の巻】.pdf
-[bearkoベアコ @ブロックチェーンゲーマー]マイクリプトヒーローズ解体新書【龍の巻】.pdf
-[c.9]WebAssemblyで出来ること.pdf
-[Elements有志]ELEMENTS Tech Book.epub
-[Elements有志]ELEMENTS Tech Book.pdf
-[FireStarter]Practicable Firebase.pdf
-[FireStarter]Testable Firebase.pdf
-[Fnow]Operating System Maniacs Version7.5.pdf
-[G.C.M Records]クリエーターのためのツール・ガジェットによる自己操縦術.pdf
-[GO Inc. テックブック部（MoT Lab）]THE TECH BOOK Vol.3 by GO Inc..pdf
-[hachi]Rails のコードを読む.pdf
-[igaiga.rb && becolomochi]Railsの教科書.pdf
-[KLab 株式会社]KLab Tech Book Vol. 11.pdf
-[lxc-jp]Linux Container Book (1) Namespace  Network 編.pdf
-[lxc-jp]Linux Container Book (2) cgroup v1 編.pdf
-[MishProto]QUICの参考書―ゼロから作るRust言語による実装解説―Initial Packet編.pdf
-[Nostr Idol Project]Hello Nostr! 先住民が教えるNostrの歩き方.pdf
-[NRUG-SREs]俺たちのSREとNew Relic -書籍編-.pdf
-[O'CREILLY]初めてのお蔵入り.pdf
-[saltforest]ドメインイベント作るイベント駆動設計.pdf
-[SatisFactory]【増補版】Flutter実践　- 現場で使える80の定石 -.pdf
-[SG Rails]コードレビューで学ぶ Ruby on Rails.pdf
-[SGE.go]SGE Go Tech Book Vol.03.pdf
-[techbito]Power Automate ではじめるローコード開発サバイバルガイド.pdf
-[Wantedly執筆部]WANTEDLY TECHBOOK 12.epub
-[Wantedly執筆部]WANTEDLY TECHBOOK 12.pdf
-[web-apps.tech]詳解Go標準パッケージ.pdf
-[web-apps.tech]詳解Go標準パッケージ2.pdf
-[XRWG]XR関連WG TECHBOOK.pdf
-[Zli]Zli TechBook Vol.4.pdf
-[{iro}2]OCRE_No002_C101_NFT.pdf
-[あじゃりこ開発]血液型ABO式　アジャイルチームの作り方.pdf
-[いずれこの技術が滅びるとしても]初心者でもできるWAF構築とペネトレーションテスト.pdf
-[いずれこの技術が滅びるとしても]情報セキュリティをはじめましょう 第二版.pdf
-[いずれこの技術が滅びるとしても]飛行機操縦教育の教科書.pdf
-[おとうふ工房]まんがではじめるGitOps.pdf
-[きんとーん・らぼ]俺の自由研究 - ChatGPT×kintoneでダブルDX！‐.pdf
-[くろすてっく]RPA Pattern.pdf
-[げぐはつ書房]Tailwind CSS まとめ Advanced！新世界へ.pdf
-[こはくのランプ]Starting Cilium.pdf
-[しょぼんブログ]Google WorkspaceのSSO How to.pdf
-[しょぼんブログ]IntuneではじめるmacOSiOS管理.pdf
-[じゅ～しぃ～すくりぷと]はじめてのDocker & SageMaker　実運用のための一歩先の機械学習.pdf
-[じょいとも]プログラマーのための技術者列伝３.pdf
-[じょいとも]プログラマーのための技術者列伝４.pdf
-[てきとうなサークル]自由ソフトウェア、オープンソースと新冷戦.pdf
-[にせねこ.info]はじめてのNostr.pdf
-[ひかる黄金わかめ帝国]Goの次期標準 構造化ログ slog解説.pdf
-[まねふぉ執筆部]Money Forward TechBook #6.pdf
-[イモに聞け]JavaScript徹底攻略 関数 付録圏論についての補足.pdf
-[グミとおばけ博士]四則演算と簡単な図形だけで数学が苦手な人に三角関数を教える本.pdf
-[コピペテック]ネコでもわかるSalesforceアクセス権限について.pdf
-[フローライト]ハードウェアエンジニアのための中国語入門.pdf
-[プロトコル研究所]詳解QUICクライアント接続編.pdf
-[ホロラボ技術書部]ホロらぼん Vol.01.pdf
-[ミイダス株式会社]HR Science Technical Note#01.pdf
-[ワールドビルドシスターズ]58日後に退職するPM.pdf
-[低レイヤお茶会]C言語のポインタをアセンブリで理解しよう！～RISC-V編～.pdf
-[株式会社MIXI]MIXI TECH NOTE #09.pdf
-[極地分析所]Snowflakeのすゝめ.pdf
 [溝口電子商城]Golangで作るソフトウェアルータ.pdf
-[薬局ガレリア]ビジネスパーソンのためのお薬・サプリ読本vol.1.pdf
-[薬局ガレリア]ビジネスパーソンのためのセルフメディケーション読本.pdf
-[虎の穴ラボ]虎の穴ラボの薄い本。vol.7.pdf
-[野良ハック]図解・実践・ゼロから作るGrafanaはなぜ現場で使えるのか〜オブザーバビリティを体感〜.pdf
-[野良ハック]現場で使える!自動化入門.pdf
+[耕作部屋]React チュートリアル以外の開発入門〜CDD・テスト・ビルド〜.pdf
+[高尾モンキーパーク]GAS Automation Book 正誤表.zip
+[雑貨屋かさい]直感で生きる人のためのソフトウェア設計.pdf
+[若草製作所]デスクトップアプリ開発 WPF(C#)入門 未完成版.pdf
+[昭和オヤジの寄合所]やる夫で学ぶReact、Reduxだお・・Redux-toolkit使えんのか？.pdf
+[情報処理学会]情報処理 特集別刷「2050年の情報処理」.pdf
+[情報処理学会]情報処理 特集別刷「博士課程進学のメリット・デメリット」.pdf
+[情報処理学会]情報処理 連載「情報の授業をしよう」厳選版（高等学校実践編）.pdf
+[親方Project]ぼくのアジャイル100本ノック.pdf
+[親方Project]ワンストップ！ 技術同⼈誌を書こう.pdf
+[親方Project]ワンストップ見積もり.pdf
+[進捗大陸]進捗大陸08.pdf
+[脆弱性診断研究会]OWASP ZAPとCIツールで実践　脆弱性診断自動化（初級編）.pdf
+[全日本キャリア教育改善推進協会]一歩を踏み出すときのキャリアヒントブック.pdf
+[調布技研]色んなところでKubernetesを動かす本.pdf
+[低レイヤお茶会]C言語のポインタをアセンブリで理解しよう！～RISC-V編～.pdf
+[低反発]Flutter地獄-広告SDK編.pdf
 [鉄道同人技術研究所]RTL-SDRとGNURadioによるATS-Pの解析.pdf
 [鉄道同人技術研究所]改訂 鉄道車両内ネットワークの基礎.pdf
 [鉄道同人技術研究所]鉄道車両内ネットワークの基礎 UPDATE1.pdf
 [鉄道同人技術研究所]鉄道車両内ネットワークの基礎 UPDATE2.pdf
-[雑貨屋かさい]直感で生きる人のためのソフトウェア設計.pdf
 [電気羊]実装しながら学ぶRSA暗号.pdf
+[電脳律速]株とPythonでお金儲けを目指す本_はじめのいっぽ編.pdf
+[電脳律速]株とPythonでお金儲けを目指す本2_つぎのいっぽ編.pdf
+[杜の都の開発室]5日で構築する！？AWS LambdaとVue.jsでつくる位置情報付きの旅行記録サイト.pdf
+[杜の都の開発室]Cloudflare Workers+Pagesで旅行メモのサイトを作ってみよう！.pdf
+[杜の都の開発室]Google CloudとGitHub ActionsでPull Request連動環境を作る本.pdf
+[東京ラビットハウス]JavaScriptで覚える暗号通貨入門‗Bitcoin完全に理解した前編.pdf
+[南関東開発機構]日銀ネットについて調べてみた本（仮）.pdf
+[猫耳堂]『くいっく』 HTTP3編.pdf
+[猫耳堂]『くいっく』DATAGRAM編.pdf
+[猫耳堂]『くいっく』HTTP3編 RFC対応版.pdf
+[白熊出版会]スターティングgRPC 第2版.pdf
+[白熊出版会]はじめてのGoコード生成.pdf
+[浜風もっこす]実用的なログの探求.pdf
+[武田システム]ReactとPythonでAPI販売サービスを作ろう.pdf
+[萌えるEIT倶楽部]Cloudflare Accessではじめるゼロトラストネットワーク.pdf
+[毎日がフライデー]Salesforce Platformという、けっこう使えるアプリ開発基盤を紹介する本_v1.pdf
+[味噌とんトロ定食]Goで学ぶGoogle Cloud Functions.pdf
+[味噌とんトロ定食]クラウドオブジェクトストレージサービスの使い方 Google Cloud Storage編.pdf
+[味噌とんトロ定食]ゲームが上手にならないから強化学習にチャレンジしてみた.pdf
+[味噌とんトロ定食]取ろう！GCP Professional Cloud Architect.pdf
+[味噌とんトロ定食]新卒SE、1年間で機械学習エンジニアを目指す.pdf
+[湊川あいの、わかば家。]マンガでわかるDocker_技術書典4_電子版.pdf
+[湊川あいの、わかば家。]マンガでわかるDocker3_AWS編_ダウンロード版_v3.pdf
+[湊川あいの、わかば家。]マンガでわかるDocker4_Compose編.pdf
+[野良ハック]現場で使える!自動化入門.pdf
+[野良ハック]図解・実践・ゼロから作るGrafanaはなぜ現場で使えるのか〜オブザーバビリティを体感〜.pdf
+[薬局ガレリア]ビジネスパーソンのためのお薬・サプリ読本vol.1.pdf
+[薬局ガレリア]ビジネスパーソンのためのセルフメディケーション読本.pdf
+[薬局ガレリア]薬局を作ろう.pdf
+[遊びたがり]Reゼロから始めるSlack Hubot開発.pdf
+[流しうどん機]再実装 Flutter (1).pdf
+[流しうどん機]再実装 Flutter (2).pdf
+[六本木一丁目のポイントクラブ]DMM PointClub Tech Book #1.pdf
+[橄欖石庵]ユーザー認証 概括的に学ぶ、クラウドサービス時代のユーザー認証.pdf
+[⻯睛舎]エクセル死滅しろ.pdf
 
 # 技術書典15
 
+[#個人開発のあれこれ]2022年度版FirebaseFirestore最新情報&実践Stripeサブスクリプション実装.pdf
+[AIIT 2023年度 追川プロジェクトチーム]アジャイル開発を体得したい！社会人大学院生７名でチームを組んでSlackBot開発に取り組んでみた.pdf
 [Auth屋]パスキーのすすめ.pdf
 [C.9]ご注文はWASIですか.pdf
+[Dodgson Labs]モデル検査器をつくる〜Goで実装して学ぶ形式手法〜.pdf
 [GMOインターネットグループ　エンジニア有志一同]Good Morning #01.pdf
+[GO Inc. テックブック部]GOアーキテクチャーすべて(2).zip
 [HiyangerBooks]AWS CloudFormationで作るログ運用と監視システム.pdf
 [Mariners’ Conference ]Submarine vol.1.pdf
+[masa_kazama]LLMを解釈・可視化する技術入門.pdf
 [Mathematica研究会金町支部]Mathematicaとオブジェクト指向〜世界を記述するためのフレームワーク〜.pdf
+[mystt]実戦 Github Projects活用.pdf
+[PassPay Labs]Statistics and Economics.pdf
 [putchom]デザイントークンのつくりかた.pdf
 [SGE.go]SGE Go Tech Book Vol.04.zip
 [SuperNiceCircle]GraphQL入門 Hasuraで始めるアプリケーション開発.pdf
+[Typebase]tRPC入門―型安全なWebアプリケーションを効率よくつくる.pdf
 [VVVF製作所]ゼロから作るVVVFインバータ制御電車(電子版_改).pdf
 [VVVF製作所]ゼロから作るVVVFインバータ制御電車2_音声解析(20231108電子版_完成品).pdf
 [VVVF製作所]ゼロから作るカム軸式抵抗制御電車(電子版完成形20200916).pdf
 [VVVF製作所]ゼロから作る電動カム軸式抵抗制御電車2_応用編_最終版.pdf
 [Wantedly執筆部]WANTEDLY TECH BOOK 13.zip
+[かえるのほんだな]Magical WinDbg -雰囲気で楽しむ Windows ダンプ解析とトラブルシューティング-.pdf
 [たいやきおさかな]理学博士のリアル講義資料 要点 微分積分学の基礎Ⅰ.pdf
+[とむとむやむくん]寝坊魔！ツイ廃！ 在宅SEの社会人擬態ライフハック.pdf
 [とりむねにく]JTCでもできる検証環境コスト管理自動運用.pdf
 [とりむねにく]要件定義から実装までJTC向けAWSガードレール StackSets構築解説つき.pdf
+[にーLab.]Vite + TypeScript + Babylon.jsでWebARをはじめる本.pdf
 [ひかる黄金わかめ帝国]OAuth 2.0+OpenID Connect認証認可サービス製作日記.pdf
+[むちむちぽぽ]Volatility3で始めるメモリフォレンジック入門.pdf
+[めがねをかけるんだ]AndroidKeyStoreと過ごした400日.pdf
+[ゆめみ大技林製作委員会]ゆめみ大技林 '23 (2).pdf
 [コードカキタイ]Go言語で構築するクリーンアーキテクチャ設計.pdf
 [チームはりねずみ]パフォーマンス⾰命　— アプリケーション性能改善のために若⼿が奮闘した記録 —.pdf
 [デフエンジニアの会]耳が聴こえないエンジニアが色々と書いてみた.pdf
+[ニフティ執筆部]NIFTY Tech Book #1.pdf
 [ペンギンエクスプレス]交通とUI (+UX) Vol.2.pdf
 [メメメモモ]SvelteとGoでWebアプリ開発 〜フルスタック & サーバレス〜.pdf
+[ワンドビー完全理解者の会]LLMをゼロからトレーニング するためのベストプラクティス.pdf
+[ワンドビー完全理解者の会]LLMファインチューニングとプロンプトエンジニアリングのベストプラクティス.pdf
 [三峰スズ工房]自作マイコンボードの話とものづくり系VTuberの話 増補版.pdf
+[低反発]ゲームと数学のちょっといい話.pdf
 [半田技術研究所]探索的テストの進め方_改訂版.pdf
+[後藤和智事務所OffLine]Bayes Analysis Maniax.pdf
+[株式会社MIXI]MIXI TECH NOTE #10.pdf
+[橄欖石庵]パスワードレス認証～Passkeys （パスキー）は我々の救世主なのか～.pdf
 [溝口電子商城]Golangで作るソフトウェアルータⅡ.pdf
 [鉄道同人技術研究所]ATS-P地上子を解析(しようと)した +付録ATS-PF電文一覧表.pdf
 [電気羊]実装しながら学ぶ楕円曲線暗号.pdf
+
+# 技術書典16
+
+[FireStarter]AI Chat Firebase1.0.pdf
+[mochikoAsTech]読み手につたわる文章 - テクニカルライティング.pdf
+[Offensive Security Lab Japan]Offensive Security Articles Vol.1.pdf
+[SGE.go]SGE Go Tech Book Vol.05.pdf
+[tecalac]電気回路完全に理解したったｗフリーのシミュレーターで学ぶプログラマ向け電気回路チュートリアル.pdf
+[Wantedly執筆部]WANTEDLY TECH BOOK 14.pdf
+[yuuu]生活をちょっと便利にするIoTボタンのつくりかた.pdf
+[いずれこの技術が滅びるとしても]航空機と衛星のサイバーセキュリティ入門 情報セキュリティをはじめましょうIII.pdf
+[だめぽラボ]Haskellでの型レベルプログラミング.pdf
+[でじたるはるまき]AWS vs Google Cloud アプリ開発七番勝負.pdf
+[アジュール魔法魔術学校]Re Re ゼロから始めるAzure Machine Learning.pdf
+[イモに聞け]JavaScript徹底攻略 非同期処理_tbf16.pdf
+[備中絡繰製造所]いっしょに学ぶ Python & Elixir & Rust & Go.pdf
+[未来機械工房]ゼロから作る筋電センサー.pdf
+[統計の森]直感的に理解するTransformerの仕組み.pdf
+[統計の森]直感的に理解するTransformerへのCNNの導入.pdf
+[薬局ガレリア]災害特機、ファルマギア～災害時医薬品供給車両（モバイルファーマシー）入門～.pdf
+[赤煉瓦倉庫]はじめてのデータウェアハウス ーDatabricksではじめるデータ基盤ガイドー.pdf
+[進捗ゼミナール]ゼロから作る！HTTPルーター.pdf
+[鉄道同人技術研究所]かつての電車と同じ直流直巻電動機の半導体レスでの制御.pdf
+[鐸羊舎]Kareshiクリエイト.zip
+[香美山社中]理系のための経理入門.pdf
 
 # もらったりした本
 
@@ -1625,6 +1668,76 @@ DX時代の 最強PMOになる方法 甲州 潤 240p_4828310177.pdf
 組織を変える5つの対話 -対話を通じてアジャイルな組織文化を創る Douglas Squirrel 256p_4814400640.pdf
 野球データでやさしく学べるPython入門 いきなり「グラフ作成」「顧客分析」ができる 齋藤 周 176p_453406067X.pdf
 
--- 
+## 202404
 
-やきうのじかんだー
+コーチングアジャイルチームス： スクラムマスター、アジャイルコーチ必携 Lyssa Adkins 392p_4621308688.pdf
+ソフトウェアデザイン 2024年3月号 Software Design編集部 184p_B0CSN3BHVK.pdf
+ソフトウェアデザイン 2024年4月号 Software Design編集部 192p_B0CVX512BF.pdf
+パズルで解く世界の言語： 言語学オリンピックへの招待 風間 伸次郎 158p_4327394424.pdf
+ビジネスパーソンのための「言語技術」超入門-プレゼン・レポート・交渉の必勝法 （中公新書ラクレ, 717） 三森 ゆりか 296p_4121507177.pdf
+効率的なGo -データ指向によるGoアプリケーションの性能最適化 Bartlomiej Plotka 512p_4814400535.pdf
+運用設計のセオリー --インフラから業務まで全整理 小出淳平 520p_4865943706.pdf
+
+## 202405
+
+GitLabに学ぶ 世界最先端のリモート組織のつくりかた ドキュメントの活用でオフィスなしでも最大の成果を出すグローバル企業のしくみ 千田 和央 312p_4798179426.pdf
+なぜ依存を注入するのか DIの原理・原則とパターン （Compass Booksシリーズ） Steven van Deursen 656p_4839983062.pdf
+はじめて学ぶ最新サイバーセキュリティ講義 「都市伝説」と「誤解」を乗り越え、正しい知識と対策を身につける ユージーン・H・スパフォード 528p_429607069X.pdf
+失敗から学ぶ技術 新規事業開発を成功に導くプロトタイピングの教科書 三冨 敬太 224p_4798175005.pdf
+技術者のためのテクニカルライティング入門講座 高橋 慈子 220p_4798157198.pdf
+最前線に立つプロが教えるセキュリティの基礎 せきや まもる 384p_4296070797.pdf
+
+## 202406
+
+EUROPE SOCCER TODAY 開幕号：2023-2024 NSKムック （NSK MOOK） 162p_4905411998.pdf
+WEB+DB PRESS総集編［Vol．1〜136］ （WEB+DB PRESS plusシリーズ） WEB+DB PRESS編集部 128p_4297141566.pdf
+WEB+DB-PRESS総集編［Vol.1～136］_00.pdf
+webdb_sp_001-136.zip
+三体3 死神永生 上 （ハヤカワ文庫SF） 劉 慈欣 608p_4150124493.pdf
+三体3 死神永生 下 （ハヤカワ文庫SF） 劉 慈欣 624p_4150124507.pdf
+日本人のための憲法原論 新装版 小室 直樹 480p_4797674296.pdf
+[溝口電子商城]Golangで作るソフトウェアルータ(DLカード購入者用).zip
+[溝口電子商城]Golangで作るソフトウェアルータⅡ(DLカード購入者用).zip
+
+## 202407
+
+エレガントパズル エンジニアのマネジメントという難問にあなたはどう立ち向かうのか Will Larson 260p_4296070916.pdf
+エンジニアリングが好きな私たちのための エンジニアリングマネジャー入門 サラ・ドラスナー 264p_4800592410.pdf
+ソフトウェアデザイン 2024年6月号 Software Design編集部 176p_B0D21PGZHD.pdf
+ソフトウェアデザイン 2024年7月号 Software Design編集部 192p_B0D4CH21FX.pdf
+ドメイン駆動設計をはじめよう -ソフトウェアの実装と事業戦略を結びつける実践技法 Vlad Khononov 408p_481440073X.pdf
+ワールドサッカーダイジェスト 2024年 7／4 号 ［雑誌］  0p_B00KRL5BFQ.pdf
+手を動かしてわかるクリーンアーキテクチャ ヘキサゴナルアーキテクチャによるクリーンなアプリケーション開発 Tom Hombergs 288p_429501978X.pdf
+関数型ドメインモデリング ドメイン駆動設計とF#でソフトウェアの複雑さに立ち向かおう Scott Wlaschin 308p_4048931164.pdf
+［入門］ドメイン駆動設計--基礎と実践・クリーンアーキテクチャ （Software Design別冊） 増田 亨、田中 ひさてる、奥澤 俊樹、中村 充志、成瀬 允宣、大西 政徳 160p_4297143178.pdf
+
+## 202408
+
+GitHub CI／CD実践ガイド--持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 （エンジニア選書） 野村 友規 400p_4297141736.pdf
+Software Design （ソフトウェアデザイン） 2024年08月号 Software Design 編集部 481p_B0D8RDLH1M.pdf
+Software Design （ソフトウェアデザイン） 2024年09月号 Software Design 編集部 460p_B0DC93CJQP.pdf
+フロントエンド開発のためのセキュリティ入門： 知らなかったでは済まされない脆弱性対策の必須知識 平野昌士 250p_4798169471.pdf
+フロントエンド開発のためのテスト入門 今からでも知っておきたい自動テスト戦略の必須知識 吉井 健文 320p_4798178187.pdf
+大学4年間のデータサイエンスが10時間でざっと学べる （角川文庫） 久野 遼平 256p_404605977X.pdf
+東京大学のデータサイエンティスト育成講座 〜Pythonで手を動かして学ぶデ-タ分析〜 塚本邦尊 448p_4839965250.pdf
+［入門］Webフロントエンド E2E テスト--PlaywrightによるWebアプリの自動テストから良いテストの書き方まで （エンジニア選書） 渋川 よしき 264p_4297142201.pdf
+
+## 202409
+
+Googleのソフトウェアエンジニアリング -持続可能なプログラミングを支える技術、文化、プロセス 竹辺 靖昭 684p_4873119650.pdf
+SF映画で学ぶインタフェースデザイン アイデアと想像力を鍛え上げるための141のレッスン Nathan Shedroff 371p_462108836X.pdf  
+「複雑系」が世界の見方を変える──関係、意識、存在の科学理論 ニール・シース 224p_4750518522.pdf
+まじめにエイリアンの姿を想像してみた アリク カーシェンバウム 432p_4760155635.pdf
+サッカー止める蹴る解剖図鑑 風間八宏 112p_4767828368.pdf
+行動経済学が勝敗を支配する 世界的アスリートも“つい”やってしまう不合理な選択 今泉 拓 272p_4534061102.pdf
+
+## 202410
+
+IT’S ELEMENTAL さぁ、化学に目覚めよう 世界の見え方が変わる特別講義 ケイト・ビバードーフ 464p_4635130185.pdf
+Software Design （ソフトウェアデザイン） 2024年10月号 ［雑誌］ Software Design 編集部 490p_B0DGT177PK.pdf
+Software Design総集編【2018〜2023】 Software Design編集部 88p_4297144719.pdf
+Web3の未解決問題 松尾 真一郎 200p_4296204467.pdf
+ちいさくはじめるデザインシステム 大塚亜周 324p_4802512481.pdf
+システムを作らせる技術 エンジニアではないあなたへ 白川 克 388p_4532323991.pdf
+勝つ、ではなく、負けない。 結果を出せず、悩んでいるリーダーへ 黒田 剛 248p_4344043359.pdf
+試合で最高のパフォーマンスを発揮するためのコンディショニング11のルール 大塚 慶輔 224p_4801940757.pdf
