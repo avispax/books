@@ -1,3 +1,10 @@
+---
+tags: tech
+title: Ruby によるデザインパターン
+author: Russ Olsen
+page: 340
+---
+
 # 第 1 章 良いプログラムとパターン
 
 - 変わるものを変わらないものから分離する
