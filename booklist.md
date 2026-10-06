@@ -1,11 +1,11 @@
 # DMM の本
 
 - 2030 年 すべてが「加速」する世界に備えよ.zip
-- Adaptive Code 〜 C＃実践開発手法 第 2 版.zip
-- AI・データ分析プロジェクトのすべて［ビジネス力 × 技術力=価値創出］.zip
+- Adaptive Code 〜 C＃実践開発手法 第 2 版.zip #技術/プログラミング #CSharp
+- AI・データ分析プロジェクトのすべて［ビジネス力 × 技術力=価値創出］.zip #技術/AI
 - Amazon Web Services 業務システム設計・移行ガイド 一番大切な知識と技術が身につく.zip
-- Amazon Web Services 負荷試験入門 ――クラウドの性能の引き出し方がわかる.zip
-- AWS Lambda 実践ガイド.zip
+- Amazon Web Services 負荷試験入門 ――クラウドの性能の引き出し方がわかる.zip #技術/クラウド
+- AWS Lambda 実践ガイド.zip #技術/クラウド
 - Bootstrap 4 フロントエンド開発の教科書.zip
 - Clean Agile 基本に立ち戻れ.zip #マネジメント #100冊候補
 - CPU の創りかた.zip
@@ -14,51 +14,51 @@
 - DX 推進から基幹系システム再生まで デジタルアーキテクチャー設計・構築ガイド.zip
 - Elastic Stack 実践ガイド［Elasticsearch_Kibana 編］.zip
 - Elasticsearch 実践ガイド.zip
-- Kotlin サーバーサイドプログラミング実践開発.zip #プログラミング #100冊候補
+- Kotlin サーバーサイドプログラミング実践開発.zip #技術/プログラミング #100冊候補 #Kotlin
 - MMT 現代貨幣理論入門.zip
 - nginx 実践ガイド.zip
-- NoSQL データベース ファーストガイド.zip
-- NoSQL プログラミング実践活用技法.zip
+- NoSQL データベース ファーストガイド.zip #技術/データベース
+- NoSQL プログラミング実践活用技法.zip #技術/データベース
 - PowerPoint 資料作成 プロフェッショナルの大原則.zip #文章 #100冊候補
 - SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発.zip
-- Selenium 実践入門 ――自動化による継続的なブラウザテスト.zip #テスト #100冊候補
-- Spring 徹底入門 Spring Framework による Java アプリケーション開発.zip
-- The Art of UNIX Programming.zip #プログラミング #古典 #100冊候補
+- Selenium 実践入門 ――自動化による継続的なブラウザテスト.zip #技術/テスト #100冊候補
+- Spring 徹底入門 Spring Framework による Java アプリケーション開発.zip #技術/プログラミング #Java
+- The Art of UNIX Programming.zip #技術/プログラミング #古典 #100冊候補 #技術/インフラ
 - THE TEAM 5 つの法則.zip #マネジメント #100冊候補
 - Web 制作者のための CSS 設計の教科書.zip
 - Web 制作者のための Sass の教科書 改訂 2 版 Web デザインの現場で必須の CSS プリプロセッサ.zip
 - 「サッカー」とは何か 戦術的ピリオダイゼーション vs バルセロナ構造主義、欧州最先端をリードする二大トレーニング理論.zip #スポーツ/サッカー
 - 「戦術脳」を鍛える最先端トレーニングの教科書 欧州サッカーの新機軸「戦術的ピリオダイゼーション」実践編.zip #スポーツ/サッカー
 - 「文章術のベストセラー 100 冊」のポイントを 1 冊にまとめてみた。.zip #文章 #100冊候補
-- 【イラスト図解満載】情報セキュリティの基礎知識.zip
+- 【イラスト図解満載】情報セキュリティの基礎知識.zip #技術/セキュリティ
 - なぜ重大な問題を見逃すのか？間違いだらけの設計レビュー改訂版（日経 BP Next ICT 選書）.zip
 - みずほ銀行システム統合、苦闘の 19 年史 史上最大の IT プロジェクト「3 度目の正直」.zip #金融
-- みんなの Docker_Kubernetes.zip
+- みんなの Docker_Kubernetes.zip #技術/インフラ
 - やってはいけないデザイン.zip #プロダクト #100冊候補
 - わたしの本当の子どもたち.zip
 - アジャイルサムライ――達人開発者への道.zip #マネジメント #100冊候補
 - アプリケーションアーキテクチャ設計パターン.zip
-- イラストでわかる Docker と Kubernetes.zip
-- イラスト図解式 この一冊で全部わかるセキュリティの基本.zip
-- インフラ ネットワークエンジニアのためのネットワーク・デザインパターン 実務で使えるネットワーク構成の最適解 27.zip
-- インフラ ネットワークエンジニアのためのネットワーク技術＆設計入門 第 2 版.zip
+- イラストでわかる Docker と Kubernetes.zip #技術/インフラ
+- イラスト図解式 この一冊で全部わかるセキュリティの基本.zip #技術/セキュリティ
+- インフラ ネットワークエンジニアのためのネットワーク・デザインパターン 実務で使えるネットワーク構成の最適解 27.zip #技術/インフラ
+- インフラ ネットワークエンジニアのためのネットワーク技術＆設計入門 第 2 版.zip #技術/インフラ
 - オブジェクト指向 UI デザイン ── 使いやすいソフトウェアの原理.zip #プロダクト #100冊候補
 - カイゼン・ジャーニー たった 1 人からはじめて、「越境」するチームをつくるまで.zip
-- クラウドゲームをつくる技術 ―マルチプレイゲーム開発の新戦力.zip
-- クラウド開発徹底攻略.zip
-- ゲーム AI 技術入門 ── 広大な人工知能の世界を体系的に学ぶ.zip
+- クラウドゲームをつくる技術 ―マルチプレイゲーム開発の新戦力.zip #技術/クラウド
+- クラウド開発徹底攻略.zip #技術/クラウド
+- ゲーム AI 技術入門 ── 広大な人工知能の世界を体系的に学ぶ.zip #技術/AI
 - コンピュータアーキテクチャ 改訂 5 版.zip
 - コンピュータアーキテクチャのエッセンス［第 2 版］.zip
 - サッカー守備戦術の教科書 超ゾーンディフェンス論.zip #スポーツ/サッカー
 - システム開発のための WBS の作り方（日経 BP Next ICT 選書）.zip #仕事術 #100冊候補
 - スポーツビジネス 最強の教科書【第 2 版】.zip #スポーツ
-- ソフトウェアシステムアーキテクチャ構築の原理 第 2 版.zip #設計 #100冊候補
-- ソフトウェア・ファースト.zip #設計 #100冊候補
+- ソフトウェアシステムアーキテクチャ構築の原理 第 2 版.zip #技術/設計 #100冊候補
+- ソフトウェア・ファースト.zip #技術/設計 #100冊候補
 - チーム・ジャーニー 逆境を越える、変化に強いチームをつくりあげるまで.zip
 - ディジタル画像処理 ［改訂第二版］.zip
 - データビジュアライゼーションの教科書.zip
 - ノンデザイナーズ・デザインブック ［第 4 版］.zip #文章 #古典 #100冊候補
-- ハッキング・ラボのつくりかた 仮想環境におけるハッカー体験学習.zip
+- ハッキング・ラボのつくりかた 仮想環境におけるハッカー体験学習.zip #技術/セキュリティ
 - バグダードのフランケンシュタイン.zip
 - ビジュアル思考大全 問題解決のアイデアが湧き出る 37 の技法.zip
 - ファシリテーションの教科書.zip #マネジメント #100冊候補
@@ -76,8 +76,8 @@
 - 三体.zip
 - 伝わるデザインの基本 増補改訂 3 版 よい資料を作るためのレイアウトのルール.zip #文章 #100冊候補
 - 作りながら学ぶ Web プログラミング実践入門.zip
-- 医療 AI とディープラーニングシリーズ 2020-2021 年版 標準 医用画像のためのディープラーニング-入門編-.zip
-- 医療 AI とディープラーニングシリーズ 2021-2022 年版 標準 医用画像のためのディープラーニング-実践編-.zip
+- 医療 AI とディープラーニングシリーズ 2020-2021 年版 標準 医用画像のためのディープラーニング-入門編-.zip #技術/AI
+- 医療 AI とディープラーニングシリーズ 2021-2022 年版 標準 医用画像のためのディープラーニング-実践編-.zip #技術/AI
 - 取材・執筆・推敲―――書く人の教科書.zip #文章 #100冊候補
 - 図解即戦力 IoT 開発がこれ 1 冊でしっかりわかる教科書.zip
 - 図解即戦力 勘定科目と仕訳がこれ 1 冊でしっかりわかる本.zip
@@ -87,10 +87,10 @@
 - 実力も運のうち 能力主義は正義か？.zip #教養 #100冊候補
 - 弁護士が教える IT 契約の教科書.zip
 - 思考法図鑑 ひらめきを生む問題解決・アイデア発想のアプローチ 60.zip
-- 新世代 Java プログラミングガイド［Java SE 10_11_12_13 と言語拡張プロジェクト］.zip
+- 新世代 Java プログラミングガイド［Java SE 10_11_12_13 と言語拡張プロジェクト］.zip #技術/プログラミング #Java
 - 日本人が世界一になるためのサッカーゆるトレーニング 55.zip #スポーツ/サッカー
-- 暗号技術のすべて.zip
-- 暗号技術入門 第 3 版 秘密の国のアリス.zip
+- 暗号技術のすべて.zip #技術/セキュリティ
+- 暗号技術入門 第 3 版 秘密の国のアリス.zip #技術/セキュリティ
 - 東京大学のデータサイエンティスト育成講座.zip
 - 欲望の錬金術.zip
 - 民主主義とは何か.zip #教養 #100冊候補
@@ -103,14 +103,14 @@
 # 同人誌
 
 - [{iro}2]OCRE_No002_C101_NFT.pdf
-- [@Tomokazu106]Goで始めるBitcoin.pdf
+- [@Tomokazu106]Goで始めるBitcoin.pdf #技術/プログラミング #Go
 - [#個人開発のあれこれ]2022年度版FirebaseFirestore最新情報&実践Stripeサブスクリプション実装.pdf
 - [2020SecHack365]2020SecHack365文芸部部誌　年越し号.pdf
 - [2x3dimensions]Fintechで儲かりたい！- 入門編 -.pdf
 - [418 I'm a teapot]開発者のためのJulia言語入門_pass_j9dmt5ax.pdf
 - [418 I'm a teapot]開発者のためのJulia言語入門.pdf
-- [74th]VS Code Dev Container Guidebook no font 開発環境はすべてコンテナの中へ.pdf
-- [74th]VS Code Dev Container Guidebook 開発環境はすべてコンテナの中へ.pdf
+- [74th]VS Code Dev Container Guidebook no font 開発環境はすべてコンテナの中へ.pdf #技術/インフラ
+- [74th]VS Code Dev Container Guidebook 開発環境はすべてコンテナの中へ.pdf #技術/インフラ
 - [74th]VS Code デバッグ技術 2nd edition.pdf
 - [8pockets]はじめてのhttp2.pdf
 - [９号研究室]その新人研修はヤバくないですか？.pdf
@@ -127,63 +127,63 @@
 - [bearkoベアコ @ブロックチェーンゲーマー]マイクリプトヒーローズ解体新書【龍の巻】.pdf
 - [blastengine]メールを取り巻くテクノロジー.pdf
 - [c.9]WebAssemblyで出来ること.pdf
-- [C++全く分からん]C++プログラム高速化のための知識と計測.epub
-- [C++全く分からん]C++プログラム高速化のための知識と計測.zip
-- [C++全く分からん]仕事でやるC++高速化.pdf
+- [C++全く分からん]C++プログラム高速化のための知識と計測.epub #技術/プログラミング #Cpp
+- [C++全く分からん]C++プログラム高速化のための知識と計測.zip #技術/プログラミング #Cpp
+- [C++全く分からん]仕事でやるC++高速化.pdf #技術/プログラミング #Cpp
 - [CANDY CHUPS Lab.]ケーキ屋さん経営でわかるReactRedux～改訂版～.pdf
 - [castaneai]Google App Engine Webアプリ開発入門.pdf
 - [castaneai]よくわかるgRPC.pdf
 - [chipcodesign]フリーフォントだけで作る同人誌デザイン.pdf
 - [ContractS株式会社開発部]Holmes Tech Book.pdf
-- [Cryptomycocolacales]C++ 集成体 第2版.pdf
-- [Cryptomycocolacales]C++20 コア言語機能.pdf
-- [Cryptomycocolacales]C++標準的インターフェース.pdf
-- [Cryptomycocolacales]ゲーム開発者のためのC++11～C++20 技術書典10 Ver.epub
-- [Cryptomycocolacales]ゲーム開発者のためのC++11～C++20 技術書典10 Ver.pdf
-- [dayjournal]JavaScriptではじめるWebマップアプリケーション.pdf
-- [dayjournal]Pythonではじめるマップアプリケーションプラグイン.pdf
-- [Develup]VMとコンテナで作るポータブルネットワークシミュレーター.pdf
-- [Develup]パケットキャプチャで見てみようMySQLデッドロック編.pdf
+- [Cryptomycocolacales]C++ 集成体 第2版.pdf #技術/プログラミング #Cpp
+- [Cryptomycocolacales]C++20 コア言語機能.pdf #技術/プログラミング #Cpp
+- [Cryptomycocolacales]C++標準的インターフェース.pdf #技術/プログラミング #Cpp
+- [Cryptomycocolacales]ゲーム開発者のためのC++11～C++20 技術書典10 Ver.epub #技術/プログラミング #Cpp
+- [Cryptomycocolacales]ゲーム開発者のためのC++11～C++20 技術書典10 Ver.pdf #技術/プログラミング #Cpp
+- [dayjournal]JavaScriptではじめるWebマップアプリケーション.pdf #技術/プログラミング #JavaScript
+- [dayjournal]Pythonではじめるマップアプリケーションプラグイン.pdf #技術/プログラミング #Python
+- [Develup]VMとコンテナで作るポータブルネットワークシミュレーター.pdf #技術/インフラ
+- [Develup]パケットキャプチャで見てみようMySQLデッドロック編.pdf #技術/データベース
 - [DevRel Meetup]マンガで分かるDevRel_4C.pdf
 - [DevRel Meetup]マンガで分かるDevRel.pdf
 - [DX Labo]マスタリングDX 入門編.pdf
 - [Elements有志]ELEMENTS Tech Book.epub
 - [Elements有志]ELEMENTS Tech Book.pdf
 - [ENGINY]エンジニアのための英単語辞書.pdf #マネジメント #100冊候補 #英語
-- [ENGINY]初心者による初心者のためのFlutter詳解.pdf
+- [ENGINY]初心者による初心者のためのFlutter詳解.pdf #技術/プログラミング #Dart
 - [erefy-s]みんなで叩いてみたPWAへの入門の扉.pdf
 - [feb19]App Recipe Book 「体重管理アプリ」 モバイルアプリ DIY レシピ.pdf
 - [feb19]Figma Developers Book - Web REST API + Plugin 開発入門.pdf
 - [feb19]Google Fit Book for Beginners 〜Google Fit 開発入門〜.pdf
 - [FireStarter]Practicable Firebase.pdf
-- [FireStarter]Testable Firebase.pdf #テスト #100冊候補
-- [fkuMnk]僕のGCPのリモートコンピューティングで動画配信するヤバイやつ.pdf
+- [FireStarter]Testable Firebase.pdf #技術/テスト #100冊候補
+- [fkuMnk]僕のGCPのリモートコンピューティングで動画配信するヤバイやつ.pdf #技術/クラウド
 - [flightbooks]Markdownで技術同人誌を書こう電子版_1.pdf
-- [FlightBooks]セキュリティチェックシートの薄い本.pdf
+- [FlightBooks]セキュリティチェックシートの薄い本.pdf #技術/セキュリティ
 - [Fnow]dabble in..Extraedition_OpenShift.pdf
 - [Fnow]Operating System Maniacs 4.0（Free）.pdf
 - [Fnow]Operating System Maniacs Version7.5.pdf
-- [FREES]ゆかちゃんは学びたい！！【チャットノベル式】Go言語入門！！〜Go言語で部活のお悩み解決〜.pdf
+- [FREES]ゆかちゃんは学びたい！！【チャットノベル式】Go言語入門！！〜Go言語で部活のお悩み解決〜.pdf #技術/プログラミング #Go
 - [G.C.M Records]クリエーターのためのツール・ガジェットによる自己操縦術.pdf
 - [GO Inc. テックブック部（MoT Lab）]THE TECH BOOK Vol.3 by GO Inc..pdf
 - [Goodpatch Inc.]ブックパッチ vol.4.pdf
 - [hachi]Rails のコードを読む.pdf
-- [hirax]PythonやJupyterでiPhone_iPad先端機能を簡単･自由にプログラミング！「活用篇（前編）」.pdf
-- [hirax]PythonやJupyterでiPhone_iPad先端機能を簡単･自由にプログラミング！「土台篇（後編）」.pdf
+- [hirax]PythonやJupyterでiPhone_iPad先端機能を簡単･自由にプログラミング！「活用篇（前編）」.pdf #技術/プログラミング #Python
+- [hirax]PythonやJupyterでiPhone_iPad先端機能を簡単･自由にプログラミング！「土台篇（後編）」.pdf #技術/プログラミング #Python
 - [igaiga.rb && becolomochi]Railsの教科書.pdf
 - [ik-fib]SSH Handbook.pdf
-- [InfosysAdviser]スタートアップ・中小企業の情シスにお勧めのクラウドサービス使い倒してみた 1.1版.pdf
-- [InfosysAdviser]スタートアップ・中小企業の情シスにお勧めのクラウドサービス使い倒してみた.pdf
+- [InfosysAdviser]スタートアップ・中小企業の情シスにお勧めのクラウドサービス使い倒してみた 1.1版.pdf #技術/クラウド
+- [InfosysAdviser]スタートアップ・中小企業の情シスにお勧めのクラウドサービス使い倒してみた.pdf #技術/クラウド
 - [Japan Couchbase Users Group]エッジコンピューティングプラットフォームCouchbase Mobileファーストステップガイド.pdf
 - [Just1factory]iOSアプリ開発「UI実装であると嬉しいレシピブック おもしろ編」.pdf
 - [Just1factory]UI実装であると嬉しいレシピブックのおまけ.pdf
-- [k-abe]CからRustにモータ制御ロジックを移植する.pdf
+- [k-abe]CからRustにモータ制御ロジックを移植する.pdf #技術/プログラミング #Rust
 - [k-abe]EVカートで始めるモデルベース開発.pdf
 - [k-abe]GCC開発環境構築入門(EVカート編).pdf
 - [k-abe]Spresenseデジタルカメラ開発.pdf
 - [k2wanko]Web開発者のためのFirebase（電子書籍）.epub
 - [k2wanko]Web開発者のためのFirebase（電子書籍）.pdf
-- [ka'sらぼ]Pythonで始めるテストツール製作 Menu Based CLI編.pdf
+- [ka'sらぼ]Pythonで始めるテストツール製作 Menu Based CLI編.pdf #技術/プログラミング #Python
 - [KLab 株式会社]KLab Tech Book Vol. 11.pdf
 - [KLab 株式会社]KLabTechBook_Vol1.pdf
 - [KLab 株式会社]KLabTechBook_Vol10.pdf
@@ -195,40 +195,40 @@
 - [KLab 株式会社]KLabTechBook_Vol7.pdf
 - [KLab 株式会社]KLabTechBook_Vol8.pdf
 - [KLab 株式会社]KLabTechBook_Vol9.pdf
-- [KOS-MOS]クラウド破産を回避するInfrastructure as Code実践ガイド.zip
+- [KOS-MOS]クラウド破産を回避するInfrastructure as Code実践ガイド.zip #技術/クラウド
 - [KTecks]エンジニア魂_vol.1.pdf
 - [kuluna.class]チームでつくるRESTful API v2.0.epub
 - [kuluna.class]チームでつくるRESTful API v2.0.pdf
-- [Kurun-books]Flutter アーキテクチャ ガイド （第3版）.pdf
-- [Lebexc]Flutter Widget解説_B5_電子版.epub
+- [Kurun-books]Flutter アーキテクチャ ガイド （第3版）.pdf #技術/プログラミング #Dart
+- [Lebexc]Flutter Widget解説_B5_電子版.epub #技術/プログラミング #Dart
 - [Liquid有志]はじめてのeKYC.epub
 - [Liquid有志]はじめてのeKYC.pdf
-- [lxc-jp]Linux Container Book (1) Namespace  Network 編.pdf
-- [lxc-jp]Linux Container Book (2) cgroup v1 編.pdf
+- [lxc-jp]Linux Container Book (1) Namespace  Network 編.pdf #技術/インフラ
+- [lxc-jp]Linux Container Book (2) cgroup v1 編.pdf #技術/インフラ
 - [mican juice.]図でざっくり分かるWEBフロントエンドの歴史本.pdf
-- [minami1389]Java To Kotlin To Better Kotlin Handbook dlcard pass kot_kot_kotlin_11.pdf
-- [minami1389]Java to Kotlin to better Kotlin Handbook_パス解除.pdf
-- [MishProto]QUICの参考書―ゼロから作るRust言語による実装解説―Initial Packet編.pdf
-- [mochikoAsTech]AWSをはじめよう_電子書籍版_v02.pdf
+- [minami1389]Java To Kotlin To Better Kotlin Handbook dlcard pass kot_kot_kotlin_11.pdf #技術/プログラミング #Java #Kotlin
+- [minami1389]Java to Kotlin to better Kotlin Handbook_パス解除.pdf #技術/プログラミング #Java #Kotlin
+- [MishProto]QUICの参考書―ゼロから作るRust言語による実装解説―Initial Packet編.pdf #技術/プログラミング #Rust
+- [mochikoAsTech]AWSをはじめよう_電子書籍版_v02.pdf #技術/クラウド
 - [mochikoAsTech]DNSをはじめよう_改訂第2版.pdf
 - [mochikoAsTech]Gitのサブモジュールで困ったら読む本.pdf
 - [mochikoAsTech]SSLをはじめよう ～「なんとなく」から「ちゃんとわかる！」へ～.pdf
 - [MoT Lab]Mobility Technologiesアーキテクチャー全て_v1.0.3_見開きページ.pdf
 - [MoT Lab]Mobility Technologiesアーキテクチャー全て_v1.0.3.pdf
 - [MoT Lab]Tech It Up Vol.2 by Mobility Technologies.pdf
-- [mr-csce]作って学ぶルーティングプロトコル〜RustでBGPを実装〜.pdf
-- [mtskhs]Firestore Testing −なぜテストを書くのか、どう書くのかがよくわかる！−.pdf #テスト #100冊候補
-- [mystt]Kotlinになって変わったプログラムの書き方.pdf
+- [mr-csce]作って学ぶルーティングプロトコル〜RustでBGPを実装〜.pdf #技術/プログラミング #Rust
+- [mtskhs]Firestore Testing −なぜテストを書くのか、どう書くのかがよくわかる！−.pdf #技術/テスト #100冊候補
+- [mystt]Kotlinになって変わったプログラムの書き方.pdf #技術/プログラミング #Kotlin
 - [MZ工房]リクガメ監視システムの作り方1,2,3!.pdf
 - [MZ工房]猫エサ監視システムの作り方.pdf
 - [N4+]改訂版 実践で学ぶ！Electron+Vue.jsでデスクトップアプリ開発.pdf
 - [Nikkei Engineer Team]Nikkei Development Book vol3 pass SbLbDGQcDhG8.pdf
 - [Nikkei Engineer Team]Nikkei Development Book vol3 パス解除.pdf
-- [NISC]情報セキュリティハンドブック.pdf
+- [NISC]情報セキュリティハンドブック.pdf #技術/セキュリティ
 - [noraneco]curlコマンド完全に理解する.pdf
 - [Nostr Idol Project]Hello Nostr! 先住民が教えるNostrの歩き方.pdf
-- [NRUG-SREs]俺たちのSREとNew Relic -書籍編-.pdf
-- [NTTテクノクロス株式会社]ゼロから始めるFlutterアプリ開発入門 .pdf
+- [NRUG-SREs]俺たちのSREとNew Relic -書籍編-.pdf #技術/インフラ
+- [NTTテクノクロス株式会社]ゼロから始めるFlutterアプリ開発入門 .pdf #技術/プログラミング #Dart
 - [NTTテクノクロス株式会社]宣言的UIアプリ開発食べくらべ.pdf
 - [O'CREILLY]厳選 お蔵入り OCREILLY_ChoTBF2017.pdf
 - [O'CREILLY]初めてのお蔵入り.pdf
@@ -239,7 +239,7 @@
 - [OHK]Amazon Web Servicesコスト最適化入門 第2版.epub
 - [OHK]Amazon Web Servicesコスト最適化入門 第2版.pdf
 - [pearbook]マンガでわかるコンピュータの歴史.pdf
-- [pearbook]マンガでわかるネットワークの歴史.pdf
+- [pearbook]マンガでわかるネットワークの歴史.pdf #技術/インフラ
 - [pentapod]CSSで始める同人誌作成.zip
 - [Personal Factory]ハーフモーダルで理解するFluid Interface.pdf
 - [PianoRobot]デジタル省 創設  デジタル社会に向けた人類の過去・現在・未来.pdf
@@ -249,22 +249,22 @@
 - [radiberry pi!]radiberry pi!ラジオ録音マニュアル.pdf
 - [rust-lang-ja]rustbook-ja-c94.zip
 - [saltforest]ドメインイベント作るイベント駆動設計.pdf
-- [SatisFactory]【増補版】Flutter実践　- 現場で使える80の定石 -.pdf
-- [SatisFactory]Flutter入門 - 簡易フレームワークを作る -.pdf
+- [SatisFactory]【増補版】Flutter実践　- 現場で使える80の定石 -.pdf #技術/プログラミング #Dart
+- [SatisFactory]Flutter入門 - 簡易フレームワークを作る -.pdf #技術/プログラミング #Dart
 - [SaveOurServers.io]ActiveDirectoryの歩き方.pdf
-- [SG Rails]コードレビューで学ぶ Ruby on Rails.pdf
-- [SGE.go]SGE Go Tech Book Vol.02.pdf
-- [SGE.go]SGE Go Tech Book Vol.03.pdf
-- [SGE.go]SGE Go Tech Book.pdf
-- [shonansurvivors]TerraformでFargateを構築してGitHub Actionsでデプロイ！Laravel編.pdf
+- [SG Rails]コードレビューで学ぶ Ruby on Rails.pdf #技術/プログラミング #Ruby
+- [SGE.go]SGE Go Tech Book Vol.02.pdf #技術/プログラミング #Go
+- [SGE.go]SGE Go Tech Book Vol.03.pdf #技術/プログラミング #Go
+- [SGE.go]SGE Go Tech Book.pdf #技術/プログラミング #Go
+- [shonansurvivors]TerraformでFargateを構築してGitHub Actionsでデプロイ！Laravel編.pdf #技術/インフラ
 - [SIGCOWW]COSMICレイヤゼロSP1.epub
 - [SIGCOWW]COSMICレイヤゼロSP1.pdf
-- [Southern Paradise]GRIMOIRE インフラ系チートシート集 ver.α.pdf
-- [SOZO人(ZINE)]JavaScriptでいきなり機械学習を遊び倒す本.pdf
-- [SOZO人(ZINE)]JavaScriptでスクリーンキャストのアプリを開発する本.pdf
+- [Southern Paradise]GRIMOIRE インフラ系チートシート集 ver.α.pdf #技術/インフラ
+- [SOZO人(ZINE)]JavaScriptでいきなり機械学習を遊び倒す本.pdf #技術/AI #JavaScript
+- [SOZO人(ZINE)]JavaScriptでスクリーンキャストのアプリを開発する本.pdf #技術/プログラミング #JavaScript
 - [techbito]Power Automate ではじめるローコード開発サバイバルガイド.pdf
 - [TechBooster]24_Edge_of_Android_8.pdf
-- [TechBooster]25_JavaScriptoon3.pdf
+- [TechBooster]25_JavaScriptoon3.pdf #技術/プログラミング #JavaScript
 - [TechBooster]27_FirstStepReVIEW.pdf
 - [TechBooster]30_Androidモダンプログラム.pdf
 - [TechBooster]31_nowandfuture.pdf
@@ -273,10 +273,10 @@
 - [TechBooster]35_TechBooster.pdf
 - [TechBooster]39_みんな気になるAndroid開発の最新事情.pdf
 - [TechBooster]42_Compose Recette アプリ開発の新スタンダードを学ぼう.pdf
-- [TORINOSU]手編みと手織りとAI手芸.pdf
+- [TORINOSU]手編みと手織りとAI手芸.pdf #技術/AI
 - [TRIVE GROUP技術書典部]ゼロから始めるデザインシステム.pdf
 - [Unity入門の森]unity初心者は何から始める？ 60分で簡単に作れるビリヤードゲーム講座.pdf
-- [URAMASU]Elixirへのいざない ネイティブアプリを錬金しよう（Free版）.pdf
+- [URAMASU]Elixirへのいざない ネイティブアプリを錬金しよう（Free版）.pdf #技術/プログラミング #Elixir
 - [wanderer]実践 Vue.jsでスマホ アプリをつくろう.pdf
 - [Wantedly執筆部]Wantedly Engineering Handbook.pdf
 - [Wantedly執筆部]Wantedly-TechBook1.epub
@@ -303,71 +303,71 @@
 - [Wantedly執筆部]Wantedly-TechBook11.pdf
 - [Wantedly執筆部]WANTEDLY-TECHBOOK12.epub
 - [Wantedly執筆部]WANTEDLY-TECHBOOK12.pdf
-- [web-apps.tech]詳解Go標準パッケージ.pdf #プログラミング #100冊候補
-- [web-apps.tech]詳解Go標準パッケージ2.pdf
+- [web-apps.tech]詳解Go標準パッケージ.pdf #技術/プログラミング #100冊候補 #Go
+- [web-apps.tech]詳解Go標準パッケージ2.pdf #技術/プログラミング #Go
 - [Webサービス作り隊]マッチングサービスを開発したら大失敗したのでその理由を解説してみた.pdf
-- [Women Who Go Tokyo]Go Starter Book.pdf
-- [Women Who Go Tokyo]Goでちょっとひといき.pdf
+- [Women Who Go Tokyo]Go Starter Book.pdf #技術/プログラミング #Go
+- [Women Who Go Tokyo]Goでちょっとひといき.pdf #技術/プログラミング #Go
 - [XRWG]XR関連WG TECHBOOK.pdf
-- [yuuu]AWS Amplifyで作るIoTバックエンド.pdf
-- [ZENKEI AI FORUM]ゼロからはじめるAI.pdf
+- [yuuu]AWS Amplifyで作るIoTバックエンド.pdf #技術/クラウド
+- [ZENKEI AI FORUM]ゼロからはじめるAI.pdf #技術/AI
 - [Zli]Zli TechBook Vol.4.pdf
 - [あいらぶ量子コンピュータ]高校数学からはじめる量子コンピュータ.pdf
 - [あいらぶ量子コンピュータ]高校数学からはじめる量子コンピュータ2.pdf
 - [あじゃりこ開発]血液型ABO式　アジャイルチームの作り方.pdf
 - [アトリヱ未來]Middlemanで樂しく創るウェブサイト.pdf
-- [アライとウマカツ]クラウドネイティブファーストストーリー.pdf
-- [あらど島]React×TypeScriptから始めるD3.js.pdf
+- [アライとウマカツ]クラウドネイティブファーストストーリー.pdf #技術/クラウド
+- [あらど島]React×TypeScriptから始めるD3.js.pdf #技術/プログラミング #TypeScript
 - [いしかわきょーすけ]中国の大型書店に行けないので通販で中文書籍を購入してみた2.pdf
-- [いずれこの技術が滅びるとしても]初心者でもできるWAF構築とペネトレーションテスト.pdf
-- [いずれこの技術が滅びるとしても]情報セキュリティをはじめましょう 第二版.pdf
+- [いずれこの技術が滅びるとしても]初心者でもできるWAF構築とペネトレーションテスト.pdf #技術/セキュリティ
+- [いずれこの技術が滅びるとしても]情報セキュリティをはじめましょう 第二版.pdf #技術/セキュリティ
 - [いずれこの技術が滅びるとしても]飛行機操縦教育の教科書.pdf
 - [いのべこ]アドベントカレンダーはじめました。.pdf
 - [いのべこ]いのべこたちの自由な夏休みはどこまでも。.pdf
 - [いのべこ]いのべこの夏休みは、自由研究三昧。.pdf
 - [いのべこ]進め！いのべこアドカレ冬の陣.pdf
-- [イモに聞け]JavaScript徹底攻略 関数 付録圏論についての補足.pdf
-- [イモに聞け]JavaScript徹底攻略 非同期処理 Promise,asyncawaitの仕組みと使い方.pdf
-- [イモに聞け]JavaScript徹底攻略 変数.pdf
-- [イモに聞け]素のJavaScriptによる実践オブジェクト指向.pdf
+- [イモに聞け]JavaScript徹底攻略 関数 付録圏論についての補足.pdf #技術/プログラミング #JavaScript
+- [イモに聞け]JavaScript徹底攻略 非同期処理 Promise,asyncawaitの仕組みと使い方.pdf #技術/プログラミング #JavaScript
+- [イモに聞け]JavaScript徹底攻略 変数.pdf #技術/プログラミング #JavaScript
+- [イモに聞け]素のJavaScriptによる実践オブジェクト指向.pdf #技術/プログラミング #JavaScript
 - [エゥーゴ]ライブラリを作ろう.pdf
 - [えがら家]RecalBoxでレトロPCを遊ぶ準備号.pdf
 - [エンジニアの登壇を応援する会]エンジニアの成長を応援する本.zip
 - [エンジニアの登壇を応援する会]エンジニアの成長を応援する本2.pdf
-- [エンジニア登山部]Goのポインタを完全に理解する本.pdf
+- [エンジニア登山部]Goのポインタを完全に理解する本.pdf #技術/プログラミング #Go
 - [おとうふ工房]まんがではじめるGitOps.pdf
-- [おれさまラボ]セキュリティ、わからん.pdf
-- [かいていどうくつ]Kubernetesの単語帳.pdf
-- [カウプラン機関極東支部]Pythonの黒魔術.pdf
-- [カエルと空]Google Cloud Platformで学ぶTerraform 〜基礎編〜_20200912_v1.0.0.zip
-- [カエルと空]Google Cloud Platformで学ぶTerraform 〜実践編〜_20201226_v1.0.0.zip
-- [からふるぼーど]実践マニアックテスト　WebiOSAndroid編.pdf #テスト #100冊候補
+- [おれさまラボ]セキュリティ、わからん.pdf #技術/セキュリティ
+- [かいていどうくつ]Kubernetesの単語帳.pdf #技術/インフラ
+- [カウプラン機関極東支部]Pythonの黒魔術.pdf #技術/プログラミング #Python
+- [カエルと空]Google Cloud Platformで学ぶTerraform 〜基礎編〜_20200912_v1.0.0.zip #技術/クラウド #技術/インフラ
+- [カエルと空]Google Cloud Platformで学ぶTerraform 〜実践編〜_20201226_v1.0.0.zip #技術/クラウド #技術/インフラ
+- [からふるぼーど]実践マニアックテスト　WebiOSAndroid編.pdf #技術/テスト #100冊候補
 - [きんとーん・らぼ]REACT ＆ REST API.epub
-- [きんとーん・らぼ]俺の自由研究 - ChatGPT×kintoneでダブルDX！‐.pdf
+- [きんとーん・らぼ]俺の自由研究 - ChatGPT×kintoneでダブルDX！‐.pdf #技術/AI
 - [きんとーん・らぼ]俺の自由研究_Vuejsで始めるポータルカスタマイズ.epub
 - [きんとーん・らぼ]絶品！kintone餃子.pdf
 - [クッキーの日記]NeurIPS 2021 にみる 最近のニューラル系列モデルへの発見・工夫・理解 未完成ドラフト.pdf
 - [クックパッド執筆部]Cookpad Tech Book v1_0_0.pdf
 - [グミとおばけ博士]四則演算と簡単な図形だけで数学が苦手な人に三角関数を教える本.pdf
-- [くるみ割り書房]りあクト！1_TypeScriptで始めるつらくないReact開発.pdf
-- [くるみ割り書房]りあクト！2_TypeScriptで極める現場のReact開発.pdf
-- [くるみ割り書房]りあクト！3_Firebaseで始めるサーバーレスReact開発.pdf
+- [くるみ割り書房]りあクト！1_TypeScriptで始めるつらくないReact開発.pdf #技術/プログラミング #TypeScript
+- [くるみ割り書房]りあクト！2_TypeScriptで極める現場のReact開発.pdf #技術/プログラミング #TypeScript
+- [くるみ割り書房]りあクト！3_Firebaseで始めるサーバーレスReact開発.pdf #技術/クラウド
 - [くろすてっく]RPA Pattern.pdf
 - [げぐはつ書房]Tailwind CSS まとめ Advanced！新世界へ.pdf
 - [げぐはつ書房]Tailwind CSS まとめ v3.0対応版.pdf
-- [こたうち企画]REST APIのための自動テストの実践 アジリティのためのテスト・アーキテクチャ.pdf #テスト #100冊候補
+- [こたうち企画]REST APIのための自動テストの実践 アジリティのためのテスト・アーキテクチャ.pdf #技術/テスト #100冊候補
 - [コテツ商会]MacではじめるSTM32 Lite M1 Mac版.pdf
 - [こはくのランプ]Starting Cilium.pdf
 - [コピペテック]ネコでもわかるSalesforceアクセス権限について.pdf
 - [ザ・シメサバズ]PWA を Google Play Storeに公開するハンズオン.pdf
 - [ザ・シメサバズ]個人Webサービスシステム構成事典_20200910.pdf
-- [さきさん文庫]APIを作りながら進むGo中級者への道.pdf
+- [さきさん文庫]APIを作りながら進むGo中級者への道.pdf #技術/プログラミング #Go
 - [さわら]Auth0によるSaaS開発ガイド.pdf
 - [シーホーちゃんとゆかいな仲間たち]Firebase Authenticationなら多分これが一番早いと思います.pdf
 - [シーホーちゃんとゆかいな仲間たち]検索だけじゃないElasticsearch入門+.pdf
 - [シーホーちゃんとゆかいな仲間たち]私が書いてきた・⾒てきた・聞いてきたプログラミングアンチパターン.pdf
 - [しおだいふく]Nuxt + Firebase 捨てられるWebアプリケーション設計.pdf
-- [じゅ～しぃ～すくりぷと]はじめてのDocker & SageMaker　実運用のための一歩先の機械学習.pdf
+- [じゅ～しぃ～すくりぷと]はじめてのDocker & SageMaker　実運用のための一歩先の機械学習.pdf #技術/インフラ #技術/AI
 - [じょいとも]プログラマーのための技術者列伝.pdf
 - [じょいとも]プログラマーのための技術者列伝2.pdf
 - [じょいとも]プログラマーのための技術者列伝３.pdf
@@ -377,12 +377,12 @@
 - [しょぼんブログ]ゼロからはじめるWindows 11 デバイス展開.pdf
 - [シン・オブジェクト倶楽部]わかるかも！？ ドメイン駆動設計  はじめの一歩.pdf
 - [ジンギスカン同盟]IoTプラットフォームの勘どころ.pdf
-- [スクワットWADDY]AWS REST API と Angular SPA によるサーバーレスアプリケーション実装例と設計指針_TypeScript.pdf
+- [スクワットWADDY]AWS REST API と Angular SPA によるサーバーレスアプリケーション実装例と設計指針_TypeScript.pdf #技術/クラウド #TypeScript
 - [すべてがM(icro)になる]Microservices architecture よろず本 その一＆その二.pdf
 - [すべてがM(icro)になる]Microservices architecture よろず本 その三.pdf
 - [すべてがM(icro)になる]OpenAPI 3を完全に理解できる本 3.0.3対応版.pdf
 - [スマートマキアート]裁判 ～個人事業主として株式会社に民事訴訟を起こして事実上勝訴した話～.pdf
-- [すらりんラボ]手軽に使う Docker の本.pdf
+- [すらりんラボ]手軽に使う Docker の本.pdf #技術/インフラ
 - [そねお書店]IBM QとBlueqatでゼロから始める量子コンピュータ.pdf
 - [ダブルピース文庫]公務員の文書改竄防止システムをブロックチェーンで作ってみた.pdf
 - [タムコム]業務システムのつくりかた 非エンジニアのためのシステム設計論.pdf
@@ -393,7 +393,7 @@
 - [てきとうなサークル]自由ソフトウェア、オープンソースと新冷戦.pdf
 - [とっしんの会]とっしん本.pdf
 - [とまと屋]FlexboxとGrid Layoutを使ったCSSレイアウト入門.epub
-- [とまと屋]作って学ぶ、FlutterとFirebaseを使ったアプリ開発.pdf
+- [とまと屋]作って学ぶ、FlutterとFirebaseを使ったアプリ開発.pdf #技術/プログラミング #Dart
 - [とまと屋]入門 Riverpod.epub
 - [なんでもトークン]2020年のブロックチェーン.pdf
 - [なんでもトークン]NFTをシステムに組み込む.pdf
@@ -401,20 +401,20 @@
 - [ニフティ]ニフティのスクラム.pdf
 - [ねこじょーかー]猫でもわかるBlazor入門_ver1.1.pdf
 - [ねこはうす]ねこはうす通信準備号_第二版.pdf
-- [ねこはうす]マンガでわかるかもしれないAzureのはじめ方！？.pdf
-- [ねこはうす]マンガでわかるかもしれないGCPのそこそこうすい本.pdf
-- [ねこはうす]絶対に？！すべらないAWSのおはなし.pdf
+- [ねこはうす]マンガでわかるかもしれないAzureのはじめ方！？.pdf #技術/クラウド
+- [ねこはうす]マンガでわかるかもしれないGCPのそこそこうすい本.pdf #技術/クラウド
+- [ねこはうす]絶対に？！すべらないAWSのおはなし.pdf #技術/クラウド
 - [ノンプログラマーのためのスキルアップ研究会]ノーコード・ローコードで作る！QRを使った『じゃがいも収穫管理アプリ』の作り方.pdf
 - [ばぐばぐ]コードメトリクスからコード品質を確保する話_rev04.pdf
-- [ひかる黄金わかめ帝国]Goの次期標準 構造化ログ slog解説.pdf
+- [ひかる黄金わかめ帝国]Goの次期標準 構造化ログ slog解説.pdf #技術/プログラミング #Go
 - [ひたひた]WebAssemblyテキストフォーマットで読み解くコンピューティングの未来.epub
 - [ひたひた]WebAssemblyテキストフォーマットで読み解くコンピューティングの未来.pdf
-- [ビットバンク株式会社]Practical TypeScript in bitbank.pdf
+- [ビットバンク株式会社]Practical TypeScript in bitbank.pdf #技術/プログラミング #TypeScript
 - [ひのまる呉服店]クリエイターおよび万人のための　売れる！　色彩学マニュアル.pdf
 - [ふぃーるどのーつ]sweetmusic-vol1-2.pdf
 - [ふぃーるどのーつ]sweetmusic-vol3.pdf
-- [フォージビジョン]TypeScriptでAPI開発(Nest公式ドキュメント翻訳).pdf
-- [フォーレストーン]Flutter で作るアプリとゲームの融合 _ 電卓騎士の開発Tips _.pdf
+- [フォージビジョン]TypeScriptでAPI開発(Nest公式ドキュメント翻訳).pdf #技術/プログラミング #TypeScript
+- [フォーレストーン]Flutter で作るアプリとゲームの融合 _ 電卓騎士の開発Tips _.pdf #技術/プログラミング #Dart
 - [フローライト]ハードウェアエンジニアのための中国語入門.pdf
 - [プロジェクトマネージャ保護者会]「考える」考えかた ～個人にもチームにも効く思考プロセス～.pdf
 - [プロジェクトマネージャ保護者会]アジャイルな強いチームを作る チームビルディング超実践ガイド.pdf
@@ -428,7 +428,7 @@
 - [へにゃぺんて]バイナリ生物学入門.pdf
 - [ペンギンエクスプレス]交通とUI_Vol1.pdf
 - [ホロラボ技術書部]ホロらぼん Vol.01.pdf
-- [まぐろのみぞおち]RDBエンジニアでもできる！MongoDBの構築と運用入門.pdf
+- [まぐろのみぞおち]RDBエンジニアでもできる！MongoDBの構築と運用入門.pdf #技術/インフラ
 - [まこソフト]だまこソフト NOW! vol.3.pdf
 - [まねふぉ執筆部]Money Forward TechBook #6.pdf
 - [まねふぉ執筆部]moneyforward_techbook_1.pdf
@@ -446,12 +446,12 @@
 - [めりくる]おためし！リアルタイム音声認識.pdf
 - [モウフカブール]ぼくのCtrl+Alt+Z Vol2.pdf
 - [モウフカブール]ぼくのCtrl+Alt+Z Vol3.pdf
-- [モウフカブール]作っては捨てる時代の過ごし方〜AWSとdockerを少しずつ取り入れませんかにゃ？.pdf
-- [モザイク研究所]クラウドで始める量子コンピュータ.pdf
+- [モウフカブール]作っては捨てる時代の過ごし方〜AWSとdockerを少しずつ取り入れませんかにゃ？.pdf #技術/クラウド
+- [モザイク研究所]クラウドで始める量子コンピュータ.pdf #技術/クラウド
 - [もちっとカフェ]Word2Vec使い倒しブック～Hello Worldから最近の研究成果まで～.pdf
 - [ヤサイゼリー]がんばらないデータ加工 Rによるくり返し作業入門 前編.pdf
-- [やっすんのエンジニア大学]TypeScriptで始めるServerless入門.pdf
-- [よろず屋H]AWS CodePipelineを使った簡易CMS.epub
+- [やっすんのエンジニア大学]TypeScriptで始めるServerless入門.pdf #技術/プログラミング #TypeScript
+- [よろず屋H]AWS CodePipelineを使った簡易CMS.epub #技術/クラウド
 - [りまりま団]ひよこエンジニアに贈るお仕事サバイバルガイド.pdf
 - [るてんのお部屋]Google Chrome ユーザーデータ自動軽量化Book.zip
 - [るてんのお部屋]Steamゲーム販売参戦記.pdf
@@ -460,17 +460,17 @@
 - [暗黒通信団]Windows10のインストール法 技術書展電子版.pdf
 - [暗黒通信団]究極のモデルについての一考察.pdf
 - [伊勢的新常識]Ride on Updrift with Push Notifications v1.0.1.pdf
-- [井山梃子歴史館]Rustジェネレータ徹底解説.pdf
+- [井山梃子歴史館]Rustジェネレータ徹底解説.pdf #技術/プログラミング #Rust
 - [仮空制御研究室]簡単な二足歩行ロボットの作り方.pdf
 - [加藤家の食卓]誰でもわかる！UXデザイン入門書 導入編.pdf
 - [楽天グループ株式会社ラクマ事業部 DevRelチーム]RAKUMA TECH BOOK Vol.2.pdf
-- [楽描商店]コンテナ時代のWebサービスの作り方_ver_1.pdf
-- [楽描商店]コンテナ時代のWebサービスの作り方_ver_2.epub
-- [楽描商店]コンテナ時代のWebサービスの作り方_ver_2.pdf
+- [楽描商店]コンテナ時代のWebサービスの作り方_ver_1.pdf #技術/インフラ
+- [楽描商店]コンテナ時代のWebサービスの作り方_ver_2.epub #技術/インフラ
+- [楽描商店]コンテナ時代のWebサービスの作り方_ver_2.pdf #技術/インフラ
 - [株式会社ACCESS技術書典同好会]ACCESSテックブック 2.pdf
 - [株式会社ACCESS技術書典同好会]アイのムチ よくないレビューの例とレビューで折れないメンタルづくり.pdf
 - [株式会社MIXI]MIXI TECH NOTE #09.pdf
-- [株式会社インプレス]軽量Alpine LinuxによるDockerコンテナ構築術.pdf
+- [株式会社インプレス]軽量Alpine LinuxによるDockerコンテナ構築術.pdf #技術/インフラ
 - [株式会社ミクシィ]mixi tech note 01.pdf
 - [株式会社ミクシィ]mixi tech note 02.pdf
 - [株式会社ミクシィ]mixi tech note 03.pdf
@@ -487,8 +487,8 @@
 - [関数型玩具製作所]半自動着色読書 (準備号).pdf
 - [虚構遊閑地]CSSのdisplayがみるみる分かる魔法の本.pdf
 - [虚構遊閑地]CSSのpositionabsolute;が怖くなくなる魔法の本.pdf
-- [京姫鉄道出版]マンガ版 こうしす！ セキュリティに完璧を求めるのは間違っているだろうか Part 1-2.epub
-- [京姫鉄道出版]マンガ版 こうしす！ セキュリティに完璧を求めるのは間違っているだろうか Part 3.epub
+- [京姫鉄道出版]マンガ版 こうしす！ セキュリティに完璧を求めるのは間違っているだろうか Part 1-2.epub #技術/セキュリティ
+- [京姫鉄道出版]マンガ版 こうしす！ セキュリティに完璧を求めるのは間違っているだろうか Part 3.epub #技術/セキュリティ
 - [教育心理学を学ぶ会]理論と実践でわかる職場の教育.pdf
 - [極地分析所]Snowflakeのすゝめ.pdf
 - [虎の穴ラボ]虎の穴ラボの薄い本 1.pdf
@@ -500,11 +500,11 @@
 - [虎の穴ラボ]虎の穴ラボの薄い本。vol.7.pdf
 - [虎空棘魚]あつまれ CI サービス　２０２１夏　タダではじめる継続的インテグレーション生活.epub
 - [虎空棘魚]あつまれ CI サービス　２０２１夏　タダではじめる継続的インテグレーション生活.pdf
-- [溝口電子商城]Golangで作るソフトウェアルータ.pdf
+- [溝口電子商城]Golangで作るソフトウェアルータ.pdf #技術/プログラミング #Go
 - [耕作部屋]React チュートリアル以外の開発入門〜CDD・テスト・ビルド〜.pdf
 - [高尾モンキーパーク]GAS Automation Book 正誤表.zip
-- [雑貨屋かさい]直感で生きる人のためのソフトウェア設計.pdf #設計 #100冊候補
-- [若草製作所]デスクトップアプリ開発 WPF(C#)入門 未完成版.pdf
+- [雑貨屋かさい]直感で生きる人のためのソフトウェア設計.pdf #技術/設計 #100冊候補
+- [若草製作所]デスクトップアプリ開発 WPF(C#)入門 未完成版.pdf #技術/プログラミング #CSharp
 - [昭和オヤジの寄合所]やる夫で学ぶReact、Reduxだお・・Redux-toolkit使えんのか？.pdf
 - [情報処理学会]情報処理 特集別刷「2050年の情報処理」.pdf
 - [情報処理学会]情報処理 特集別刷「博士課程進学のメリット・デメリット」.pdf
@@ -513,50 +513,50 @@
 - [親方Project]ワンストップ！ 技術同⼈誌を書こう.pdf
 - [親方Project]ワンストップ見積もり.pdf
 - [進捗大陸]進捗大陸08.pdf
-- [脆弱性診断研究会]OWASP ZAPとCIツールで実践　脆弱性診断自動化（初級編）.pdf
+- [脆弱性診断研究会]OWASP ZAPとCIツールで実践　脆弱性診断自動化（初級編）.pdf #技術/セキュリティ
 - [全日本キャリア教育改善推進協会]一歩を踏み出すときのキャリアヒントブック.pdf
-- [調布技研]色んなところでKubernetesを動かす本.pdf
+- [調布技研]色んなところでKubernetesを動かす本.pdf #技術/インフラ
 - [低レイヤお茶会]C言語のポインタをアセンブリで理解しよう！～RISC-V編～.pdf
-- [低反発]Flutter地獄-広告SDK編.pdf
+- [低反発]Flutter地獄-広告SDK編.pdf #技術/プログラミング #Dart
 - [鉄道同人技術研究所]RTL-SDRとGNURadioによるATS-Pの解析.pdf
-- [鉄道同人技術研究所]改訂 鉄道車両内ネットワークの基礎.pdf
-- [鉄道同人技術研究所]鉄道車両内ネットワークの基礎 UPDATE1.pdf
-- [鉄道同人技術研究所]鉄道車両内ネットワークの基礎 UPDATE2.pdf
-- [電気羊]実装しながら学ぶRSA暗号.pdf
-- [電脳律速]株とPythonでお金儲けを目指す本_はじめのいっぽ編.pdf #金融
-- [電脳律速]株とPythonでお金儲けを目指す本2_つぎのいっぽ編.pdf #金融
-- [杜の都の開発室]5日で構築する！？AWS LambdaとVue.jsでつくる位置情報付きの旅行記録サイト.pdf
+- [鉄道同人技術研究所]改訂 鉄道車両内ネットワークの基礎.pdf #技術/インフラ
+- [鉄道同人技術研究所]鉄道車両内ネットワークの基礎 UPDATE1.pdf #技術/インフラ
+- [鉄道同人技術研究所]鉄道車両内ネットワークの基礎 UPDATE2.pdf #技術/インフラ
+- [電気羊]実装しながら学ぶRSA暗号.pdf #技術/セキュリティ
+- [電脳律速]株とPythonでお金儲けを目指す本_はじめのいっぽ編.pdf #金融 #技術/プログラミング #Python
+- [電脳律速]株とPythonでお金儲けを目指す本2_つぎのいっぽ編.pdf #金融 #技術/プログラミング #Python
+- [杜の都の開発室]5日で構築する！？AWS LambdaとVue.jsでつくる位置情報付きの旅行記録サイト.pdf #技術/クラウド
 - [杜の都の開発室]Cloudflare Workers+Pagesで旅行メモのサイトを作ってみよう！.pdf
-- [杜の都の開発室]Google CloudとGitHub ActionsでPull Request連動環境を作る本.pdf
-- [東京ラビットハウス]JavaScriptで覚える暗号通貨入門‗Bitcoin完全に理解した前編.pdf
+- [杜の都の開発室]Google CloudとGitHub ActionsでPull Request連動環境を作る本.pdf #技術/クラウド
+- [東京ラビットハウス]JavaScriptで覚える暗号通貨入門‗Bitcoin完全に理解した前編.pdf #技術/プログラミング #JavaScript
 - [南関東開発機構]日銀ネットについて調べてみた本（仮）.pdf
 - [猫耳堂]『くいっく』 HTTP3編.pdf
 - [猫耳堂]『くいっく』DATAGRAM編.pdf
 - [猫耳堂]『くいっく』HTTP3編 RFC対応版.pdf
 - [白熊出版会]スターティングgRPC 第2版.pdf
-- [白熊出版会]はじめてのGoコード生成.pdf
+- [白熊出版会]はじめてのGoコード生成.pdf #技術/プログラミング #Go
 - [浜風もっこす]実用的なログの探求.pdf
-- [武田システム]ReactとPythonでAPI販売サービスを作ろう.pdf
-- [萌えるEIT倶楽部]Cloudflare Accessではじめるゼロトラストネットワーク.pdf
+- [武田システム]ReactとPythonでAPI販売サービスを作ろう.pdf #技術/プログラミング #Python
+- [萌えるEIT倶楽部]Cloudflare Accessではじめるゼロトラストネットワーク.pdf #技術/インフラ #技術/セキュリティ
 - [毎日がフライデー]Salesforce Platformという、けっこう使えるアプリ開発基盤を紹介する本_v1.pdf
-- [味噌とんトロ定食]Goで学ぶGoogle Cloud Functions.pdf
-- [味噌とんトロ定食]クラウドオブジェクトストレージサービスの使い方 Google Cloud Storage編.pdf
+- [味噌とんトロ定食]Goで学ぶGoogle Cloud Functions.pdf #技術/クラウド #Go
+- [味噌とんトロ定食]クラウドオブジェクトストレージサービスの使い方 Google Cloud Storage編.pdf #技術/クラウド
 - [味噌とんトロ定食]ゲームが上手にならないから強化学習にチャレンジしてみた.pdf
-- [味噌とんトロ定食]取ろう！GCP Professional Cloud Architect.pdf
-- [味噌とんトロ定食]新卒SE、1年間で機械学習エンジニアを目指す.pdf
-- [湊川あいの、わかば家。]マンガでわかるDocker_技術書典4_電子版.pdf
-- [湊川あいの、わかば家。]マンガでわかるDocker3_AWS編_ダウンロード版_v3.pdf
-- [湊川あいの、わかば家。]マンガでわかるDocker4_Compose編.pdf
+- [味噌とんトロ定食]取ろう！GCP Professional Cloud Architect.pdf #技術/クラウド
+- [味噌とんトロ定食]新卒SE、1年間で機械学習エンジニアを目指す.pdf #技術/AI
+- [湊川あいの、わかば家。]マンガでわかるDocker_技術書典4_電子版.pdf #技術/インフラ
+- [湊川あいの、わかば家。]マンガでわかるDocker3_AWS編_ダウンロード版_v3.pdf #技術/クラウド #技術/インフラ
+- [湊川あいの、わかば家。]マンガでわかるDocker4_Compose編.pdf #技術/インフラ
 - [野良ハック]現場で使える!自動化入門.pdf
 - [野良ハック]図解・実践・ゼロから作るGrafanaはなぜ現場で使えるのか〜オブザーバビリティを体感〜.pdf
 - [薬局ガレリア]ビジネスパーソンのためのお薬・サプリ読本vol.1.pdf
 - [薬局ガレリア]ビジネスパーソンのためのセルフメディケーション読本.pdf
 - [薬局ガレリア]薬局を作ろう.pdf
 - [遊びたがり]Reゼロから始めるSlack Hubot開発.pdf
-- [流しうどん機]再実装 Flutter (1).pdf
-- [流しうどん機]再実装 Flutter (2).pdf
+- [流しうどん機]再実装 Flutter (1).pdf #技術/プログラミング #Dart
+- [流しうどん機]再実装 Flutter (2).pdf #技術/プログラミング #Dart
 - [六本木一丁目のポイントクラブ]DMM PointClub Tech Book #1.pdf
-- [橄欖石庵]ユーザー認証 概括的に学ぶ、クラウドサービス時代のユーザー認証.pdf
+- [橄欖石庵]ユーザー認証 概括的に学ぶ、クラウドサービス時代のユーザー認証.pdf #技術/クラウド
 - [⻯睛舎]エクセル死滅しろ.pdf
 
 # 技術書典15
@@ -565,17 +565,17 @@
 - [AIIT 2023年度 追川プロジェクトチーム]アジャイル開発を体得したい！社会人大学院生７名でチームを組んでSlackBot開発に取り組んでみた.pdf
 - [Auth屋]パスキーのすすめ.pdf
 - [C.9]ご注文はWASIですか.pdf
-- [Dodgson Labs]モデル検査器をつくる〜Goで実装して学ぶ形式手法〜.pdf
+- [Dodgson Labs]モデル検査器をつくる〜Goで実装して学ぶ形式手法〜.pdf #技術/プログラミング #Go
 - [GMOインターネットグループ　エンジニア有志一同]Good Morning #01.pdf
 - [GO Inc. テックブック部]GOアーキテクチャーすべて(2).zip
-- [HiyangerBooks]AWS CloudFormationで作るログ運用と監視システム.pdf
+- [HiyangerBooks]AWS CloudFormationで作るログ運用と監視システム.pdf #技術/クラウド #技術/インフラ
 - [Mariners’ Conference ]Submarine vol.1.pdf
-- [masa_kazama]LLMを解釈・可視化する技術入門.pdf
+- [masa_kazama]LLMを解釈・可視化する技術入門.pdf #技術/AI
 - [Mathematica研究会金町支部]Mathematicaとオブジェクト指向〜世界を記述するためのフレームワーク〜.pdf
 - [mystt]実戦 Github Projects活用.pdf
 - [PassPay Labs]Statistics and Economics.pdf
 - [putchom]デザイントークンのつくりかた.pdf
-- [SGE.go]SGE Go Tech Book Vol.04.zip
+- [SGE.go]SGE Go Tech Book Vol.04.zip #技術/プログラミング #Go
 - [SuperNiceCircle]GraphQL入門 Hasuraで始めるアプリケーション開発.pdf
 - [Typebase]tRPC入門―型安全なWebアプリケーションを効率よくつくる.pdf
 - [VVVF製作所]ゼロから作るVVVFインバータ制御電車(電子版_改).pdf
@@ -586,49 +586,49 @@
 - [かえるのほんだな]Magical WinDbg -雰囲気で楽しむ Windows ダンプ解析とトラブルシューティング-.pdf
 - [たいやきおさかな]理学博士のリアル講義資料 要点 微分積分学の基礎Ⅰ.pdf
 - [とむとむやむくん]寝坊魔！ツイ廃！ 在宅SEの社会人擬態ライフハック.pdf
-- [とりむねにく]JTCでもできる検証環境コスト管理自動運用.pdf
-- [とりむねにく]要件定義から実装までJTC向けAWSガードレール StackSets構築解説つき.pdf
-- [にーLab.]Vite + TypeScript + Babylon.jsでWebARをはじめる本.pdf
+- [とりむねにく]JTCでもできる検証環境コスト管理自動運用.pdf #技術/インフラ
+- [とりむねにく]要件定義から実装までJTC向けAWSガードレール StackSets構築解説つき.pdf #技術/クラウド
+- [にーLab.]Vite + TypeScript + Babylon.jsでWebARをはじめる本.pdf #技術/プログラミング #TypeScript
 - [ひかる黄金わかめ帝国]OAuth 2.0+OpenID Connect認証認可サービス製作日記.pdf
 - [むちむちぽぽ]Volatility3で始めるメモリフォレンジック入門.pdf
 - [めがねをかけるんだ]AndroidKeyStoreと過ごした400日.pdf
 - [ゆめみ大技林製作委員会]ゆめみ大技林 '23 (2).pdf
-- [コードカキタイ]Go言語で構築するクリーンアーキテクチャ設計.pdf
+- [コードカキタイ]Go言語で構築するクリーンアーキテクチャ設計.pdf #技術/プログラミング #Go
 - [チームはりねずみ]パフォーマンス⾰命　— アプリケーション性能改善のために若⼿が奮闘した記録 —.pdf
 - [デフエンジニアの会]耳が聴こえないエンジニアが色々と書いてみた.pdf
 - [ニフティ執筆部]NIFTY Tech Book #1.pdf
 - [ペンギンエクスプレス]交通とUI (+UX) Vol.2.pdf
-- [メメメモモ]SvelteとGoでWebアプリ開発 〜フルスタック & サーバレス〜.pdf
-- [ワンドビー完全理解者の会]LLMをゼロからトレーニング するためのベストプラクティス.pdf
-- [ワンドビー完全理解者の会]LLMファインチューニングとプロンプトエンジニアリングのベストプラクティス.pdf
+- [メメメモモ]SvelteとGoでWebアプリ開発 〜フルスタック & サーバレス〜.pdf #技術/プログラミング #Go
+- [ワンドビー完全理解者の会]LLMをゼロからトレーニング するためのベストプラクティス.pdf #技術/AI
+- [ワンドビー完全理解者の会]LLMファインチューニングとプロンプトエンジニアリングのベストプラクティス.pdf #技術/AI
 - [三峰スズ工房]自作マイコンボードの話とものづくり系VTuberの話 増補版.pdf
 - [低反発]ゲームと数学のちょっといい話.pdf
-- [半田技術研究所]探索的テストの進め方_改訂版.pdf #テスト #100冊候補
+- [半田技術研究所]探索的テストの進め方_改訂版.pdf #技術/テスト #100冊候補
 - [後藤和智事務所OffLine]Bayes Analysis Maniax.pdf
 - [株式会社MIXI]MIXI TECH NOTE #10.pdf
 - [橄欖石庵]パスワードレス認証～Passkeys （パスキー）は我々の救世主なのか～.pdf
-- [溝口電子商城]Golangで作るソフトウェアルータⅡ.pdf
+- [溝口電子商城]Golangで作るソフトウェアルータⅡ.pdf #技術/プログラミング #Go
 - [鉄道同人技術研究所]ATS-P地上子を解析(しようと)した +付録ATS-PF電文一覧表.pdf
-- [電気羊]実装しながら学ぶ楕円曲線暗号.pdf
+- [電気羊]実装しながら学ぶ楕円曲線暗号.pdf #技術/セキュリティ
 
 # 技術書典16
 
-- [FireStarter]AI Chat Firebase1.0.pdf
+- [FireStarter]AI Chat Firebase1.0.pdf #技術/AI
 - [mochikoAsTech]読み手につたわる文章 - テクニカルライティング.pdf
 - [Offensive Security Lab Japan]Offensive Security Articles Vol.1.pdf
-- [SGE.go]SGE Go Tech Book Vol.05.pdf
+- [SGE.go]SGE Go Tech Book Vol.05.pdf #技術/プログラミング #Go
 - [tecalac]電気回路完全に理解したったｗフリーのシミュレーターで学ぶプログラマ向け電気回路チュートリアル.pdf
 - [Wantedly執筆部]WANTEDLY TECH BOOK 14.pdf
 - [yuuu]生活をちょっと便利にするIoTボタンのつくりかた.pdf
-- [いずれこの技術が滅びるとしても]航空機と衛星のサイバーセキュリティ入門 情報セキュリティをはじめましょうIII.pdf
-- [だめぽラボ]Haskellでの型レベルプログラミング.pdf #プログラミング #100冊候補
-- [でじたるはるまき]AWS vs Google Cloud アプリ開発七番勝負.pdf
-- [アジュール魔法魔術学校]Re Re ゼロから始めるAzure Machine Learning.pdf
-- [イモに聞け]JavaScript徹底攻略 非同期処理_tbf16.pdf
-- [備中絡繰製造所]いっしょに学ぶ Python & Elixir & Rust & Go.pdf
+- [いずれこの技術が滅びるとしても]航空機と衛星のサイバーセキュリティ入門 情報セキュリティをはじめましょうIII.pdf #技術/セキュリティ
+- [だめぽラボ]Haskellでの型レベルプログラミング.pdf #技術/プログラミング #100冊候補 #Haskell
+- [でじたるはるまき]AWS vs Google Cloud アプリ開発七番勝負.pdf #技術/クラウド
+- [アジュール魔法魔術学校]Re Re ゼロから始めるAzure Machine Learning.pdf #技術/クラウド
+- [イモに聞け]JavaScript徹底攻略 非同期処理_tbf16.pdf #技術/プログラミング #JavaScript
+- [備中絡繰製造所]いっしょに学ぶ Python & Elixir & Rust & Go.pdf #技術/プログラミング #Go #Python #Rust #Elixir
 - [未来機械工房]ゼロから作る筋電センサー.pdf
-- [統計の森]直感的に理解するTransformerの仕組み.pdf
-- [統計の森]直感的に理解するTransformerへのCNNの導入.pdf
+- [統計の森]直感的に理解するTransformerの仕組み.pdf #技術/AI
+- [統計の森]直感的に理解するTransformerへのCNNの導入.pdf #技術/AI
 - [薬局ガレリア]災害特機、ファルマギア～災害時医薬品供給車両（モバイルファーマシー）入門～.pdf
 - [赤煉瓦倉庫]はじめてのデータウェアハウス ーDatabricksではじめるデータ基盤ガイドー.pdf
 - [進捗ゼミナール]ゼロから作る！HTTPルーター.pdf
@@ -638,33 +638,33 @@
 
 # もらったりした本
 
-- (@pp)(Study) TDK Microsoft Visual C++.NET がわか～る(VisualStudio.NET).rar
-- (PC 雑誌) ゼロからはじめる Windows ネットワーク再入門.pdf
-- (PC 書籍) Win32 プログラミングテクニック VisualC++5 対応(CDROM 付)(透明テキスト PDF).zip
-- (アプリ) [学習] [PC] 日経 BP ラーニング 「ネットワーク技術者養成コース 1・2・3 セット」-.rar
+- (@pp)(Study) TDK Microsoft Visual C++.NET がわか～る(VisualStudio.NET).rar #技術/プログラミング #Cpp
+- (PC 雑誌) ゼロからはじめる Windows ネットワーク再入門.pdf #技術/インフラ
+- (PC 書籍) Win32 プログラミングテクニック VisualC++5 対応(CDROM 付)(透明テキスト PDF).zip #技術/プログラミング #Cpp
+- (アプリ) [学習] [PC] 日経 BP ラーニング 「ネットワーク技術者養成コース 1・2・3 セット」-.rar #技術/インフラ
 - (一般書籍 学習) c 言語を 256 倍使うための本.rar
 - (一般書籍 付属 CD) [アプリ 学習] C 言語によるアルゴリズムとデータ構造.zip
 - (一般書籍 付属 CD) [アプリ 学習] 見てわかる C 言語入門.zip
-- (一般書籍) (Microsoft VisualC++)ゲーム作りではじめる MFC.zip
+- (一般書籍) (Microsoft VisualC++)ゲーム作りではじめる MFC.zip #技術/プログラミング #Cpp
 - (一般書籍) [鍵と錠の研究会] 鍵開けマニュアル 増補版.zip
 - (一般書籍) [小森裕介] プロになるための Web 技術入門.zip
 - (一般書籍) [石井裕之] コミュニケーションのための催眠誘導.zip
 - (一般書籍) ゲームデザイナーの仕事 プロが教えるゲーム制作の技術.zip
 - (一般書籍) はじめての GTD ストレスフリーの整理術.pdf
-- (一般書籍) プログラミング言語 C++ 第 3 版 (PC・プログラミング・C 言語) (索引に欠損あり).zip
+- (一般書籍) プログラミング言語 C++ 第 3 版 (PC・プログラミング・C 言語) (索引に欠損あり).zip #技術/プログラミング #Cpp
 - (一般書籍)(小説) [伊藤計劃] 虐殺器官.zip
 - (一般書籍)(専門書) [日経 BP ソフトプレス] デバッグルール ９つの原則、５４のヒント.zip
-- (一般書籍)(専門書) 標準講座 MFC6.0 VisualC++による効率的な Windows プログラミング.zip
+- (一般書籍)(専門書) 標準講座 MFC6.0 VisualC++による効率的な Windows プログラミング.zip #技術/プログラミング #Cpp
 - (一般書籍)[学習][プログラミング] プログラミング言語 C 第 2 版(794x1200).zip
 - (一般小説) [ヴァーナー・ ヴィンジ] 最果ての銀河船団 [上下] (青空文庫形式 txt 形式).zip
 - (一般小説) [伊藤計劃 × 円城塔] 屍者の帝国.zip
 - (一般小説) [川上弘美] センセイの鞄《谷崎潤一郎賞受賞作》 (青空文庫対応 txt 表紙付)(追加校正 14-03-28).zip
 - (一般小説) [樋口有介] ぼくと、ぼくらの夏(青空文庫形式 txt).zip
 - (一般小説) [樋口有介] 夏の口紅 (青空文庫対応 txt 表紙付).zip
-- [O'REILLY] Ajax アプリケーション＆Web セキュリティ.pdf
+- [O'REILLY] Ajax アプリケーション＆Web セキュリティ.pdf #技術/セキュリティ
 - [O'REILLY] Apache ハンドブック 第 3 版.pdf
 - [O'REILLY] DNS&BIND 第 3 版.pdf
-- [O'REILLY] MySQL デスクトップリファレンス.pdf
+- [O'REILLY] MySQL デスクトップリファレンス.pdf #技術/データベース
 - [O'REILLY] sendmail リファレンス 第 2 版.pdf
 - [O'REILLY] VPN 第二版.pdf
 - [アプリ] (学習) C 言語の初歩 missionC(ccd).rar
@@ -682,9 +682,9 @@
 - [一般書籍][開発] HTML5&CSS3 辞典.zip
 - [一般書籍][開発] MFC ライブラリ標準リファレンス.zip
 - [一般書籍][開発] PMBOK 第 4 版による IT プロジェクト・マネジメント実践法.zip
-- [一般書籍][開発] アルゴリズムクイックリファレンス.zip #プログラミング #100冊候補
+- [一般書籍][開発] アルゴリズムクイックリファレンス.zip #技術/プログラミング #100冊候補
 - [一般書籍][開発] はじめて読むアセンブラ.zip
-- [一般書籍][開発] やさしい Java 活用編 第 3 版(添付 CD 付き).zip
+- [一般書籍][開発] やさしい Java 活用編 第 3 版(添付 CD 付き).zip #技術/プログラミング #Java
 - [一般書籍][開発] 基礎からはじめる UML2.0.zip
 - [一般書籍][開発] 高級言語プログラマーのためのアセンブラ入門.zip
 - [一般書籍][開発] 最新 XML ハンドブック.zip
@@ -694,13 +694,13 @@
 - [一般書籍][開発] 組み込み現場の C プログラミング 基礎からわかる徹底入門.zip
 - [一般書籍][開発] 組み込み現場の C プログラミング標準コーディングガイドライン(CD-ROM 付き).zip
 - [一般書籍][開発] 組込みプログラミング ソフトウェア基礎.zip
-- [一般書籍][開発] 組込み現場の C++プログラミング 明日から使える徹底入門.zip
+- [一般書籍][開発] 組込み現場の C++プログラミング 明日から使える徹底入門.zip #技術/プログラミング #Cpp
 - [一般書籍][開発] 入門 Git.zip
 - [一般書籍][開発] 便利なツール Emacs らくらく入門.zip
 - [一般書籍][数学] 大学で学ぶやさしい線形代数.zip
 - [一般書籍][数学] 大学で学ぶやさしい微分積分.zip
 - [一般書籍][数学] 大学で学ぶやさしい微分方程式.zip
-- [大槻有一郎] 14 歳からはじめる C++わくわくゲームプログラミング教室―Windows982000MeXP 対応.pdf
+- [大槻有一郎] 14 歳からはじめる C++わくわくゲームプログラミング教室―Windows982000MeXP 対応.pdf #技術/プログラミング #Cpp
 - [入門+実践]要求を仕様化する技術 表現する技術\_清水吉男(MonoColor).pdf
 - [林晴比古] 高級言語プログラマーのためのアセンブラ入門.rar
 
@@ -711,7 +711,7 @@
 - （電子版（PDF）ダウンロード特典付き）いちばんやさしいアジャイル開発の教本 人気講師が教える DX を支える開発手法 （いちばんやさしい教本） 市谷聡啓 224p_4295008834.pdf
 - ［改訂第 3 版］シェルスクリプト基本リファレンス ──#！／bin／sh で、ここまでできる （WEB+DB PRESS plus） 山森 丈範 336p_4774186945.pdf
 - ［新版］ブルー・オーシャン戦略---競争のない世界を創造する （Harvard Business Review Press） W・チャン・キム 376p_4478065136.pdf
-- ［第 3 版］Python 機械学習プログラミング 達人データサイエンティストによる理論と実践 （impress top gear） Sebastian Raschka 688p_4295010073.pdf
+- ［第 3 版］Python 機械学習プログラミング 達人データサイエンティストによる理論と実践 （impress top gear） Sebastian Raschka 688p_4295010073.pdf #技術/AI #Python
 - 〈インターネット〉の次に来るもの 未来を決める 12 の法則 ケヴィン・ケリー 416p_4140817046.pdf #教養 #100冊候補
 - 「プロジェクトマネジメント」実践講座 伊藤 大輔 296p_4534054696.pdf #仕事術 #100冊候補
 - 「もっと読みたい」と思わせる文章を書く 加藤 明 256p_4799103059.pdf #文章 #100冊候補
@@ -720,7 +720,7 @@
 - 「値引きして売れるなら捨てるよりマシ」は本当か？-将来どちらのほうが儲かるかで考える損得学 古谷 文太 240p_4478013047.pdf
 - 「話し方」に自信がもてる 1 分間声トレ 秋竹 朋子 272p_4478068593.pdf
 - 【Amazon．co．jp 限定】THE IDOLM@STER （3） イラストカード付き （REX コミックス） まな：漫画 高橋龍也：脚本 BNGI／PROJECT iM@S：原作 158p_4758064636.pdf
-- 【この 1 冊でよくわかる】 ソフトウェアテストの教科書 ［増補改訂 第 2 版］ 布施 昌弘 344p_481560875X.pdf #テスト #古典 #100冊候補
+- 【この 1 冊でよくわかる】 ソフトウェアテストの教科書 ［増補改訂 第 2 版］ 布施 昌弘 344p_481560875X.pdf #技術/テスト #古典 #100冊候補
 - 【新版】日本語の作文技術 （朝日文庫） 本多勝一 328p_4022618450.pdf #文章 #古典 #100冊候補
 - ＜英語のカンを一瞬にしてモノにする！＞世界に 1 つだけの英語教科書 西巻 尚樹 155p_4534039492.pdf #英語
 - ＜女子大生会計士の事件簿＞世界一感動する会計の本です［簿記・経理入門］ 山田 真哉 166p_4534038097.pdf #金融
@@ -733,59 +733,59 @@
 - 5 つのコツで もっと伸びる カラダが変わる ストレッチ・メソッド 谷本 道哉 160p_4471143069.pdf
 - 68m： 手原和憲 高校サッカー短編集 （ビッグコミックス） 手原 和憲 268p_409185043X.pdf #スポーツ/サッカー
 - 9 プリンシプルズ：加速する未来で勝ち残るために 伊藤 穰一 366p_4152096977.pdf
-- Accelerated C++-効率的なプログラミングのための新しい定跡 （C++ In Depth Series） アンドリュー コーニグ 334p_4894714221.pdf #プログラミング #100冊候補
+- Accelerated C++-効率的なプログラミングのための新しい定跡 （C++ In Depth Series） アンドリュー コーニグ 334p_4894714221.pdf #技術/プログラミング #100冊候補 #Cpp
 - Amazon Web Services 実践入門 （WEB+DB PRESS plus） 舘岡 守 368p_4774176737.pdf
 - amazon の絶対思考 星 健一 284p_4594083161.pdf
 - Android を支える技術〈I〉──60fps を達成するモダンな GUI システム （WEB+DB PRESS plus） 有野 和真 336p_4774187593.pdf
 - Android を支える技術〈II〉── 真のマルチタスクに挑んだモバイル OS の心臓部 （WEB+DB PRESS plus） 有野 和真 288p_4774188611.pdf
 - Angular アプリケーションプログラミング 山田 祥寛 512p_4774191302.pdf
-- API デザインの極意 Java／NetBeans アーキテクト探究ノート Jaroslav Tulach 432p_484433591X.pdf #プロダクト #100冊候補
+- API デザインの極意 Java／NetBeans アーキテクト探究ノート Jaroslav Tulach 432p_484433591X.pdf #プロダクト #100冊候補 #技術/プログラミング #Java
 - ARROW ENGLISH2 英語は絶対に逆から学ぶな！ 実践編 崔 宰鳳 297p_4434158775.pdf #英語
 - ATL COM プログラミング リチャード グリムス 588p_4881356992.pdf
-- AWS ではじめるデータレイク： クラウドによる統合型データリポジトリ構築入門 上原 誠 377p_491031301X.pdf
+- AWS ではじめるデータレイク： クラウドによる統合型データリポジトリ構築入門 上原 誠 377p_491031301X.pdf #技術/クラウド
 - BBB ビーサン！！ 15 万円ぽっちワールドフットボール観戦旅 竹田 聡一郎 432p_4063647242.pdf #スポーツ/サッカー
 - BEAUTIFUL MONEY （ワニマガジンコミックス） SABE p198_4898293573.pdf
-- BERT による自然言語処理入門： Transformers を使った実践プログラミング ストックマーク株式会社 200p_427422726X.pdf
+- BERT による自然言語処理入門： Transformers を使った実践プログラミング ストックマーク株式会社 200p_427422726X.pdf #技術/AI
 - BI システム構築実践入門 （DB SELECTION） 平井 明夫 254p_4798109312.pdf
 - Business Analysis 教科書 BABOK CCBA エディフィストラーニング株式会社 上村 有子 472p_4798124826.pdf #プロダクト #100冊候補
-- C for UNIX-システムコールの基礎と応用 小俣 光之 350p_4798000310.pdf
-- C#エッセンシャルズ 第 2 版 ベン アルバーリ 223p_4873110912.pdf
-- C#ではじめる Web サービスプログラミング 山崎 秀 392p_4797340673.pdf
-- C#によるマルチコアのための非同期／並列処理プログラミング 山本 康彦 256p_4774158283.pdf
-- C++ Coding Standards-101 のルール、ガイドライン、ベストプラクティス （C++ in‐depth series） ハーブ サッター 215p_4894716860.pdf
-- C++のための API デザイン マーティン・レディ 518p_4797369159.pdf
-- C++プログラミングの処方箋-ひと味違うコードを書くための 99 の鉄則 （Programmer’s foundations） スティーブン・C． デューハースト 324p_4798106321.pdf
-- Clean Architecture 達人に学ぶソフトウェアの構造と設計 Robert C．Martin 352p_4048930656.pdf #設計 #古典 #100冊候補
-- Code Complete 第 2 版〈上〉 スティーブ マコネル 628p_489100455X.pdf #プログラミング #古典 #100冊候補
-- Common Lisp 入門 （岩波コンピュータサイエンス） 湯浅 太一 350p_400007685X.pdf #プログラミング #100冊候補
+- C for UNIX-システムコールの基礎と応用 小俣 光之 350p_4798000310.pdf #技術/インフラ
+- C#エッセンシャルズ 第 2 版 ベン アルバーリ 223p_4873110912.pdf #技術/プログラミング #CSharp
+- C#ではじめる Web サービスプログラミング 山崎 秀 392p_4797340673.pdf #技術/プログラミング #CSharp
+- C#によるマルチコアのための非同期／並列処理プログラミング 山本 康彦 256p_4774158283.pdf #技術/プログラミング #CSharp
+- C++ Coding Standards-101 のルール、ガイドライン、ベストプラクティス （C++ in‐depth series） ハーブ サッター 215p_4894716860.pdf #技術/プログラミング #Cpp
+- C++のための API デザイン マーティン・レディ 518p_4797369159.pdf #技術/プログラミング #Cpp
+- C++プログラミングの処方箋-ひと味違うコードを書くための 99 の鉄則 （Programmer’s foundations） スティーブン・C． デューハースト 324p_4798106321.pdf #技術/プログラミング #Cpp
+- Clean Architecture 達人に学ぶソフトウェアの構造と設計 Robert C．Martin 352p_4048930656.pdf #技術/設計 #古典 #100冊候補
+- Code Complete 第 2 版〈上〉 スティーブ マコネル 628p_489100455X.pdf #技術/プログラミング #古典 #100冊候補
+- Common Lisp 入門 （岩波コンピュータサイエンス） 湯浅 太一 350p_400007685X.pdf #技術/プログラミング #100冊候補
 - CSS 設計完全ガイド 〜詳細解説+実践的モジュール集 半田 惇志 512p_429711173X.pdf
 - C クイックリファレンス 第 2 版 Peter Prinz 816p_487311781X.pdf
 - C プログラム高速化研究班 コードを高速化する 20 の実験と達人の技 片山善夫 176p_4904807057.pdf
-- C 言語による TCP／IP ネットワークプログラミング 小俣 光之 290p_4894715163.pdf #プログラミング #100冊候補
-- C 言語による UNIX システムプログラミング入門 河野 清尊 464p_4274064999.pdf
-- C 言語ポインタ完全制覇 （標準プログラマーズライブラリ） 前橋 和弥 323p_4774111422.pdf #プログラミング #100冊候補
+- C 言語による TCP／IP ネットワークプログラミング 小俣 光之 290p_4894715163.pdf #技術/プログラミング #100冊候補 #技術/インフラ
+- C 言語による UNIX システムプログラミング入門 河野 清尊 464p_4274064999.pdf #技術/インフラ
+- C 言語ポインタ完全制覇 （標準プログラマーズライブラリ） 前橋 和弥 323p_4774111422.pdf #技術/プログラミング #100冊候補
 - C 実践プログラミング 第 3 版 Steve Oualline 447p_4900900648.pdf
-- Design It！ -プログラマーのためのアーキテクティング入門 Michael Keeling 404p_4873118956.pdf #設計 #100冊候補
-- DirectX9 3D ゲームプログラミング〈vol．1〉C#によるアルゴリズムの基礎 （I・O BOOKS） 大川 善邦 359p_487593419X.pdf
+- Design It！ -プログラマーのためのアーキテクティング入門 Michael Keeling 404p_4873118956.pdf #技術/設計 #100冊候補
+- DirectX9 3D ゲームプログラミング〈vol．1〉C#によるアルゴリズムの基礎 （I・O BOOKS） 大川 善邦 359p_487593419X.pdf #技術/プログラミング #CSharp
 - DirectX9 実践プログラミング-WindowsXP／Vista／7 対応版 （I・O BOOKS） I／O 編集部 399p_4777516873.pdf
 - DUO 3．0 鈴木 陽一 432p_4900790052.pdf
-- Effective C# 4．0 ビル・ワグナー 320p_4798122513.pdf
-- Effective C# 6．0／7．0 ビル ワグナー 231p_4798153869.pdf
-- Effective C++ 原著第 3 版 スコット・メイヤーズ 336p_4894714515.pdf #プログラミング #古典 #100冊候補
-- Effective Java 第 2 版 （The Java Series） Joshua Bloch 327p_489471499X.pdf #プログラミング #100冊候補
-- Effective Modern C++ -C++11／14 プログラムを進化させる 42 項目 Scott Meyers 364p_4873117364.pdf #プログラミング #100冊候補
-- Effective Python 第 2 版 -Python プログラムを改良する 90 項目 Brett Slatkin 456p_4873119170.pdf #プログラミング #100冊候補
-- Effective Ruby Peter J． Jones 216p_4798139823.pdf
+- Effective C# 4．0 ビル・ワグナー 320p_4798122513.pdf #技術/プログラミング #CSharp
+- Effective C# 6．0／7．0 ビル ワグナー 231p_4798153869.pdf #技術/プログラミング #CSharp
+- Effective C++ 原著第 3 版 スコット・メイヤーズ 336p_4894714515.pdf #技術/プログラミング #古典 #100冊候補 #Cpp
+- Effective Java 第 2 版 （The Java Series） Joshua Bloch 327p_489471499X.pdf #技術/プログラミング #100冊候補 #Java
+- Effective Modern C++ -C++11／14 プログラムを進化させる 42 項目 Scott Meyers 364p_4873117364.pdf #技術/プログラミング #100冊候補 #Cpp
+- Effective Python 第 2 版 -Python プログラムを改良する 90 項目 Brett Slatkin 456p_4873119170.pdf #技術/プログラミング #100冊候補 #Python
+- Effective Ruby Peter J． Jones 216p_4798139823.pdf #技術/プログラミング #Ruby
 - Effective STL-STL を効果的に使いこなす 50 の鉄則 スコット メイヤーズ 258p_4894714108.pdf
 - Every Layout-モジュラーなレスポンシブデザインを実現する CSS 設計論 ヘイドン・ピカリング 240p_486246517X.pdf
-- Exceptional C++ Style-40 のクイズ形式によるプログラム問題と解法=スタイル編 （C++ in‐Depth Series） ハーブ サッター 327p_4894714663.pdf
-- Exceptional C++-47 のクイズ形式によるプログラム問題と解法 （C++ in‐Depth Series） ハーブ サッター 249p_4894712709.pdf
+- Exceptional C++ Style-40 のクイズ形式によるプログラム問題と解法=スタイル編 （C++ in‐Depth Series） ハーブ サッター 327p_4894714663.pdf #技術/プログラミング #Cpp
+- Exceptional C++-47 のクイズ形式によるプログラム問題と解法 （C++ in‐Depth Series） ハーブ サッター 249p_4894712709.pdf #技術/プログラミング #Cpp
 - Factfulness（ファクトフルネス）10 の思い込みを乗り越え、データから真実を読み解く習慣 ハンス・ロスリング、オーラ・ロスリング、アンナ・ロスリング 400p_4822289605.pdf #学び方 #100冊候補
 - FC バルセロナスクールの現役コーチが教えるバルサ流トレーニングメソッド 村松 尚登 192p_4757215835.pdf #スポーツ/サッカー
 - FC バルセロナの人材獲得術と育成メソッドのすべて チャビのクローンを生み出すことは可能なのか マルティ・ペラルナウ 328p_4862551556.pdf #スポーツ/サッカー
 - FC バルセロナの戦術分析 オフェンス編 アタナシアス・テルジス 251p_488393599X.pdf #スポーツ/サッカー
 - FC バルセロナの戦術分析 ディフェンス編 アタナシアス・テルジス 148p_4883936007.pdf #スポーツ/サッカー
-- Filthy Rich Clients アニメーションとグラフィカルエフェクトを使ったデスクトップ Java アプリケーション （The Java Series） チェット・ハーゼ 604p_4894712830.pdf
+- Filthy Rich Clients アニメーションとグラフィカルエフェクトを使ったデスクトップ Java アプリケーション （The Java Series） チェット・ハーゼ 604p_4894712830.pdf #技術/プログラミング #Java
 - Game Programming Gems 2 日本語版 Mark DeLoura 608p_4939007332.pdf
 - Game Programming Gems 3 日本語版 Dante Treglia 704p_4939007545.pdf
 - Game Programming Gems 4 日本語版 Andrew Kirmse 672p_4939007901.pdf
@@ -797,12 +797,12 @@
 - Game Programming Patterns ソフトウェア開発の問題解決メニュー （impress top gear） Robert Nystrom 368p_4844338900.pdf
 - GitHub 実践入門 〜Pull Request による開発の変革 （WEB+DB PRESS plus） 大塚 弘記 304p_477416366X.pdf
 - Graphic Recorder -議論を可視化するグラフィックレコーディングの教科書 清水 淳子 152p_4802510284.pdf
-- Hacking： 美しき策謀 第 2 版 -脆弱性攻撃の理論と実際 Jon Erickson 564p_4873115140.pdf
-- Head First C# -頭とからだで覚える C#の基本 Andrew Stellman 592p_4873113830.pdf
-- Head First Python 第 2 版： 頭とからだで覚える Python の基本 Paul Barry 624p_4873118298.pdf
+- Hacking： 美しき策謀 第 2 版 -脆弱性攻撃の理論と実際 Jon Erickson 564p_4873115140.pdf #技術/セキュリティ
+- Head First C# -頭とからだで覚える C#の基本 Andrew Stellman 592p_4873113830.pdf #技術/プログラミング #CSharp
+- Head First Python 第 2 版： 頭とからだで覚える Python の基本 Paul Barry 624p_4873118298.pdf #技術/プログラミング #Python
 - Head First オブジェクト指向分析設計 -頭とからだで覚えるオブジェクト指向の基本 Brett McLaughlin 636p_4873113490.pdf
-- Head First デザインパターン -頭とからだで覚えるデザインパターンの基本 Eric Freeman 568p_4873112494.pdf #設計 #古典 #100冊候補
-- Head First ネットワーク -頭とからだで覚えるネットワークの基本 Al Anderson 536p_4873114438.pdf
+- Head First デザインパターン -頭とからだで覚えるデザインパターンの基本 Eric Freeman 568p_4873112494.pdf #技術/設計 #古典 #100冊候補
+- Head First ネットワーク -頭とからだで覚えるネットワークの基本 Al Anderson 536p_4873114438.pdf #技術/インフラ
 - How Google Works （ハウ・グーグル・ワークス） -私たちの働き方とマネジメント エリック・シュミット 376p_4532319552.pdf #マネジメント #100冊候補
 - HTML5＆API 入門 白石 俊平 336p_4822284220.pdf
 - I AM ZLATAN ズラタン・イブラヒモビッチ自伝 ズラタン・イブラヒモビッチ 400p_4809410765.pdf
@@ -820,56 +820,56 @@
 - IT アーキテクトのためのシステム設計実践ガイド Vol．2 （日経 BP ムック） 240p_4822229971.pdf
 - IT アーキテクトのためのシステム設計実践ガイド Vol．3 （日経 BP ムック） 232p_4822211886.pdf
 - IT エンジニアのためのプロジェクトマネジメント入門 澤部 直太 320p_4274225925.pdf
-- IT エンジニアのための機械学習理論入門 中井 悦司 256p_4774176982.pdf #キャリア #100冊候補
+- IT エンジニアのための機械学習理論入門 中井 悦司 256p_4774176982.pdf #キャリア #100冊候補 #技術/AI
 - IT システム開発徹底攻略 （WEB+DB PRESS plus） 羽生 章洋 200p_4774156159.pdf
 - IT 女子がそっと教える究極の「女子力」活用法 清水 美奈子 248p_450269570X.pdf
 - I の悲劇 米澤 穂信 343p_4163910964.pdf
-- Java EE 7 徹底入門 標準 Java フレームワークによる高信頼性 Web システムの構築 寺田 佳央 584p_4798140929.pdf
-- Java／Web でできる大規模オープンシステム開発入門： 全工程を学ぶ 14 回の体験レッスン 林 浩一 272p_4621086014.pdf
-- JavaScript コードレシピ集 池田 泰延 608p_4297103680.pdf
-- JavaScript 第 5 版 David Flanagan 704p_4873113296.pdf #プログラミング #100冊候補
-- JavaScript で学ぶ関数型プログラミング Michael Fogus 352p_4873116600.pdf #プログラミング #100冊候補
-- JavaScript モダンプログラミング完全ガイド ［堅牢なコードを効率的に開発できる！ ］ （impress top gear シリーズ） Cay S． Horstmann 392p_4295010561.pdf #プログラミング #100冊候補
-- Java 言語で学ぶデザインパターン入門 結城 浩 480p_4797316462.pdf #設計 #100冊候補
-- Java 言語で学ぶデザインパターン入門第 3 版 結城 浩 560p_4815609802.pdf #設計 #100冊候補
-- Java 本格入門 〜モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで 谷本 心 448p_477418909X.pdf #プログラミング #100冊候補
+- Java EE 7 徹底入門 標準 Java フレームワークによる高信頼性 Web システムの構築 寺田 佳央 584p_4798140929.pdf #技術/プログラミング #Java
+- Java／Web でできる大規模オープンシステム開発入門： 全工程を学ぶ 14 回の体験レッスン 林 浩一 272p_4621086014.pdf #技術/プログラミング #Java
+- JavaScript コードレシピ集 池田 泰延 608p_4297103680.pdf #技術/プログラミング #JavaScript
+- JavaScript 第 5 版 David Flanagan 704p_4873113296.pdf #技術/プログラミング #100冊候補 #JavaScript
+- JavaScript で学ぶ関数型プログラミング Michael Fogus 352p_4873116600.pdf #技術/プログラミング #100冊候補 #JavaScript
+- JavaScript モダンプログラミング完全ガイド ［堅牢なコードを効率的に開発できる！ ］ （impress top gear シリーズ） Cay S． Horstmann 392p_4295010561.pdf #技術/プログラミング #100冊候補 #JavaScript
+- Java 言語で学ぶデザインパターン入門 結城 浩 480p_4797316462.pdf #技術/設計 #100冊候補 #Java
+- Java 言語で学ぶデザインパターン入門第 3 版 結城 浩 560p_4815609802.pdf #技術/設計 #100冊候補 #Java
+- Java 本格入門 〜モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで 谷本 心 448p_477418909X.pdf #技術/プログラミング #100冊候補 #Java
 - Joel on Software Joel Spolsky 387p_4274066304.pdf
-- JUnit 実践入門 〜体系的に学ぶユニットテストの技法 （WEB+DB PRESS plus） 渡辺 修司 480p_477415377X.pdf #テスト #100冊候補
+- JUnit 実践入門 〜体系的に学ぶユニットテストの技法 （WEB+DB PRESS plus） 渡辺 修司 480p_477415377X.pdf #技術/テスト #100冊候補
 - KGB の男-冷戦史上最大の二重スパイ （単行本） ベン・マッキンタイアー 492p_4120053105.pdf
-- Land of Lisp M．D． Conrad Barski 512p_4873115876.pdf #プログラミング #100冊候補
-- Linux エンジニア養成読本 ［仕事で使うための必須知識＆ノウハウ満載！］ （Software Design plus） 224p_4774146013.pdf
+- Land of Lisp M．D． Conrad Barski 512p_4873115876.pdf #技術/プログラミング #100冊候補
+- Linux エンジニア養成読本 ［仕事で使うための必須知識＆ノウハウ満載！］ （Software Design plus） 224p_4774146013.pdf #技術/インフラ
 - macromedia FLASH ActionScript スーパーサンプル集 大重 美幸 405p_4881663216.pdf
 - Manage It！ 現場開発者のための達人式プロジェクトマネジメント Johanna Rothman 352p_4274067297.pdf #仕事術 #100冊候補
-- Modern C++ Design-ジェネリック・プログラミングおよびデザイン・パターンを利用するための究極のテンプレート活用術 （C++ In‐Depth Series） アンドレイ アレキサンドレスク 337p_4894714353.pdf #プログラミング #100冊候補
-- Modern C++チャレンジ -C++17 プログラミング力を鍛える 100 問 Marius Bancila 336p_4873118697.pdf #プログラミング #100冊候補
+- Modern C++ Design-ジェネリック・プログラミングおよびデザイン・パターンを利用するための究極のテンプレート活用術 （C++ In‐Depth Series） アンドレイ アレキサンドレスク 337p_4894714353.pdf #技術/プログラミング #100冊候補 #Cpp
+- Modern C++チャレンジ -C++17 プログラミング力を鍛える 100 問 Marius Bancila 336p_4873118697.pdf #技術/プログラミング #100冊候補 #Cpp
 - More Effective Agile 〜“ソフトウェアリーダー”になるための 28 の道標 Steve McConnell 320p_4822286584.pdf
-- More Effective C# 6．0／7．0 Bill Wagner 320p_4798153982.pdf
-- More Effective C# 6．0／7．0 Bill Wagner 320p_4798153982.pdf
-- More Effective C++-最新 35 のプログラミング技法 （ASCII Addison Wesley Programming Series） Scott Meyers 279p_4756118534.pdf
-- More Exceptional C++ さらに 40 のクイズ形式によるプログラム問題と解法 （C++ In‐Depth Series） ハーブ サッター 310p_4894714833.pdf
+- More Effective C# 6．0／7．0 Bill Wagner 320p_4798153982.pdf #技術/プログラミング #CSharp
+- More Effective C# 6．0／7．0 Bill Wagner 320p_4798153982.pdf #技術/プログラミング #CSharp
+- More Effective C++-最新 35 のプログラミング技法 （ASCII Addison Wesley Programming Series） Scott Meyers 279p_4756118534.pdf #技術/プログラミング #Cpp
+- More Exceptional C++ さらに 40 のクイズ形式によるプログラム問題と解法 （C++ In‐Depth Series） ハーブ サッター 310p_4894714833.pdf #技術/プログラミング #Cpp
 - nginx 実践入門 （WEB+DB PRESS plus） 久保 達彦 304p_4774178667.pdf
 - NHK 新感覚 ☆ キーワードで英会話 イメージでわかる単語帳 （語学シリーズ） 田中 茂範 272p_4141894117.pdf #英語
 - NO ロジック思考 木村 尚義 272p_4584138931.pdf
 - OAuth 徹底入門 須田 智之 416p_4798159298.pdf
-- Optimized C++ -最適化、高速化のためのプログラミングテクニック Kurt Guntheroth 368p_4873117925.pdf
+- Optimized C++ -最適化、高速化のためのプログラミングテクニック Kurt Guntheroth 368p_4873117925.pdf #技術/プログラミング #Cpp
 - O 嬢の物語 （河出文庫） ポーリーヌ・レアージュ 264p_4309461050.pdf
 - PMO 導入フレームワーク 〜プロジェクトを成功に導く、人・組織・プロセス・ツール〜 高橋 信也 206p_4820119508.pdf
-- Python チュートリアル 第 2 版 Guido van Rossum 244p_487311442X.pdf
-- Python で体験するベイズ推論 PyMC による MCMC 入門 キャメロン デビッドソン=ピロン 249p_4627077912.pdf
+- Python チュートリアル 第 2 版 Guido van Rossum 244p_487311442X.pdf #技術/プログラミング #Python
+- Python で体験するベイズ推論 PyMC による MCMC 入門 キャメロン デビッドソン=ピロン 249p_4627077912.pdf #技術/プログラミング #Python
 - RANGE（レンジ）知識の「幅」が最強の武器になる デイビッド・エプスタイン 448p_4822288773.pdf
-- React、Angular、Vue．js、React Native を使って学ぶ はじめてのフロントエンド開発 原 一浩 208p_4774197068.pdf #プログラミング #100冊候補
+- React、Angular、Vue．js、React Native を使って学ぶ はじめてのフロントエンド開発 原 一浩 208p_4774197068.pdf #技術/プログラミング #100冊候補
 - Real World HTTP -歴史とコードに学ぶインターネットとウェブ技術 渋川 よしき 360p_4873118042.pdf
 - Redmine によるタスクマネジメント実践技法 小川 明彦：：阪井 誠 336p_4798121622.pdf
 - Redmine 超入門 （日経 BP ムック） 148p_4822277089.pdf
 - RESOLVE 自分を変える最新心理テクニック-神経言語プログラミングの新たな展開 リチャード・ボルスタッド 324p_4393364724.pdf
 - RESTful Web サービス Leonard Richardson 480p_4873113539.pdf
 - RPA の威力 〜ロボットと共に生きる働き方改革〜 安部 慶喜（アビームコンサルティング株式会社） 204p_4822258270.pdf
-- Ruby ではじめるシステムトレード （現代の錬金術師シリーズ） 坂本タクマ 653p_4775991280.pdf
-- Ruby によるクローラー開発技法 巡回・解析機能の実装と 21 の運用例 るびきち 448p_4797380357.pdf #プログラミング #100冊候補
-- Ruby によるデザインパターン Russ Olsen 340p_4894712857.pdf #設計 #100冊候補
+- Ruby ではじめるシステムトレード （現代の錬金術師シリーズ） 坂本タクマ 653p_4775991280.pdf #技術/プログラミング #Ruby
+- Ruby によるクローラー開発技法 巡回・解析機能の実装と 21 の運用例 るびきち 448p_4797380357.pdf #技術/プログラミング #100冊候補 #Ruby
+- Ruby によるデザインパターン Russ Olsen 340p_4894712857.pdf #技術/設計 #100冊候補 #Ruby
 - SAVE THE CAT の法則 本当に売れる脚本術 ブレイク・スナイダー 264p_484591056X.pdf
-- Scala スケーラブルプログラミング第 3 版 Martin Odersky 752p_4844381490.pdf #プログラミング #100冊候補
-- Scala ファンクショナルデザイン -関数型プログラミングの設計と理解 深井 裕二 300p_4864873798.pdf
+- Scala スケーラブルプログラミング第 3 版 Martin Odersky 752p_4844381490.pdf #技術/プログラミング #100冊候補 #Scala
+- Scala ファンクショナルデザイン -関数型プログラミングの設計と理解 深井 裕二 300p_4864873798.pdf #技術/プログラミング #Scala
 - SHOE DOG（シュードッグ）-靴にすべてを。 フィル・ナイト 560p_4492046178.pdf
 - Software Design 2015 年 11 月号 ［雑誌］ 0p_B01494YKUI.pdf
 - Software Design 2018 年 8 月号 武井 優樹 184p_B07D5952PS.pdf
@@ -895,12 +895,12 @@
 - Software Design 2022 年 3 月号 大竹 章裕 192p_B09QK483FK.pdf
 - Software Design 2022 年 4 月号 Software Design 編集部 192p_B09SP4421Q.pdf
 - Software Design 2022 年 5 月号 Software Design 編集部 184p_B09VWT1GX4.pdf
-- SQL アンチパターン Bill Karwin 352p_4873115892.pdf
+- SQL アンチパターン Bill Karwin 352p_4873115892.pdf #技術/データベース
 - STARTUP-アイデアから利益を生みだす組織マネジメント- ダイアナ・キャンダー 356p_B0756XPJTN.pdf
 - Sunshine 1 ［平成 28 年度採用］ 教科書 開隆堂 151p_430408075X.pdf
 - Sunshine 2 ［平成 28 年度採用］ 教科書 開隆堂 151p_4304080768.pdf
 - Sunshine 3 ［平成 28 年度採用］ 中学 教科書 開隆堂 143p_4304080776.pdf
-- Swift UI 対応 たった 2 日でマスターできる iPhone アプリ開発集中講座 Xcode13／iOS15／Swift 5．5 対応 藤 治仁 480p_4802613415.pdf
+- Swift UI 対応 たった 2 日でマスターできる iPhone アプリ開発集中講座 Xcode13／iOS15／Swift 5．5 対応 藤 治仁 480p_4802613415.pdf #技術/プログラミング #Swift
 - TCP／IP ソケットプログラミング C 言語編 Michael J． Donahoo 181p_4274065197.pdf
 - Team Geek -Google のギークたちはいかにしてチームを作るのか Brian W． Fitzpatrick 228p_4873116309.pdf
 - The Art of Computer Programming Volume 1 Fundamental Algorithms Third Edition 日本語版 Donald E．Knuth 656p_4048694022.pdf
@@ -908,15 +908,15 @@
 - The Art of Computer Programming Volume 3 Sorting and Searching Second Edition 日本語版 Donald E．Knuth 741p_4048694316.pdf
 - The Art of Multiprocessor Programming 並行プログラミングの原理から実践まで Maurice Herlihy 576p_4048679880.pdf
 - ULTRAS ウルトラス 世界最凶のゴール裏ジャーニー ジェームス・モンタギュー 536p_4862556116.pdf
-- UML によるエンタープライズ Java 開発 （Object Oriented SELECTION） 平澤 章 507p_4798102113.pdf
+- UML によるエンタープライズ Java 開発 （Object Oriented SELECTION） 平澤 章 507p_4798102113.pdf #技術/プログラミング #Java
 - UML モデリングのエッセンス-標準オブジェクトモデリング言語入門 （Object oriented selection） マーチン ファウラー 165p_4881358642.pdf
 - UML モデリングレッスン 平澤 章 342p_4822283496.pdf
-- UNIX ネットワークプログラミング〈Vol．1〉ネットワーク API：ソケットと XTI W．リチャード スティーヴンス 978p_4894712059.pdf
-- UNIX ネットワークプログラミング〈Vol．2〉IPC：プロセス間通信 W．リチャード スティーヴンス 544p_4894712571.pdf
+- UNIX ネットワークプログラミング〈Vol．1〉ネットワーク API：ソケットと XTI W．リチャード スティーヴンス 978p_4894712059.pdf #技術/インフラ
+- UNIX ネットワークプログラミング〈Vol．2〉IPC：プロセス間通信 W．リチャード スティーヴンス 544p_4894712571.pdf #技術/インフラ
 - UX 戦略 -ユーザー体験から考えるプロダクト作り Jaime Levy 388p_4873117542.pdf #プロダクト #100冊候補
-- Visual C++5．0 による ActiveX コンポーネント開発-MFC、ATL、BaseCtl…3 つの手法 （Programmer’s SELECTION） ジェリー アンダーソン 592p_4881355708.pdf
-- Vue．js のツボとコツがゼッタイにわかる本 中田 亨 319p_4798056499.pdf #プログラミング #100冊候補
-- Vue．js 入門 基礎から実践アプリケーション開発まで 川口 和也 432p_4297100916.pdf #プログラミング #100冊候補
+- Visual C++5．0 による ActiveX コンポーネント開発-MFC、ATL、BaseCtl…3 つの手法 （Programmer’s SELECTION） ジェリー アンダーソン 592p_4881355708.pdf #技術/プログラミング #Cpp
+- Vue．js のツボとコツがゼッタイにわかる本 中田 亨 319p_4798056499.pdf #技術/プログラミング #100冊候補
+- Vue．js 入門 基礎から実践アプリケーション開発まで 川口 和也 432p_4297100916.pdf #技術/プログラミング #100冊候補
 - Web API： The Good Parts 水野 貴明 224p_4873116864.pdf #プロダクト #100冊候補
 - Web API の設計 （Programmer’s SELECTION） Arnaud Lauret 417p_4798167010.pdf #プロダクト #100冊候補
 - WEB+DB PRESS Vol．105 160p_477419851X.pdf
@@ -943,10 +943,10 @@
 - WTF 経済 -絶望または驚異の未来と我々の決断 Tim O’Reilly 544p_487311859X.pdf #教養 #100冊候補
 - Xenogears PERFECT WORKS the Real thing-スクウェア公式ゼノギアス設定資料集 303p_4925075322.pdf
 - XML Schema エリック・バン・デル ブリスト 411p_487311120X.pdf
-- XML と Java による Web アプリケーション開発 丸山 宏 732p_4894716623.pdf
+- XML と Java による Web アプリケーション開発 丸山 宏 732p_4894716623.pdf #技術/プログラミング #Java
 - XP エクストリーム・プログラミング入門-変化を受け入れる ケント ベック 189p_4894716852.pdf
 - XP エクストリームプログラミング懐疑編-XP はソフトウェア開発の救世主たりえるのか （The XP Series） ピート マクブリーン 215p_4894717565.pdf
-- アーキテクトの審美眼 （DBMagazine SELECTION） 萩原 正義 240p_4798119156.pdf #設計 #100冊候補
+- アーキテクトの審美眼 （DBMagazine SELECTION） 萩原 正義 240p_4798119156.pdf #技術/設計 #100冊候補
 - アート・オブ・アジャイル デベロップメント -組織を成功に導くエクストリームプログラミング （THEORY／IN／PRACTICE） James Shore 464p_4873113954.pdf
 - アイデアがどんどん生まれる ラクガキノート術 実践編 （エイムック 3485） タムラカイ 111p_4777942228.pdf
 - アジャイルソフトウェア開発 （The Agile Software Development Series） アリスター・コーバーン 400p_4894715791.pdf
@@ -966,7 +966,7 @@
 - いまどきのアセンブラプログラミング- 橋本 和明 479p_4839912025.pdf
 - イラストでわかる ご臨終の不思議な世界 志賀 貢 160p_4046044292.pdf
 - イラストでわかるストレッチングマニュアル マイケル・J． オルター 217p_446926492X.pdf
-- イラストで学ぶ ディープラーニング （KS 情報科学専門書） 山下 隆義 224p_406153825X.pdf
+- イラストで学ぶ ディープラーニング （KS 情報科学専門書） 山下 隆義 224p_406153825X.pdf #技術/AI
 - イラスト図解式 この一冊で全部わかるサーバーの基本 第 2 版 きはし まさひろ 192p_4815615748.pdf
 - インタフェースデザインの心理学 Susan Weinschenk 288p_4873115574.pdf
 - ウィーン愛憎-ヨーロッパ精神との格闘 （中公新書） 中島 義道 202p_4121009568.pdf
@@ -977,22 +977,22 @@
 - エッセンシャル WF ： Windows Workflow Foundation Dharma Shukla 408p_4798114251.pdf
 - エバンジェリスト養成講座 究極のプレゼンハック 100 西脇 資哲 168p_4798125091.pdf
 - エラスティックリーダーシップ -自己組織化チームの育て方 Roy Osherove 288p_4873118026.pdf #マネジメント #100冊候補
-- エリック・エヴァンスのドメイン駆動設計 （IT Architects’Archive ソフトウェア開発の実践） エリック・エヴァンス 576p_4798121967.pdf #設計 #古典 #100冊候補
+- エリック・エヴァンスのドメイン駆動設計 （IT Architects’Archive ソフトウェア開発の実践） エリック・エヴァンス 576p_4798121967.pdf #技術/設計 #古典 #100冊候補
 - エンジニアが学ぶ金融システムの「知識」と「技術」 大和総研フロンティアテクノロジー本部 336p_4798155330.pdf #金融
 - エンジニアのためのマネジメントキャリアパス -テックリードから CTO までマネジメントスキル向上ガイド Camille Fournier 304p_4873118484.pdf #マネジメント #100冊候補
 - エンタープライズ アプリケーションアーキテクチャパターン （Object Oriented Selection） マーチン・ファウラー 548p_4798105538.pdf
 - オイラーの贈物-人類の至宝 eiπ=-1 を学ぶ 吉田 武 516p_448601863X.pdf
 - オブジェクト指向でなぜつくるのか 第 2 版 平澤 章 368p_4822284654.pdf
-- オブジェクト指向における再利用のためのデザインパターン エリック ガンマ 414p_4797311126.pdf #設計 #古典 #100冊候補
+- オブジェクト指向における再利用のためのデザインパターン エリック ガンマ 414p_4797311126.pdf #技術/設計 #古典 #100冊候補
 - オンラインゲームを支える技術 --壮大なプレイ空間の舞台裏 （WEB+DB PRESS plus） 中嶋 謙互 624p_4774145807.pdf
 - お嬢さまことば速修講座 改訂版 加藤 ゑみ子 182p_479932117X.pdf
 - カラー改訂版 世界一わかりやすい英文法の授業 関 正生 272p_4046022884.pdf #英語
 - カリスマ講師の 日本一成績が上がる魔法の英文法ノート 川嶋 亘 192p_4046019050.pdf #英語
-- きれいな Python プログラミング 〜クリーンなコードを書くための最適な方法 Al Sweigart 384p_4839977402.pdf #プログラミング #100冊候補
+- きれいな Python プログラミング 〜クリーンなコードを書くための最適な方法 Al Sweigart 384p_4839977402.pdf #技術/プログラミング #100冊候補 #Python
 - グーグルのマインドフルネス革命 サンガ編集部 243p_4865640177.pdf
-- クラウド・アトラス (上) デイヴィッド・ミッチェル 376p_4309206115.pdf
-- クラウド・アトラス〈下〉デイヴィッド・ミッチェル 376p_4309206123.pdf
-- クラウドエンジニア養成読本［クラウドを武器にするための知識＆実例満載！ ］ 佐々木 拓郎 152p_4774196231.pdf
+- クラウド・アトラス (上) デイヴィッド・ミッチェル 376p_4309206115.pdf #技術/クラウド
+- クラウド・アトラス〈下〉デイヴィッド・ミッチェル 376p_4309206123.pdf #技術/クラウド
+- クラウドエンジニア養成読本［クラウドを武器にするための知識＆実例満載！ ］ 佐々木 拓郎 152p_4774196231.pdf #技術/クラウド
 - クリティカルチェーン-なぜ、プロジェクトは予定どおりに進まないのか？ エリヤフ ゴールドラット 384p_4478420459.pdf
 - グレート・リセット ダボス会議で語られるアフターコロナの世界 クラウス・シュワブ 292p_4863134991.pdf
 - ゲームエンジン・アーキテクチャ （Professional game programming） ジェイソン・グレゴリー 884p_4797360712.pdf
@@ -1005,15 +1005,15 @@
 - ゴールは偶然の産物ではない〜FC バルセロナ流世界最強マネジメント〜 フェラン・ソリアーノ 272p_4902222809.pdf #スポーツ/サッカー
 - ごく平凡な記憶力の私が 1 年で全米記憶力チャンピオンになれた理由 ジョシュア・フォア 367p_4767811805.pdf #学び方 #100冊候補
 - これからの「正義」の話をしよう （ハヤカワ・ノンフィクション文庫） マイケル サンデル 475p_4150503761.pdf #キャリア #100冊候補
-- これからはじめる Vue．js 実践入門 山田 祥寛 468p_4815601828.pdf #プログラミング #100冊候補
+- これからはじめる Vue．js 実践入門 山田 祥寛 468p_4815601828.pdf #技術/プログラミング #100冊候補
 - これだけ！高校数学 小島 淳子 279p_4798042692.pdf
-- コンセプトから理解する Rust 原 旅人 360p_4297125625.pdf #プログラミング #100冊候補
-- コンテナ・ベース・オーケストレーション Docker／Kubernetes で作るクラウド時代のシステム基盤 橋本 直哉 392p_4798155373.pdf #設計 #100冊候補
+- コンセプトから理解する Rust 原 旅人 360p_4297125625.pdf #技術/プログラミング #100冊候補 #Rust
+- コンテナ・ベース・オーケストレーション Docker／Kubernetes で作るクラウド時代のシステム基盤 橋本 直哉 392p_4798155373.pdf #技術/設計 #100冊候補 #技術/クラウド #技術/インフラ
 - ザ・ゴール - 企業の究極の目的とは何か エリヤフ・ゴールドラット 552p_4478420408.pdf #マネジメント #古典 #100冊候補
 - ザ・ゴール 2 - 思考プロセス エリヤフ・ゴールドラット 375p_4478420416.pdf
 - ザ・ファシリテーター 森 時彦 353p_4478360715.pdf #マネジメント #100冊候補
 - サーチ・インサイド・ユアセルフ - 仕事と人生を飛躍させるグーグルのマインドフルネス実践法 チャディー・メン・タン 283p_B01ESTWPYC.pdf #キャリア #100冊候補
-- サーバーレスシングルページアプリケーション -S3、AWS Lambda、API Gateway、DynamoDB、Cognito で構築するスケーラブルな Web サービス Ben Rady 232p_4873118069.pdf
+- サーバーレスシングルページアプリケーション -S3、AWS Lambda、API Gateway、DynamoDB、Cognito で構築するスケーラブルな Web サービス Ben Rady 232p_4873118069.pdf #技術/クラウド
 - サッカー データ革命 ロングボールは時代遅れか クリス・アンダーゼン 390p_4777813223.pdf #スポーツ/サッカー
 - サッカー バルセロナ戦術アナライズ 最強チームのセオリーを読み解く 西部謙司 304p_4862550908.pdf #スポーツ/サッカー
 - サッカーアナリストのすゝめ 「テクノロジー」と「分析」で支える新時代の専門職 （footballista） 杉崎健 254p_4905349559.pdf #スポーツ/サッカー
@@ -1029,9 +1029,9 @@
 - サプリメントまるわかり大事典 桑原 弘樹 223p_4583102518.pdf
 - さよなら、インタフェース -脱「画面」の思考法 ゴールデン・クリシュナ 296p_4861009936.pdf
 - さよならフットボール（2）＜完＞ （KC デラックス） 新川 直司 224p_4063759776.pdf #スポーツ/サッカー
-- システムアーキテクチャ構築の原理 IT アーキテクトが持つべき 3 つの思考 （IT Architects’Archive ソフトウェア開発の実践） ニック・ロザンスキ 560p_4798116424.pdf #設計 #100冊候補
-- システム運用アンチパターン -エンジニアが DevOps で解決する組織・自動化・コミュニケーション Jeffery D． Smith 352p_4873119847.pdf
-- システム設計の謎を解く 強い SE になるための、機能設計／入出力設計の極意 高安 厚思 260p_4797358181.pdf #設計 #100冊候補
+- システムアーキテクチャ構築の原理 IT アーキテクトが持つべき 3 つの思考 （IT Architects’Archive ソフトウェア開発の実践） ニック・ロザンスキ 560p_4798116424.pdf #技術/設計 #100冊候補
+- システム運用アンチパターン -エンジニアが DevOps で解決する組織・自動化・コミュニケーション Jeffery D． Smith 352p_4873119847.pdf #技術/インフラ
+- システム設計の謎を解く 強い SE になるための、機能設計／入出力設計の極意 高安 厚思 260p_4797358181.pdf #技術/設計 #100冊候補
 - シップブレイカー （ハヤカワ文庫 SF） パオロ・バチガルピ 431p_4150118671.pdf #教養 #100冊候補
 - シャイニング〈下〉 （文春文庫） スティーヴン キング 441p_4167705648.pdf
 - シャイニング〈上〉 （文春文庫） スティーヴン キング 421p_416770563X.pdf
@@ -1040,8 +1040,8 @@
 - スタイルシート スタンダード・デザインガイド-SEO／ユーザビリティ／アクセシビリティを考慮した実践的 HTML＆CSS デザイン術 エ・ビスコム・テック・ラボ 303p_4839915016.pdf
 - スタジアムの宙にしあわせの歌が響く街： スポーツでこの国を変えるために 天野 春果 224p_4093885184.pdf #スポーツ
 - スタンフォード式 疲れない体 山田知生 254p_4763136879.pdf
-- スッキリわかる Java 入門 第 2 版 （スッキリシリーズ） 中山 清喬：：国本 大悟 658p_484433638X.pdf #プログラミング #100冊候補
-- スッキリわかるサーブレット＆JSP 入門 第 2 版 （スッキリシリーズ） 国本大悟 512p_4295005940.pdf #プログラミング #100冊候補
+- スッキリわかる Java 入門 第 2 版 （スッキリシリーズ） 中山 清喬：：国本 大悟 658p_484433638X.pdf #技術/プログラミング #100冊候補 #Java
+- スッキリわかるサーブレット＆JSP 入門 第 2 版 （スッキリシリーズ） 国本大悟 512p_4295005940.pdf #技術/プログラミング #100冊候補
 - ストライカーのつくり方 アルゼンチンはなぜ得点を量産できるのか （講談社現代新書） 藤坂 ガルシア千鶴 256p_406288111X.pdf
 - ストレスフリーの仕事術-仕事と人生をコントロールする 52 の法則 デビッド アレン 222p_4576060732.pdf #仕事術 #古典 #100冊候補
 - すばらしい新世界 （光文社古典新訳文庫） オルダス ハクスリー 433p_4334752721.pdf
@@ -1051,22 +1051,22 @@
 - セイラー教授の行動経済学入門 リチャード・セイラー 308p_4478002630.pdf #教養 #100冊候補
 - ゼロからトースターを作ってみた トーマス・トウェイツ 192p_4864101949.pdf
 - ゼロからわかるビジネス数学 岸本 光永 311p_4532407451.pdf
-- ゼロから学ぶ Visual C++-MFC の基本がわかる！ （日経 BP パソコンベストムック） 日経ソフトウエア 202p_4822216934.pdf
+- ゼロから学ぶ Visual C++-MFC の基本がわかる！ （日経 BP パソコンベストムック） 日経ソフトウエア 202p_4822216934.pdf #技術/プログラミング #Cpp
 - ゼロから学ぶソフトウエア設計-ER モデル,オブジェクト指向,UML がわかる！ （日経 BP パソコンベストムック） 日経ソフトウエア 210p_4822216926.pdf
-- ゼロから作る Deep Learning -Python で学ぶディープラーニングの理論と実装 斎藤 康毅 320p_4873117585.pdf
-- ゼロから作る Deep Learning 2 -自然言語処理編 斎藤 康毅 432p_4873118360.pdf
+- ゼロから作る Deep Learning -Python で学ぶディープラーニングの理論と実装 斎藤 康毅 320p_4873117585.pdf #技術/AI #Python
+- ゼロから作る Deep Learning 2 -自然言語処理編 斎藤 康毅 432p_4873118360.pdf #技術/AI
 - ゼロから作る Deep Learning 3 -フレームワーク編 斎藤 康毅 552p_4873119065.pdf
-- ゼロトラストネットワーク -境界防御の限界を超えるためのセキュアなシステム設計 Evan Gilman 304p_4873118883.pdf
-- ゼロトラストネットワーク［実践］入門 野村総合研究所 304p_4297126257.pdf
+- ゼロトラストネットワーク -境界防御の限界を超えるためのセキュアなシステム設計 Evan Gilman 304p_4873118883.pdf #技術/インフラ #技術/セキュリティ
+- ゼロトラストネットワーク［実践］入門 野村総合研究所 304p_4297126257.pdf #技術/インフラ #技術/セキュリティ
 - そうか、君は課長になったのか。 （ポケット・シリーズ） 佐々木 常夫 208p_4872906160.pdf #キャリア #100冊候補
 - ソーシャル・エンジニアリング クリストファー・ハドナジー 420p_4822284972.pdf
 - その「エンジニア採用」が不幸を生む 〜良い人材を見つけ、活躍してもらうには何が必要か？ 正道寺 雅信 272p_4774186015.pdf #マネジメント #100冊候補
 - ソフトウェアエンジニアリング基礎知識体系 -SWEBOK V3．0- 448p_4274505219.pdf
-- ソフトウェアテスト技法 ボーリス バイザー 443p_4822710017.pdf #テスト #100冊候補
+- ソフトウェアテスト技法 ボーリス バイザー 443p_4822710017.pdf #技術/テスト #100冊候補
 - そらトびタマシイ （アフタヌーン KC デラックス） 五十嵐 大介 244p_4063345831.pdf
 - それでもしますか、お葬式？ 1 （ヤングジャンプコミックス） 岡井 ハルコ 202p_4088917715.pdf
 - だし生活、はじめました。 梅津 有希子 221p_4396615442.pdf
-- たのしい Ruby 第 4 版 高橋 征義：：後藤 裕蔵 520p_4797372273.pdf
+- たのしい Ruby 第 4 版 高橋 征義：：後藤 裕蔵 520p_4797372273.pdf #技術/プログラミング #Ruby
 - ダンピアのおいしい冒険（1） トマトスープ 216p_4781618960.pdf
 - ダンピアのおいしい冒険（2） トマトスープ 216p_4781619363.pdf
 - ダンピアのおいしい冒険（3） トマトスープ 216p_4781619924.pdf
@@ -1076,9 +1076,9 @@
 - つくおき 週末まとめて作り置きレシピ （美人時間ブック） nozomi 127p_433497841X.pdf
 - ディエゴを探して 藤坂ガルシア千鶴 224p_4781619967.pdf #スポーツ/サッカー
 - ディズニー CEO が実践する 10 の原則 ロバート・アイガー 360p_415209933X.pdf
-- データ指向アプリケーションデザイン -信頼性、拡張性、保守性の高い分散システム設計の原理 Martin Kleppmann 660p_4873118700.pdf #設計 #100冊候補
+- データ指向アプリケーションデザイン -信頼性、拡張性、保守性の高い分散システム設計の原理 Martin Kleppmann 660p_4873118700.pdf #技術/設計 #100冊候補
 - テクノロジーの世界経済史 ビル・ゲイツのパラドックス カール・B・フレイ 650p_4822289028.pdf #教養 #100冊候補
-- テスト駆動開発 Kent Beck 344p_4274217884.pdf #テスト #古典 #100冊候補
+- テスト駆動開発 Kent Beck 344p_4274217884.pdf #技術/テスト #古典 #100冊候補
 - デッドライン トム デマルコ 310p_4822280535.pdf #仕事術 #100冊候補
 - デリバティブキーワード 333 764p_4322121780.pdf
 - デル ピエロ 真のサッカー選手になるための 10 の心得 アレッサンドロ デルピエロ 189p_4163764801.pdf #スポーツ/サッカー
@@ -1098,18 +1098,18 @@
 - ネイティブの感覚でもっともっと前置詞が使える （CD book） ロス 典子 324p_4860641000.pdf
 - ねじまき少女 下 （ハヤカワ文庫 SF） パオロ・バチガルピ 384p_4150118108.pdf #教養 #100冊候補
 - ねじまき少女 上 （ハヤカワ文庫 SF） パオロ・バチガルピ 400p_4150118094.pdf
-- ネットワークはなぜつながるのか 第 2 版 知っておきたい TCP／IP、LAN、光ファイバの基礎知識 戸根 勤 445p_4822283119.pdf
+- ネットワークはなぜつながるのか 第 2 版 知っておきたい TCP／IP、LAN、光ファイバの基礎知識 戸根 勤 445p_4822283119.pdf #技術/インフラ
 - パートナーストレッチング スポーツ編-パフォーマンス向上に役立つ 伊藤 マモル 215p_4583101481.pdf #スポーツ
-- パーフェクト Java EE 井上 誠一郎 592p_4774183164.pdf
+- パーフェクト Java EE 井上 誠一郎 592p_4774183164.pdf #技術/プログラミング #Java
 - パーフェクト・ストレッチ 五十嵐 悠哉 192p_4816344292.pdf
 - ハイブリッドアジャイルの実践 英 繁雄 272p_4897979358.pdf
-- ハイブリッド外交官の仕事術 （PHP 文庫） 宮家 邦彦 279p_4569765491.pdf
+- ハイブリッド外交官の仕事術 （PHP 文庫） 宮家 邦彦 279p_4569765491.pdf #技術/プログラミング #PHP
 - パケットキャプチャの教科書 （Informatics＆IDEA） みやた ひろし 384p_4797390719.pdf
 - はじめての GTD ストレスフリーの整理術 デビッド・アレン 294p_4576082116.pdf #仕事術 #古典 #100冊候補
-- はじめて学ぶソフトウェアのテスト技法 リー・コープランド 253p_4822282511.pdf #テスト #100冊候補
-- パターン認識と機械学習 下 （ベイズ理論による統計的予測） C．M． ビショップ 433p_4621061240.pdf
-- パターン認識と機械学習 上 C．M． ビショップ 349p_4621061224.pdf
-- ハッカーと画家 コンピュータ時代の創造者たち ポール グレアム 280p_4274065979.pdf #プログラミング #古典 #100冊候補
+- はじめて学ぶソフトウェアのテスト技法 リー・コープランド 253p_4822282511.pdf #技術/テスト #100冊候補
+- パターン認識と機械学習 下 （ベイズ理論による統計的予測） C．M． ビショップ 433p_4621061240.pdf #技術/AI
+- パターン認識と機械学習 上 C．M． ビショップ 349p_4621061224.pdf #技術/AI
+- ハッカーと画家 コンピュータ時代の創造者たち ポール グレアム 280p_4274065979.pdf #技術/プログラミング #古典 #100冊候補
 - パワープログラミング MFC COM （SOFTBANK BOOKS） ジュリアン テンプルマン 541p_4797305541.pdf
 - ピープルウエア 第 3 版 トム・デマルコ 320p_4822285243.pdf #仕事術 #古典 #100冊候補
 - ビジネスフレームワーク図鑑 すぐ使える問題解決・アイデア発想ツール 70 小野 義直 216p_4798156914.pdf
@@ -1125,47 +1125,47 @@
 - フラッシュ・ボーイズ 10 億分の 1 秒の男たち マイケル ルイス 346p_4163901418.pdf
 - フランスの育成はなぜ欧州各国にコピーされるのか-世界最先端フットボール育成バイブル 結城 麻里 357p_4809412369.pdf #スポーツ/サッカー
 - ブルシット・ジョブ--クソどうでもいい仕事の理論 デヴィッド・グレーバー 424p_4000614134.pdf
-- プログラマーなら知っておきたい 40 のアルゴリズム 定番・最新系を Python で実践！ （impress top gear） Imran Ahmad 368p_429501267X.pdf #プログラミング #100冊候補
-- プログラマのための SQL 第 2 版 ジョー セルコ 522p_4894714809.pdf #プログラミング #100冊候補
+- プログラマーなら知っておきたい 40 のアルゴリズム 定番・最新系を Python で実践！ （impress top gear） Imran Ahmad 368p_429501267X.pdf #技術/プログラミング #100冊候補 #Python
+- プログラマのための SQL 第 2 版 ジョー セルコ 522p_4894714809.pdf #技術/プログラミング #100冊候補 #技術/データベース
 - プログラマのためのサバイバルマニュアル Josh Carter 260p_487311571X.pdf
 - プログラマの考え方がおもしろいほど身につく本 問題解決能力を鍛えよう！ V．Anton Spraul 256p_4048869558.pdf
-- プログラミング C#-C#2．0／．NET2．0／Visual Studio2005 対応 ジェシー リバティ 645p_4873112648.pdf
-- プログラミング Rust Jim Blandy 608p_4873118557.pdf #プログラミング #100冊候補
-- プログラミング Scala Dean Wampler 544p_4873114810.pdf #プログラミング #100冊候補
+- プログラミング C#-C#2．0／．NET2．0／Visual Studio2005 対応 ジェシー リバティ 645p_4873112648.pdf #技術/プログラミング #CSharp
+- プログラミング Rust Jim Blandy 608p_4873118557.pdf #技術/プログラミング #100冊候補 #Rust
+- プログラミング Scala Dean Wampler 544p_4873114810.pdf #技術/プログラミング #100冊候補 #Scala
 - プログラミング Windows 第 5 版〈下〉Win32 API を扱う開発者のための決定版！ （Microsoft Programming Series） チャールズ ペゾルド 739p_475613601X.pdf
 - プログラミング Windows 第 5 版〈上〉Win32 API を扱う開発者のための決定版！ （Microsoft Programming Series） チャールズ ペゾルド 790p_4756136001.pdf
-- プログラミング言語 C++第 4 版 ビャーネ・ストラウストラップ 1360p_4797375957.pdf #プログラミング #100冊候補
-- プログラミング言語 Go （ADDISON-WESLEY PROFESSIONAL COMPUTING SERIES） Alan A．A． Donovan 462p_4621300253.pdf
+- プログラミング言語 C++第 4 版 ビャーネ・ストラウストラップ 1360p_4797375957.pdf #技術/プログラミング #100冊候補 #Cpp
+- プログラミング言語 Go （ADDISON-WESLEY PROFESSIONAL COMPUTING SERIES） Alan A．A． Donovan 462p_4621300253.pdf #技術/プログラミング #Go
 - プロジェクトマネジメント・ツールボックス ドラガン・ミロセビッチ 568p_4306011461.pdf #仕事術 #100冊候補
-- プロダクティブ・プログラマ -プログラマのための生産性向上術 （THEORY／IN／PRACTICE） Neal Ford 284p_4873114020.pdf #プログラミング #100冊候補
+- プロダクティブ・プログラマ -プログラマのための生産性向上術 （THEORY／IN／PRACTICE） Neal Ford 284p_4873114020.pdf #技術/プログラミング #100冊候補
 - ブロックチェーンアプリケーション開発の教科書 加嵜 長門 336p_4839965137.pdf
 - プロフェッショナル ANDROID ゲームプログラミング ウラジーミル・シルバ 338p_4822284301.pdf
 - プロ野球「経営」全史 球団オーナー 55 社の興亡 中川 右介 448p_4534058756.pdf #スポーツ
 - ペスト （新潮文庫） カミュ 476p_4102114033.pdf
 - ベスト・パートナーになるために： 男は火星から、女は金星からやってきた （単行本） ジョン グレイ 238p_4837957439.pdf
-- ベタープログラマ -優れたプログラマになるための 38 の考え方とテクニック Pete Goodliffe 376p_4873118204.pdf #プログラミング #100冊候補
+- ベタープログラマ -優れたプログラマになるための 38 の考え方とテクニック Pete Goodliffe 376p_4873118204.pdf #技術/プログラミング #100冊候補
 - ペップ・グアルディオラ キミにすべてを語ろう 436p.pdf
 - ペップの狂気 妥協なき理想主義が生むフットボールの究極形 D．シュルツェ=マルメリンク 456p_4862552447.pdf #スポーツ/サッカー
 - ベルギービールという芸術 （光文社新書） 田村 功 312p_4334031617.pdf
 - ヘルシープログラマ -プログラミングを楽しく続けるための健康 Hack Joe Kutner 296p_4873117283.pdf
 - ベンダー・マネジメントの極意 長尾 清一 295p_4822262359.pdf
 - ホワット・イフ？ Q1： 野球のボールを光速で投げたらどうなるか （ハヤカワ文庫 NF） ランドール・マンロー 240p_4150505519.pdf #教養 #100冊候補
-- マイクロサービスアーキテクチャ Sam Newman 344p_4873117607.pdf #設計 #100冊候補
-- マイクロサービスパターン［実践的システムデザインのためのコード解説］ （impress top gear） Chris Richardson 550p_4295008583.pdf #設計 #100冊候補
+- マイクロサービスアーキテクチャ Sam Newman 344p_4873117607.pdf #技術/設計 #100冊候補
+- マイクロサービスパターン［実践的システムデザインのためのコード解説］ （impress top gear） Chris Richardson 550p_4295008583.pdf #技術/設計 #100冊候補
 - マイナス金利 徳勝 礼子 264p_4492396276.pdf
 - マスタリング TCP／IP-入門編-（第 6 版） 井上 直也 384p_4274224473.pdf
-- まるごと PHP！〈Vol．1〉 山田 祥寛 227p_4844320254.pdf
+- まるごと PHP！〈Vol．1〉 山田 祥寛 227p_4844320254.pdf #技術/プログラミング #PHP
 - マンガでわかる統計学 高橋 信 215p_4274065707.pdf
 - マンガ版マルチスピーシーズ人類学 （シリーズ人間を超える） MOSA 344p_475310365X.pdf
 - マンスキー データ分析と意思決定理論 不確実な世界で政策の未来を予測する チャールズ・マンスキー 348p_447810574X.pdf
 - ミルトン・エリクソンの催眠テクニック I： 【言語パターン篇】 リチャード・バンドラー 310p_4393361237.pdf
 - ミルトン・エリクソンの催眠テクニック II： 【知覚パターン篇】 リチャード・バンドラー 294p_4393361245.pdf
 - みるみる英語力がアップする音読パッケージトレーニング（CD BOOK） 森沢 洋介 173p_4860642465.pdf #英語
-- みんなの Go 言語【現場で使える実践テクニック】 松木雅幸 144p_477418392X.pdf #プログラミング #100冊候補
+- みんなの Go 言語【現場で使える実践テクニック】 松木雅幸 144p_477418392X.pdf #技術/プログラミング #100冊候補 #Go
 - ムーン・パレス （新潮文庫） ポール・オースター 532p_4102451048.pdf
 - モウリーニョ どうしてこんなに勝てるのか？ B． オリヴェイラ 172p_4062139626.pdf
 - モウリーニョの流儀 片野道郎 254p_4309271324.pdf
-- モダン・ソフトウェアエンジニアリング Ivar Jacobson 352p_4798165220.pdf #設計 #100冊候補
+- モダン・ソフトウェアエンジニアリング Ivar Jacobson 352p_4798165220.pdf #技術/設計 #100冊候補
 - モダン C 言語プログラミング 花井 志生 280p_4048930672.pdf
 - モダンサッカーの教科書 イタリア新世代コーチが教える未来のサッカー レナート・バルディ 304p_4905349370.pdf #スポーツ/サッカー
 - モバイルアプリ開発エキスパート養成読本 （Software Design plus） 山戸 茂樹 192p_4774188638.pdf
@@ -1173,7 +1173,7 @@
 - やさしくわかる BABOK 清水 千博：：銅谷 克樹：：川添 真智子 287p_4798030112.pdf #プロダクト #100冊候補
 - やりたいことがさくっと実現する インバスケット的「根回し」仕事術 鳥原隆志 283p_4396614969.pdf #仕事術 #100冊候補
 - ユースケース実践ガイド-効果的なユースケースの書き方 （OOP Foundations） アリスター コーバーン 360p_4798101273.pdf #プロダクト #100冊候補
-- ユニコーン企業のひみつ -Spotify で学んだソフトウェアづくりと働き方 Jonathan Rasmusson 212p_4873119464.pdf #プログラミング #100冊候補
+- ユニコーン企業のひみつ -Spotify で学んだソフトウェアづくりと働き方 Jonathan Rasmusson 212p_4873119464.pdf #技術/プログラミング #100冊候補
 - ヨーロッパ・サッカートゥデイ 2001-2002 シーズン開幕号 （NSK MOOK） ワールドサッカーダイジェスト 138p_4930942403.pdf #スポーツ/サッカー
 - ヨーロッパサッカー・トゥデイ 2003-2004 シーズン開幕号 （NSK MOOK） ワールドサッカーダイジェスト 154p_4930942543.pdf #スポーツ/サッカー
 - ヨーロッパサッカー・トゥデイ 2006-2007 シーズン開幕号 （NSK MOOK） ワールドサッカーダイジェスト 162p_4930942810.pdf #スポーツ/サッカー
@@ -1191,11 +1191,11 @@
 - ヨーロッパサッカー・トゥデイ 2019-2020 シーズン開幕号 （NSK MOOK） ワールドサッカーダイジェスト 162p_4905411688.pdf #スポーツ/サッカー
 - ヨーロッパサッカー・トゥデイ 2020-2021 シーズン開幕号 （NSK MOOK） ワールドサッカーダイジェスト 162p_4905411769.pdf #スポーツ/サッカー
 - ライティングソフトウェア Juval Loewy 412p_4798166839.pdf
-- リアルワールドバグハンティング -ハッキング事例から学ぶウェブの脆弱性 Peter Yaworski 280p_4873119219.pdf
+- リアルワールドバグハンティング -ハッキング事例から学ぶウェブの脆弱性 Peter Yaworski 280p_4873119219.pdf #技術/セキュリティ
 - リーダーの仮面 ーー 「いちプレーヤー」から「マネジャー」に頭を切り替える思考法 安藤広大 288p_4478110514.pdf #マネジメント #100冊候補
-- リーダブルコード -より良いコードを書くためのシンプルで実践的なテクニック （Theory in practice） Dustin Boswell 260p_4873115655.pdf #プログラミング #古典 #100冊候補
-- リファクタリング-プログラムの体質改善テクニック （Object Technology Series） マーチン ファウラー 423p_4894712288.pdf #設計 #古典 #100冊候補
-- リファクタリング・ウェットウェア -達人プログラマーの思考法と学習法 Andy Hunt 304p_4873114039.pdf #プログラミング #100冊候補
+- リーダブルコード -より良いコードを書くためのシンプルで実践的なテクニック （Theory in practice） Dustin Boswell 260p_4873115655.pdf #技術/プログラミング #古典 #100冊候補
+- リファクタリング-プログラムの体質改善テクニック （Object Technology Series） マーチン ファウラー 423p_4894712288.pdf #技術/設計 #古典 #100冊候補
+- リファクタリング・ウェットウェア -達人プログラマーの思考法と学習法 Andy Hunt 304p_4873114039.pdf #技術/プログラミング #100冊候補
 - リファクタリング（第 2 版）： 既存のコードを安全に改善する （OBJECT TECHNOLOGY SERIES） Martin Fowler 434p_4274224546.pdf
 - ルポ 日本の DX 最前線 （インターナショナル新書） 酒井 真弓 240p_4797680741.pdf
 - ルワンダ中央銀行総裁日記 （中公新書） 服部 正也 339p_4121902904.pdf #金融
@@ -1204,9 +1204,9 @@
 - ワーク・ルールズ！-君の生き方とリーダーシップを変える ラズロ・ボック 560p_4492533656.pdf #マネジメント #100冊候補
 - ワールドサッカーユニフォーム 1000 熱き魂が宿る栄光のシンボル レジェンドストーリー ベルナル・リオン 304p_4766126742.pdf #スポーツ/サッカー
 - ワイルドアームズ 10th アニバーサリーファンブック 256p_4840236682.pdf
-- わかりやすい Java EE ウェブシステム入門 川場隆 578p_B00XTOSYIY.pdf
-- 暗号解読 下巻 （新潮文庫 シ 37-3） サイモン シン 382p_4102159738.pdf #教養 #100冊候補
-- 暗号解読〈上〉 （新潮文庫） サイモン シン 340p_410215972X.pdf
+- わかりやすい Java EE ウェブシステム入門 川場隆 578p_B00XTOSYIY.pdf #技術/プログラミング #Java
+- 暗号解読 下巻 （新潮文庫 シ 37-3） サイモン シン 382p_4102159738.pdf #教養 #100冊候補 #技術/セキュリティ
+- 暗号解読〈上〉 （新潮文庫） サイモン シン 340p_410215972X.pdf #技術/セキュリティ
 - 暗殺から読む世界史 ジョン・ウイッティントン 488p_4490210612.pdf
 - 異色官僚 （現代教養文庫-ベスト・ノンフィクション） 佐橋 滋 330p_4390115278.pdf
 - 異端の統計学 ベイズ シャロン・バーチュ マグレイン 510p_4794220014.pdf
@@ -1231,7 +1231,7 @@
 - 科学的に正しい筋トレ 最強の教科書 庵野 拓将 352p_4046023120.pdf #スポーツ
 - 解析魔法少女美咲ちゃん マジカル・オープン！ やねう解析チーム 279p_4798008532.pdf
 - 解説者の流儀 戸田 和幸 255p_480031481X.pdf
-- 改訂新版 JavaScript 本格入門 〜モダンスタイルによる基礎から現場での応用まで 山田 祥寛 456p_477418411X.pdf #プログラミング #100冊候補
+- 改訂新版 JavaScript 本格入門 〜モダンスタイルによる基礎から現場での応用まで 山田 祥寛 456p_477418411X.pdf #技術/プログラミング #100冊候補 #JavaScript
 - 海外出張／カタログ・ウェブサイト／展示会で 売れる英語 大澤 裕 240p_4478101698.pdf #英語
 - 海上自衛官が南極観測船「しらせ」で学んだ きつい仕事に潰されない人のルール 泊 太郎 272p_4798051195.pdf
 - 開発ツール徹底攻略 Junio C Hamano 232p_4774156167.pdf
@@ -1242,11 +1242,11 @@
 - 株を買うなら最低限知っておきたい 株価チャートの教科書 足立 武志 280p_4478029075.pdf #金融
 - 完売画家 中島 健太 252p_4484212234.pdf
 - 患者の話は医師にどう聞こえるのか ダニエル・オーフリ 320p_4622089513.pdf
-- 関数プログラミング入門 -Haskell で学ぶ原理と技法- Richard Bird 448p_427406896X.pdf #プログラミング #100冊候補
+- 関数プログラミング入門 -Haskell で学ぶ原理と技法- Richard Bird 448p_427406896X.pdf #技術/プログラミング #100冊候補 #Haskell
 - 顔貌売人 ハッカー探偵 鹿敷堂桂馬 柳井 政和 317p_4163906975.pdf
 - 基礎から学ぶ ノーコード開発 NoCode Ninja（森岡 修一） 296p_4863543409.pdf
 - 基本からわかる英語リーディング教本 薬袋 善郎 303p_4327451371.pdf #英語
-- 基本から学ぶソフトウェアテスト Cem Kaner 471p_4822281132.pdf #テスト #100冊候補
+- 基本から学ぶソフトウェアテスト Cem Kaner 471p_4822281132.pdf #技術/テスト #100冊候補
 - 記憶に自信のなかった私が世界記憶力選手権で 8 回優勝した最強のテクニック ドミニク・オブライエン 272p_4767814219.pdf #学び方 #100冊候補
 - 虚数の情緒-中学生からの全方位独学法 吉田 武 1001p_4486014855.pdf #教養 #100冊候補
 - 九月の恋と出会うまで （新潮文庫） 松尾 由美 323p_4101280533.pdf
@@ -1280,17 +1280,17 @@
 - 屍者の帝国 伊藤 計劃 459p_4309021263.pdf
 - 市場の神々-為替ディーラーの光と陰 堀内 昭利 413p_4795249156.pdf #金融
 - 思考の整理学 （ちくま文庫） 外山 滋比古 232p_4480020470.pdf #学び方 #古典 #100冊候補
-- 施策デザインのための機械学習入門〜データ分析技術のビジネス活用における正しい考え方 齋藤 優太 336p_4297122243.pdf
+- 施策デザインのための機械学習入門〜データ分析技術のビジネス活用における正しい考え方 齋藤 優太 336p_4297122243.pdf #技術/AI
 - 私の財産告白 （実業之日本社文庫） 本多 静六 216p_4408551228.pdf
 - 私はフェルメール 20 世紀最大の贋作事件 フランク・ウイン 328p_4270002344.pdf
 - 自重筋力トレーニングアナトミィ ブレット・コントレラス 224p_4882829223.pdf
 - 失敗の本質-日本軍の組織論的研究 （中公文庫） 戸部 良一 413p_4122018331.pdf
-- 実戦で役立つ C#プログラミングのイディオム／定石＆パターン 出井 秀行 496p_4774187585.pdf
-- 実践 TypeScript 〜 BEF と Next．ju＆Nuxt．js の型定義〜 吉井健文 352p_483996937X.pdf #プログラミング #100冊候補
+- 実戦で役立つ C#プログラミングのイディオム／定石＆パターン 出井 秀行 496p_4774187585.pdf #技術/プログラミング #CSharp
+- 実践 TypeScript 〜 BEF と Next．ju＆Nuxt．js の型定義〜 吉井健文 352p_483996937X.pdf #技術/プログラミング #100冊候補 #TypeScript
 - 実践 UML 第 3 版 オブジェクト指向分析設計と反復型開発入門 クレーグ・ラーマン 700p_4894716828.pdf
-- 実践ドメイン駆動設計 （Object Oriented SELECTION） ヴァーン・ヴァーノン 616p_479813161X.pdf #設計 #100冊候補
+- 実践ドメイン駆動設計 （Object Oriented SELECTION） ヴァーン・ヴァーノン 616p_479813161X.pdf #技術/設計 #100冊候補
 - 実務で役立つ WBS 入門 （プロジェクトマネジメントマガジン） Gregory T． Haugan 180p_4798108499.pdf #仕事術 #100冊候補
-- 実例で学ぶゲーム AI プログラミング Mat Buckland 536p_4873113393.pdf
+- 実例で学ぶゲーム AI プログラミング Mat Buckland 536p_4873113393.pdf #技術/AI
 - 捨てる仕事術 ピョートル・フェリクス・グジバチ 240p_4413231112.pdf
 - 社長失格 板倉 雄一郎 370p_4822241300.pdf
 - 手にとるように NLP がわかる本 加藤 聖龍 253p_4761266228.pdf
@@ -1298,7 +1298,7 @@
 - 朱の丸御用船 （文春文庫） 吉村 昭 233p_4167169355.pdf
 - 修羅場の極意 （中公新書ラクレ） 佐藤 優 218p_412150500X.pdf #キャリア #100冊候補
 - 集合知プログラミング Toby Segaran 392p_4873113644.pdf
-- 初めてのディープラーニング --オープンソース”Caffe”による演習付き 武井 宏将 156p_4865940227.pdf
+- 初めてのディープラーニング --オープンソース”Caffe”による演習付き 武井 宏将 156p_4865940227.pdf #技術/AI
 - 初夜 （新潮クレスト・ブックス） イアン・マキューアン 172p_410590079X.pdf
 - 除脂肪メソッド-リバウンド知らずの“脂肪撃退”マニュアル 岡田 隆 103p_4583108192.pdf
 - 小さな会社「これが社長の仕事です！」 バウンド 224p_4788907933.pdf
@@ -1310,17 +1310,17 @@
 - 心理的安全性のつくりかた 石井 遼介 336p_4820728245.pdf #マネジメント #100冊候補
 - 新（図表）地方自治法・公務員法 大城 純男 291p_4809040623.pdf
 - 新装版 ミルトン・エリクソンの催眠療法入門 W・H・オハンロン 248p_4772414835.pdf
-- 新装版 リファクタリング-既存のコードを安全に改善する- （OBJECT TECHNOLOGY SERIES） Martin Fowler 480p_427405019X.pdf #プログラミング #100冊候補
+- 新装版 リファクタリング-既存のコードを安全に改善する- （OBJECT TECHNOLOGY SERIES） Martin Fowler 480p_427405019X.pdf #技術/プログラミング #100冊候補
 - 新装版 夜明けの雷鳴 -医師 高松凌雲 （文春文庫） 吉村 昭 357p_4167906562.pdf
 - 新版 SE を極める 50 の鉄則 入門編 馬場 史郎 280p_4822262502.pdf
-- 深層学習 （機械学習プロフェッショナルシリーズ） 岡谷 貴之 176p_4061529021.pdf
-- 深層学習 Deep Learning （監修：人工知能学会） 麻生 英樹：：安田 宗樹：：前田 新一：：岡野原 大輔：：岡谷 貴之：：久保 陽太郎：：ボレガラ ダヌシカ 267p_476490487X.pdf
+- 深層学習 （機械学習プロフェッショナルシリーズ） 岡谷 貴之 176p_4061529021.pdf #技術/AI
+- 深層学習 Deep Learning （監修：人工知能学会） 麻生 英樹：：安田 宗樹：：前田 新一：：岡野原 大輔：：岡谷 貴之：：久保 陽太郎：：ボレガラ ダヌシカ 267p_476490487X.pdf #技術/AI
 - 人が辞めない会社がやっている「すごい」人事評価 高橋 恭介 0p_4776209527.pdf
 - 人を動かす力 （アスカビジネス） 椎名 規夫 223p_4756914772.pdf
-- 人月の神話-狼人間を撃つ銀の弾はない （Professional Computing Series） フレデリック・P,Jr． ブルックス 321p_4795296758.pdf #設計 #古典 #100冊候補
+- 人月の神話-狼人間を撃つ銀の弾はない （Professional Computing Series） フレデリック・P,Jr． ブルックス 321p_4795296758.pdf #技術/設計 #古典 #100冊候補
 - 人体大全 なぜ生まれ、死ぬその日まで無意識に動き続けられるのか ビル・ブライソン 512p_4105072315.pdf
 - 図解 超高速勉強法-「速さ」は「努力」にまさる！ 椋木 修三 246p_4766783190.pdf
-- 図解でわかる分散オブジェクト技術のすべて-ネットワーク＆システム構築 小泉 修 331p_4534033052.pdf
+- 図解でわかる分散オブジェクト技術のすべて-ネットワーク＆システム構築 小泉 修 331p_4534033052.pdf #技術/インフラ
 - 図解で学ぶ SE のための企業年金入門 シーエーシー金融ビジネスユニット 200p_4322115004.pdf #金融
 - 図解即戦力 要件定義のセオリーと実践方法がこれ 1 冊でしっかりわかる教科書 エディフィストラーニング株式会社 上村有子 208p_4297113678.pdf #プロダクト #100冊候補
 - 図説 地方公務員法ポイント 100 田中 徹也 161p_4809040593.pdf
@@ -1328,7 +1328,7 @@
 - 水神〈上〉 （新潮文庫） 帚木 蓬生 348p_4101288224.pdf
 - 数学者たちの楽園： 「ザ・シンプソンズ」を作った天才たち サイモン シン 421p_4105393065.pdf #教養 #100冊候補
 - 世界で活躍する日本人エリートのシンプル英語勉強法 戸塚 隆将 248p_4478104484.pdf #英語
-- 世界で闘うプログラミング力を鍛える 150 問 〜トップ IT 企業のプログラマになるための本〜 Gayle Laakmann McDowell 456p_4839942390.pdf #プログラミング #100冊候補
+- 世界で闘うプログラミング力を鍛える 150 問 〜トップ IT 企業のプログラマになるための本〜 Gayle Laakmann McDowell 456p_4839942390.pdf #技術/プログラミング #100冊候補
 - 世界の権力者が寵愛した銀行 タックスヘイブンの秘密を暴露した行員の告白 エルヴェ・ファルチャーニ 298p_4062195526.pdf #金融
 - 世界一やさしい金融工学の本です 田渕 直也 224p_4534040512.pdf #金融
 - 世界一わかりやすい 英単語の授業 関 正生 256p_4806137413.pdf #英語
@@ -1345,20 +1345,20 @@
 - 税金の世界史 ドミニク・フリスビー 320p_4309228305.pdf #金融
 - 絶対忘れない勉強法 堀田秀吾 240p_4776211173.pdf #学び方 #100冊候補
 - 先物・オプション取引入門 ジョン・C． ハル 541p_4894716372.pdf
-- 戦略ゲーム AI 解体新書 ストラテジー＆シミュレーションゲームから学ぶ最先端アルゴリズム （AI＆TECHNOLOGY） 三宅 陽一郎 292p_4798154415.pdf
-- 戦略的データサイエンス入門 -ビジネスに活かすコンセプトとテクニック Foster Provost 456p_4873116856.pdf
+- 戦略ゲーム AI 解体新書 ストラテジー＆シミュレーションゲームから学ぶ最先端アルゴリズム （AI＆TECHNOLOGY） 三宅 陽一郎 292p_4798154415.pdf #技術/AI
+- 戦略的データサイエンス入門 -ビジネスに活かすコンセプトとテクニック Foster Provost 456p_4873116856.pdf #技術/AI
 - 前置詞が使えるルールブック 石津 ジュディス 279p_4860640195.pdf
 - 善と悪のパラドックス ーヒトの進化と〈自己家畜化〉の歴史 リチャード・ランガム 474p_4757160801.pdf
 - 全脳エミュレーションの時代（下）：人工超知能 EM が支配する世界の全貌 ロビン・ハンソン 0p_4757103743.pdf
 - 全脳エミュレーションの時代（上）：人工超知能 EM が支配する世界の全貌 ロビン・ハンソン 322p_4757103735.pdf
 - 素人のための決算書読解術 原 英次郎 239p_4492601945.pdf #金融
 - 組織パターン （Object Oriented SELECTION） James O． Coplien 424p_4798128449.pdf #マネジメント #100冊候補
-- 増補改訂版 Java 言語で学ぶデザインパターン入門 マルチスレッド編 結城 浩 712p_4797331623.pdf #設計 #100冊候補
-- 増補改訂版 Java 言語で学ぶデザインパターン入門 結城 浩 484p_4797327030.pdf
+- 増補改訂版 Java 言語で学ぶデザインパターン入門 マルチスレッド編 結城 浩 712p_4797331623.pdf #技術/設計 #100冊候補 #Java
+- 増補改訂版 Java 言語で学ぶデザインパターン入門 結城 浩 484p_4797327030.pdf #技術/プログラミング #Java
 - 息吹 テッド・チャン 432p_4152098996.pdf
 - 存在の耐えられない軽さ （集英社文庫） ミラン・クンデラ 400p_4087603512.pdf
 - 対話による Common Lisp 入門 POD 版 栗原 正仁 224p_4627836090.pdf
-- 退屈なことは Python にやらせよう -ノンプログラマーにもできる自動化処理プログラミング Al Sweigart 608p_487311778X.pdf #プログラミング #100冊候補
+- 退屈なことは Python にやらせよう -ノンプログラマーにもできる自動化処理プログラミング Al Sweigart 608p_487311778X.pdf #技術/プログラミング #100冊候補 #Python
 - 代替医療解剖 （新潮文庫） サイモン シン 584p_4102159762.pdf #教養 #100冊候補
 - 第 5 版 投資家のための 金融マーケット予測ハンドブック 三井住友信託銀行マーケット事業 496p_4140815981.pdf #金融
 - 第六ポンプ （ハヤカワ文庫 SF） パオロ バチガルピ 510p_4150119341.pdf
@@ -1392,15 +1392,15 @@
 - 白と黒のとびら： オートマトンと形式言語をめぐる冒険 川添 愛 324p_4130633570.pdf
 - 叛逆航路 （創元 SF 文庫） アン・レッキー 496p_4488758010.pdf
 - 美学への招待 増補版 （中公新書） 佐々木 健一 316p_4121917413.pdf
-- 標準講座 C++-基礎から STL を利用したプログラミングまで （Programmer’s SELECTION） ハーバート シルト 653p_4881357050.pdf #プログラミング #100冊候補
+- 標準講座 C++-基礎から STL を利用したプログラミングまで （Programmer’s SELECTION） ハーバート シルト 653p_4881357050.pdf #技術/プログラミング #100冊候補 #Cpp
 - 服従の心理 （河出文庫） スタンレー ミルグラム 357p_430946369X.pdf
 - 分散システム-原理とパラダイム アンドリュー・S． タネンバウム 822p_4894715562.pdf
-- 分散システムデザインパターン -コンテナを使ったスケーラブルなサービスの設計 Brendan Burns 200p_4873118751.pdf #設計 #100冊候補
+- 分散システムデザインパターン -コンテナを使ったスケーラブルなサービスの設計 Brendan Burns 200p_4873118751.pdf #技術/設計 #100冊候補 #技術/インフラ
 - 文系のための数学教室 （講談社現代新書） 小島 寛之 224p_4061497596.pdf
 - 文庫 ふたりの老女 （草思社文庫） ヴェルマ ウォーリス 189p_4794220944.pdf
 - 文章が劇的にウマくなる「接続詞」 （アスカビジネス） 山口 拓朗 224p_4756920144.pdf
 - 並行コンピューティング技法 -実践マルチコア／マルチスレッドプログラミング Clay Breshears 284p_4873114357.pdf
-- 並行プログラミング入門 -Rust、C、アセンブリによる実装からのアプローチ 高野 祐輝 384p_4873119596.pdf
+- 並行プログラミング入門 -Rust、C、アセンブリによる実装からのアプローチ 高野 祐輝 384p_4873119596.pdf #技術/プログラミング #Rust
 - 亡霊星域 （創元 SF 文庫） アン・レッキー 448p_4488758029.pdf
 - 貿易戦争は階級闘争である--格差と対立の隠された構造 マシュー・C・クレイン 320p_4622089998.pdf
 - 北朝鮮 核の資金源：「国連捜査」秘録 古川 勝久 464p_4103514116.pdf
@@ -1419,14 +1419,14 @@
 - 末期ガンでも元気です 38 歳エロ漫画家、大腸ガンになる （POLARIS COMICS） ひるなま 160p_4866751401.pdf
 - 未来の年表 人口減少日本でこれから起きること （講談社現代新書） 河合 雅司 208p_4062884313.pdf
 - 未来の年表 2 人口減少日本であなたに起きること （講談社現代新書） 河合 雅司 240p_4065117682.pdf
-- 無料ではじめる Windows Azure×WordPress 超入門 戸倉 彩 208p_4844334425.pdf
+- 無料ではじめる Windows Azure×WordPress 超入門 戸倉 彩 208p_4844334425.pdf #技術/クラウド
 - 名将への挑戦状 〜世界のサッカー監督論〜 ヘスス・スアレス 208p_4809409694.pdf #スポーツ/サッカー
-- 明快入門 Visual C++ 2008 ビギナー編 （林晴比古実用マスターシリーズ） 林 晴比古 712p_4797352256.pdf
+- 明快入門 Visual C++ 2008 ビギナー編 （林晴比古実用マスターシリーズ） 林 晴比古 712p_4797352256.pdf #技術/プログラミング #Cpp
 - 面白すぎる天才科学者たち 世界を変えた偉人たちの生き様 （講談社+α 文庫） 内田 麻理香 304p_4062816520.pdf
 - 木曜日のボール 近藤 篤 133p_4140806176.pdf
 - 目の見えない白鳥さんとアートを見にいく 川内 有緒 336p_4797673990.pdf
-- 問題解決のための「アルゴリズム × 数学」が基礎からしっかり身につく本 米田 優峻 288p_4297125218.pdf #プログラミング #100冊候補
-- 問題解決力を鍛える！アルゴリズムとデータ構造 （KS 情報科学専門書） 大槻 兼資 368p_4065128447.pdf #プログラミング #100冊候補
+- 問題解決のための「アルゴリズム × 数学」が基礎からしっかり身につく本 米田 優峻 288p_4297125218.pdf #技術/プログラミング #100冊候補
+- 問題解決力を鍛える！アルゴリズムとデータ構造 （KS 情報科学専門書） 大槻 兼資 368p_4065128447.pdf #技術/プログラミング #100冊候補
 - 夜と霧 新版 ヴィクトール・E・フランクル 184p_4622039702.pdf #キャリア #100冊候補
 - 友情 平尾誠二と山中伸弥「最後の一年」 山中 伸弥 218p_406220827X.pdf
 - 融けるデザイン -ハード × ソフト × ネット時代の新たな設計論 渡邊恵太 240p_4861009383.pdf #プロダクト #100冊候補
@@ -1434,7 +1434,7 @@
 - 浴室 （集英社文庫） J・P・トゥーサン 192p_4087602540.pdf
 - 理科系の読書術 - インプットからアウトプットまでの 28 のヒント （中公新書） 鎌田 浩毅 203p_412102480X.pdf #学び方 #100冊候補
 - 裏切りのプログラム ハッカー探偵 鹿敷堂桂馬 柳井 政和 307p_4163905081.pdf
-- 流麗な JavaScript 第 3 版 （no starch pressress） マリン・ハーバーベーク 460p_4802613377.pdf #プログラミング #100冊候補
+- 流麗な JavaScript 第 3 版 （no starch pressress） マリン・ハーバーベーク 460p_4802613377.pdf #技術/プログラミング #100冊候補 #JavaScript
 - 量子力学と私 （岩波文庫） 朝永 振一郎 456p_400311521X.pdf
 - 令和を生きるための昭和史入門 （文春新書） 保阪 正康 302p_4166612212.pdf
 - 曖昧性とのたたかい-体験的プロジェクトマネジメント論 名内 泰蔵 229p_4798109053.pdf #仕事術 #100冊候補
@@ -1453,18 +1453,18 @@
 ## 202207
 
 - 2021-2022EUROPE SOCCER TODAY 開幕号： NSK ムック （NSK MOOK） ワールドサッカーダイジェスト 162p_490541184X.pdf #スポーツ/サッカー
-- Python ではじめるベイズ機械学習入門 （KS 情報科学専門書） 森賀 新 272p_406527978X.pdf
+- Python ではじめるベイズ機械学習入門 （KS 情報科学専門書） 森賀 新 272p_406527978X.pdf #技術/AI #Python
 - Rooms 海島千本イラスト+コミック集 海島 千本 128p_4756254764.pdf
 - Software Design （ソフトウェアデザイン） 2022 年 08 月号 ［雑誌］ Software Design 編集部 457p_B0B5T9DP4P.pdf
 - WEB+DB PRESS Vol．129 鈴木 僚太（うひょ） 168p_429712890X.pdf
 - リーダーの作法 -ささいなことをていねいに Michael Lopp 224p_4873119898.pdf #マネジメント #100冊候補
-- 現代暗号技術入門 David Wong（デイビッド・ウォン） 532p_4296080199.pdf
-- 初めての TensorFlow．js -JavaScript で学ぶ機械学習 Gant Laborde 368p_4873119936.pdf
+- 現代暗号技術入門 David Wong（デイビッド・ウォン） 532p_4296080199.pdf #技術/セキュリティ
+- 初めての TensorFlow．js -JavaScript で学ぶ機械学習 Gant Laborde 368p_4873119936.pdf #技術/AI #JavaScript
 
 ## 202208
 
 - RE-END 死から問うテクノロジーと社会 塚田有那 352p_4802512295.pdf
-- たった 1 日で基本が身に付く! Go 言語 超入門 清水美樹 224p_4297116170.pdf #プログラミング #100冊候補
+- たった 1 日で基本が身に付く! Go 言語 超入門 清水美樹 224p_4297116170.pdf #技術/プログラミング #100冊候補 #Go
 - シリコンバレー式 globody フィットネス Saya 144p_4065290031.pdf
 - プロダクトマネジメント -ビルドトラップを避け顧客に価値を届ける Melissa Perri 224p_4873119251.pdf #プロダクト #100冊候補
 - 作って学ぶ Next.js/React Web サイト構築 （Compass Web Development） エビスコム 352p_4839980179.pdf
@@ -1485,28 +1485,28 @@
 
 ## 202210
 
-- Java 言語プログラミングレッスン 第 3 版（上） Java 言語を始めよう 結城 浩 400p_4797371250.pdf #プログラミング #100冊候補
-- Java 言語プログラミングレッスン 第 3 版（下） オブジェクト指向を始めよう 結城 浩 416p_4797371269.pdf
+- Java 言語プログラミングレッスン 第 3 版（上） Java 言語を始めよう 結城 浩 400p_4797371250.pdf #技術/プログラミング #100冊候補 #Java
+- Java 言語プログラミングレッスン 第 3 版（下） オブジェクト指向を始めよう 結城 浩 416p_4797371269.pdf #技術/プログラミング #Java
 - WEB+DB PRESS Vol．131 吉川 哲史 168p_4297131110.pdf
 - ソフトウェアデザイン 2022 年 11 月号 宮原 徹 176p_B0BFH8LLLP.pdf
-- 初めての Go 言語 -他言語プログラマーのためのイディオマティック Go 実践ガイド Jon Bodner 464p_4814400047.pdf #プログラミング #100冊候補
+- 初めての Go 言語 -他言語プログラマーのためのイディオマティック Go 実践ガイド Jon Bodner 464p_4814400047.pdf #技術/プログラミング #100冊候補 #Go
 - 黒牢城 米澤 穂信 448p_4041113938.pdf
 
 ## 202211
 
-- AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方 中垣 健志 392p_4798163430.pdf
+- AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方 中垣 健志 392p_4798163430.pdf #技術/クラウド #技術/インフラ
 - アジャイルメトリクス Christopher W．H． Davis 288p_4798169412.pdf #マネジメント #100冊候補
-- スターティングGo言語 （CodeZine BOOKS） 松尾 愛賀 432p_4798142417.pdf
-- ハンズオンWebAssembly -EmscriptenとC++を使って学ぶWebAssemblyアプリケーションの開発方法 Gerard Gallant 516p_4814400101.pdf #プログラミング #100冊候補
+- スターティングGo言語 （CodeZine BOOKS） 松尾 愛賀 432p_4798142417.pdf #技術/プログラミング #Go
+- ハンズオンWebAssembly -EmscriptenとC++を使って学ぶWebAssemblyアプリケーションの開発方法 Gerard Gallant 516p_4814400101.pdf #技術/プログラミング #100冊候補 #Cpp
 - プロジェクトマネジメントの基本が全部わかる本 交渉・タスクマネジメント・計画立案から見積り・契約・要件定義・設計・テスト・保守改善まで 橋本 将功 272p_4798177415.pdf #仕事術 #100冊候補
-- マイクロフロントエンド -マイクロサービスアーキテクチャの概念をフロントエンドに拡張し、信頼性、自律性の高いシステムを構築する Luca Mezzalira 404p_4814400020.pdf #設計 #100冊候補
+- マイクロフロントエンド -マイクロサービスアーキテクチャの概念をフロントエンドに拡張し、信頼性、自律性の高いシステムを構築する Luca Mezzalira 404p_4814400020.pdf #技術/設計 #100冊候補
 
 ## 202212
 
-- AWSの基本・仕組み・重要用語が全部わかる教科書 （見るだけ図解） 川畑光平 536p_4815607850.pdf
+- AWSの基本・仕組み・重要用語が全部わかる教科書 （見るだけ図解） 川畑光平 536p_4815607850.pdf #技術/クラウド
 - Software Design （ソフトウェアデザイン） 2023年1月号 ［雑誌］ Software Design 編集部 451p_B0BPB5GYGX.pdf
 - WEB+DB PRESS Vol．132 きしだ なおき 176p_4297132451.pdf
-- エンタープライズのためのGoogle Cloud クラウドを活用したシステムの構築と運用 遠山 雄二 352p_4798174181.pdf
+- エンタープライズのためのGoogle Cloud クラウドを活用したシステムの構築と運用 遠山 雄二 352p_4798174181.pdf #技術/クラウド #技術/インフラ
 - マスタリング・ライトニングネットワーク -ビットコインの迅速な支払いを実現するセカンドレイヤーブロックチェーンプロトコル Andreas M． Antonopoulos 496p_4814400144.pdf
 - 大規模データ管理 -エンタープライズアーキテクチャのベストプラクティス Piethein Strengholt 372p_481440008X.pdf
 
@@ -1514,21 +1514,21 @@
 ## 202301
 
 - 2022J1＆J2＆J3選手名鑑： NSKムック （NSK MOOK） サッカーダイジェスト 290p_4905411858.pdf #スポーツ/サッカー
-- AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方 中垣 健志 392p_4798163430.pdf
-- ちょうぜつソフトウェア設計入門--PHPで理解するオブジェクト指向の活用 田中 ひさてる 328p_4297132346.pdf
+- AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方 中垣 健志 392p_4798163430.pdf #技術/クラウド #技術/インフラ
+- ちょうぜつソフトウェア設計入門--PHPで理解するオブジェクト指向の活用 田中 ひさてる 328p_4297132346.pdf #技術/プログラミング #PHP
 - ソフトウェアデザイン 2023年2月号 Softeware Design編集部 184p_B00AT1E76S.pdf
 - ハーモニー〔新版〕 （ハヤカワ文庫JA） 伊藤計劃 398p_4150311668.pdf #教養 #100冊候補
-- 単体テストの考え方／使い方 Vladimir Khorikov 416p_4839981728.pdf #テスト #100冊候補
+- 単体テストの考え方／使い方 Vladimir Khorikov 416p_4839981728.pdf #技術/テスト #100冊候補
 - 虐殺器官 （ハヤカワ文庫JA） 伊藤 計劃 432p_4150309841.pdf #教養 #100冊候補
 - 銀行とデザイン デザインを企業文化に浸透させるために 金澤洋 176p_4295015601.pdf #金融
 
 ## 202302
 
-- AWSネットワーク入門 第2版 （impress top gear） 大澤 文孝 328p_4295015423.pdf
+- AWSネットワーク入門 第2版 （impress top gear） 大澤 文孝 328p_4295015423.pdf #技術/クラウド #技術/インフラ
 - Software Design （ソフトウェアデザイン） 2023年3月号 ［雑誌］ Software Design 編集部 493p_B0BV11FTX9.pdf
-- ふつうのLinuxプログラミング 第2版 Linuxの仕組みから学べるgccプログラミングの王道 青木 峰郎 480p_4797386479.pdf
+- ふつうのLinuxプログラミング 第2版 Linuxの仕組みから学べるgccプログラミングの王道 青木 峰郎 480p_4797386479.pdf #技術/インフラ
 - オブザーバビリティ・エンジニアリング Charity Majors 336p_4814400128.pdf
-- マイクロサービスアーキテクチャ 第2版 Sam Newman 664p_4814400012.pdf #設計 #100冊候補
+- マイクロサービスアーキテクチャ 第2版 Sam Newman 664p_4814400012.pdf #技術/設計 #100冊候補
 - 日本一わかりやすい ひとり社長の節税 〜税理士YouTuberが“本音”で教える〜 田淵宏明 200p_4827212260.pdf #金融
 - 要件最適アーキテクチャ戦略 Vaughn Vernon 328p_4798176303.pdf #プロダクト #100冊候補
 
@@ -1536,18 +1536,18 @@
 
 - WEB+DB PRESS Vol．133 うひょ（鈴木 僚太） 176p_4297133709.pdf
 - キャズム Ver．2 増補改訂版 新商品をブレイクさせる「超」マーケティング理論 ジェフリー・ムーア 360p_4798137790.pdf #プロダクト #古典 #100冊候補
-- マルチプラットフォーム対応 最新フレームワーク Flutter 3入門 掌田津耶乃 416p_4798068527.pdf
-- 今さら聞けない暗号技術＆認証・認可 Web系エンジニア必須のセキュリティ基礎力をUP （Software Design別冊） 大竹 章裕 160p_4297133547.pdf
-- 体系的ソフトウェアテスト入門 Rick Craig 297p_4822282074.pdf #テスト #100冊候補
-- 基礎から学ぶ Flutter 石井 幸次 464p_4863542941.pdf
+- マルチプラットフォーム対応 最新フレームワーク Flutter 3入門 掌田津耶乃 416p_4798068527.pdf #技術/プログラミング #Dart
+- 今さら聞けない暗号技術＆認証・認可 Web系エンジニア必須のセキュリティ基礎力をUP （Software Design別冊） 大竹 章裕 160p_4297133547.pdf #技術/セキュリティ
+- 体系的ソフトウェアテスト入門 Rick Craig 297p_4822282074.pdf #技術/テスト #100冊候補
+- 基礎から学ぶ Flutter 石井 幸次 464p_4863542941.pdf #技術/プログラミング #Dart
 - 最強構図 知ってたらデザインうまくなる。 ingectar-e 224p_4802613954.pdf #プロダクト #100冊候補
 
 ## 202304
 
 - Software Design （ソフトウェアデザイン） 2023年5月号 ［雑誌］ Software Design 編集部 513p_B0C1J9BMWT.pdf
 - WEB+DB PRESS Vol．134 WEB+DB PRESS編集部編 160p_4297134772.pdf
-- ゼロトラストアーキテクチャ入門 東根作 成英 184p_4863544073.pdf
-- ハッキングAPI Corey Ball 432p_4814400241.pdf
+- ゼロトラストアーキテクチャ入門 東根作 成英 184p_4863544073.pdf #技術/セキュリティ
+- ハッキングAPI Corey Ball 432p_4814400241.pdf #技術/セキュリティ
 - ユーザーの問題解決とプロダクトの成功を導く エンジニアのためのドキュメントライティング ジャレッド・バーティ 248p_4800590833.pdf
 - 攻撃される知識の歴史 なぜ図書館とアーカイブは破壊され続けるのか リチャード オヴェンデン 360p_4760154426.pdf
 - 栞と嘘の季節 米澤 穂信 368p_4087718131.pdf
@@ -1559,7 +1559,7 @@
 - Software Design （ソフトウェアデザイン） 2023年6月号 ［雑誌］ Software Design 編集部 484p_B0C4K9X2XV.pdf
 - エコロジカル・アプローチ： 「教える」と「学ぶ」の価値観が劇的に変わる新しい運動学習の理論と実践 植田文也 256p_4905349699.pdf
 - システム設計の面接試験 アレックス・シュウ 328p_4802614063.pdf
-- ロバストPython Patrick Viafore 376p_4814400179.pdf #プログラミング #100冊候補
+- ロバストPython Patrick Viafore 376p_4814400179.pdf #技術/プログラミング #100冊候補 #Python
 - 旅するモヤモヤ相談室 木谷 百花 208p_479071781X.pdf
 - （バーチャル背景付）NBAバスケ超分析 語りたくなる50の新常識 佐々木クリス 264p_4295015253.pdf #スポーツ
 
@@ -1580,16 +1580,16 @@
 - 33歳独身女騎士隊長。 （3） （フレックスコミックス） 天原 152p_486675298X.zip
 - ITエンジニア採用とマネジメントのすべて 「採用・定着・活躍」のポイントと内製化への道筋が1冊でわかる 久松  剛 224p_4761276215.pdf #マネジメント #100冊候補
 - WEB+DB PRESS Vol．135 鶴長 鎮一 160p_429713571X.pdf
-- アナロジア AIの次に来るもの ジョージ・ダイソン 384p_4152102373.pdf
+- アナロジア AIの次に来るもの ジョージ・ダイソン 384p_4152102373.pdf #技術/AI
 - ゴースト・ワーク メアリー・L・グレイ 448p_4794973489.pdf
-- プログラミング文体練習 -Pythonで学ぶ40のプログラミングスタイル Cristina Videira Lopes 316p_4814400225.pdf #プログラミング #100冊候補
+- プログラミング文体練習 -Pythonで学ぶ40のプログラミングスタイル Cristina Videira Lopes 316p_4814400225.pdf #技術/プログラミング #100冊候補 #Python
 - 可燃物 米澤 穂信 280p_4163917268.pdf
 - 縁の下のUIデザイン──小さな工夫で大きな効果をもたらす実践TIPS＆テクニック 池田 拓司 256p_4297134098.pdf #プロダクト #100冊候補
 
 ## 202308
 
 - Software Design （ソフトウェアデザイン） 2023年8月号 ［雑誌］ Software Design 編集部 483p_B0CB31K8XB.pdf
-- なっとく！関数型プログラミング Michal Plachta 512p_4798179809.pdf #プログラミング #100冊候補
+- なっとく！関数型プログラミング Michal Plachta 512p_4798179809.pdf #技術/プログラミング #100冊候補
 - はじめてのUXデザイン図鑑 （【BOW BOOKS 016】） 荻原昂彦 312p_4502461210.pdf #プロダクト #100冊候補
 - オブジェクト設計スタイルガイド Matthias Noback 328p_4814400330.pdf
 - サッカー監督の決断と采配-傷だらけの名将たち- ひぐらしひなつ 256p_4767831172.pdf #スポーツ/サッカー
@@ -1600,25 +1600,25 @@
 
 - EUROPE SOCCER TODAY 2022-2023 開幕号 （NSK MOOK） 162p_4905411920.pdf #スポーツ/サッカー
 - WEB+DB PRESS Vol．136 陶山 嶺 152p_4297136104.pdf
-- ゼロからはじめるゲームテスト： 壁抜けしたら無限ガチャで最強モードな件？ 『ゼロからはじめるゲームテスト』制作委員会 208p_4274230678.pdf #テスト #100冊候補
+- ゼロからはじめるゲームテスト： 壁抜けしたら無限ガチャで最強モードな件？ 『ゼロからはじめるゲームテスト』制作委員会 208p_4274230678.pdf #技術/テスト #100冊候補
 - ソフトウェアデザイン 2023年9月号 Software Design編集部 184p_B0CC8KWL9D.pdf
 - マルウエアの教科書 増補改訂版 吉川 孝志 544p_4296202987.pdf
 - ルールズ・オブ・プログラミング -より良いコードを書くための21のルール Chris Zimmerman 452p_4814400411.pdf
-- 運用設計の教科書【改訂新版】 〜現場でもっと困らないITサービスマネジメントの実践ノウハウ 近藤 誠司 360p_4297136570.pdf
+- 運用設計の教科書【改訂新版】 〜現場でもっと困らないITサービスマネジメントの実践ノウハウ 近藤 誠司 360p_4297136570.pdf #技術/インフラ
 
 ## 202310
 
 - jQuery最高の教科書 株式会社シフトブレイン 320p_4797372214.pdf
 - ソフトウェアデザイン 2023年10月号 Software Design編集部 184p_B0CG141GV7.pdf
-- ランサムウエア追跡チーム はみ出し者が挑む、サイバー犯罪から世界を救う知られざる戦い レネー・ダドリー 488p_4296001612.pdf
-- 基礎からの新しいストレージ入門 基本技術から設計・運用管理の実践まで 坂下 幸徳 192p_4802614136.pdf
+- ランサムウエア追跡チーム はみ出し者が挑む、サイバー犯罪から世界を救う知られざる戦い レネー・ダドリー 488p_4296001612.pdf #技術/セキュリティ
+- 基礎からの新しいストレージ入門 基本技術から設計・運用管理の実践まで 坂下 幸徳 192p_4802614136.pdf #技術/インフラ
 - 改訂新版 jQuery本格入門 沖林 正紀 440p_4774169900.pdf
 - 超動く家にて （創元SF文庫） 宮内 悠介 351p_4488747035.pdf
 - 青春リビドー山 （電撃コミックスEX） 位置原 光Z 146p_4049152622.zip
 
 ## 202311
 
-- Web APIテスト技法 Mark Winteringham 280p_4798179728.pdf #テスト #100冊候補
+- Web APIテスト技法 Mark Winteringham 280p_4798179728.pdf #技術/テスト #100冊候補
 - セキュアなソフトウェアの設計と開発 ローレン・コンフェルダー 432p_4798069752.pdf
 - ソフトウェアデザイン 2023年11月号 田中 智明 192p_B0CJ4JVLK4.pdf
 - プロダクトマネージャーのしごと 第2版 -1日目から使える実践ガイド Matt LeMay 312p_4814400438.pdf
@@ -1630,19 +1630,19 @@
 ## 202312
 
 - 2023J1＆J2＆J3選手名鑑 （NSK MOOK） サッカーダイジェスト 290p_4905411939.pdf #スポーツ/サッカー
-- C++ソフトウェア設計 高品質設計の原則とデザインパターン Klaus Iglberger 0p_4814400454.pdf #プログラミング #100冊候補
-- Python Distilled -プログラミング言語Pythonのエッセンス David M． Beazley 336p_4814400462.pdf
+- C++ソフトウェア設計 高品質設計の原則とデザインパターン Klaus Iglberger 0p_4814400454.pdf #技術/プログラミング #100冊候補 #Cpp
+- Python Distilled -プログラミング言語Pythonのエッセンス David M． Beazley 336p_4814400462.pdf #技術/プログラミング #Python
 - アビスパ福岡 2023ルヴァンカップ優勝記念号 ベースボールマガジン社 52p.pdf
 - サッカーダイジェスト 2023年12月号 サッカーダイジェスト編集部 0p_B0CLL1MZV8.pdf #スポーツ/サッカー
 - サッカーマガジン 2023年 08月号 ［雑誌］ サッカーマガジン編集部 0p_B0C8YK7DNV.pdf #スポーツ/サッカー
 - モダンサッカー3．0 「ポジショナルプレー」から「ファンクショナルプレー」へ （footballista） アレッサンドロ・フォルミサーノ 288p_4905349710.pdf #スポーツ/サッカー
 - 文体練習 レーモン クノー 195p_4255960291.pdf
-- 機械学習システムデザイン -実運用レベルのアプリケーションを実現する継続的反復プロセス Chip Huyen 408p_4814400403.pdf
+- 機械学習システムデザイン -実運用レベルのアプリケーションを実現する継続的反復プロセス Chip Huyen 408p_4814400403.pdf #技術/AI
 
 ## 202401
 
-- Go言語 100Tips ありがちなミスを把握し、実装を最適化する （impress top gear） Teiva Harsanyi 416p_4295017531.pdf #プログラミング #100冊候補
-- スッキリわかるJava入門 実践編 第3版 （スッキリわかるシリーズ） 中山 清喬 728p_429501124X.pdf
+- Go言語 100Tips ありがちなミスを把握し、実装を最適化する （impress top gear） Teiva Harsanyi 416p_4295017531.pdf #技術/プログラミング #100冊候補 #Go
+- スッキリわかるJava入門 実践編 第3版 （スッキリわかるシリーズ） 中山 清喬 728p_429501124X.pdf #技術/プログラミング #Java
 - スペース アルプス伝説 （少年キャプテンコミックススペシャル） 田丸 浩史 546p_4198301905.zip
 - ソフトウェアデザイン 2024年2月号 Software Design編集部 200p_B0CQJ534KV.pdf
 - 魔術の歴史： 氷河期から現在まで クリス・ゴスデン 512p_4791775449.pdf
@@ -1650,8 +1650,8 @@
 ## 202402
 
 - CODE コードから見たコンピュータのからくり 第2版 Charles Petzold 612p_4296080245.pdf
-- なぜ重大な問題を見逃すのか？ 間違いだらけの設計レビュー第3版 森崎 修司 224p_4296203819.pdf #設計 #100冊候補
-- ソフトウェアアーキテクチャの基礎 -エンジニアリングに基づく体系的アプローチ Mark Richards 436p_4873119820.pdf #設計 #100冊候補
+- なぜ重大な問題を見逃すのか？ 間違いだらけの設計レビュー第3版 森崎 修司 224p_4296203819.pdf #技術/設計 #100冊候補
+- ソフトウェアアーキテクチャの基礎 -エンジニアリングに基づく体系的アプローチ Mark Richards 436p_4873119820.pdf #技術/設計 #100冊候補
 - ソフトウェアアーキテクチャメトリクス -アーキテクチャ品質を改善する10のアドバイス Christian Ciceri 276p_4814400608.pdf
 - 代理人は眠らない 世界への路を拓くサッカー代理人の流儀 遠藤貴 208p_4198656886.pdf #スポーツ/サッカー
 - 最高のコーチになるためのスポーツコーチング学 -知っておくべき「フレームワーク」と「スキル」- ダグ・レモフ 512p_4862556914.pdf #スポーツ
@@ -1666,7 +1666,7 @@
 - システム障害対応の教科書 木村 誠明 248p_4297112655.pdf
 - 測る世界史 「世界の基準」となった7つの単位の物語 ピエロ・マルティン 288p_4023322873.pdf
 - 組織を変える5つの対話 -対話を通じてアジャイルな組織文化を創る Douglas Squirrel 256p_4814400640.pdf
-- 野球データでやさしく学べるPython入門 いきなり「グラフ作成」「顧客分析」ができる 齋藤 周 176p_453406067X.pdf
+- 野球データでやさしく学べるPython入門 いきなり「グラフ作成」「顧客分析」ができる 齋藤 周 176p_453406067X.pdf #技術/プログラミング #Python
 
 ## 202404
 
@@ -1675,17 +1675,17 @@
 - ソフトウェアデザイン 2024年4月号 Software Design編集部 192p_B0CVX512BF.pdf
 - パズルで解く世界の言語： 言語学オリンピックへの招待 風間 伸次郎 158p_4327394424.pdf
 - ビジネスパーソンのための「言語技術」超入門-プレゼン・レポート・交渉の必勝法 （中公新書ラクレ, 717） 三森 ゆりか 296p_4121507177.pdf
-- 効率的なGo -データ指向によるGoアプリケーションの性能最適化 Bartlomiej Plotka 512p_4814400535.pdf #プログラミング #100冊候補
-- 運用設計のセオリー --インフラから業務まで全整理 小出淳平 520p_4865943706.pdf
+- 効率的なGo -データ指向によるGoアプリケーションの性能最適化 Bartlomiej Plotka 512p_4814400535.pdf #技術/プログラミング #100冊候補 #Go
+- 運用設計のセオリー --インフラから業務まで全整理 小出淳平 520p_4865943706.pdf #技術/インフラ
 
 ## 202405
 
 - GitLabに学ぶ 世界最先端のリモート組織のつくりかた ドキュメントの活用でオフィスなしでも最大の成果を出すグローバル企業のしくみ 千田 和央 312p_4798179426.pdf
 - なぜ依存を注入するのか DIの原理・原則とパターン （Compass Booksシリーズ） Steven van Deursen 656p_4839983062.pdf
-- はじめて学ぶ最新サイバーセキュリティ講義 「都市伝説」と「誤解」を乗り越え、正しい知識と対策を身につける ユージーン・H・スパフォード 528p_429607069X.pdf
+- はじめて学ぶ最新サイバーセキュリティ講義 「都市伝説」と「誤解」を乗り越え、正しい知識と対策を身につける ユージーン・H・スパフォード 528p_429607069X.pdf #技術/セキュリティ
 - 失敗から学ぶ技術 新規事業開発を成功に導くプロトタイピングの教科書 三冨 敬太 224p_4798175005.pdf
 - 技術者のためのテクニカルライティング入門講座 高橋 慈子 220p_4798157198.pdf #文章 #100冊候補
-- 最前線に立つプロが教えるセキュリティの基礎 せきや まもる 384p_4296070797.pdf
+- 最前線に立つプロが教えるセキュリティの基礎 せきや まもる 384p_4296070797.pdf #技術/セキュリティ
 
 ## 202406
 
@@ -1696,8 +1696,8 @@
 - 三体3 死神永生 上 （ハヤカワ文庫SF） 劉 慈欣 608p_4150124493.pdf
 - 三体3 死神永生 下 （ハヤカワ文庫SF） 劉 慈欣 624p_4150124507.pdf
 - 日本人のための憲法原論 新装版 小室 直樹 480p_4797674296.pdf
-- [溝口電子商城]Golangで作るソフトウェアルータ(DLカード購入者用).zip
-- [溝口電子商城]Golangで作るソフトウェアルータⅡ(DLカード購入者用).zip
+- [溝口電子商城]Golangで作るソフトウェアルータ(DLカード購入者用).zip #技術/プログラミング #Go
+- [溝口電子商城]Golangで作るソフトウェアルータⅡ(DLカード購入者用).zip #技術/プログラミング #Go
 
 ## 202407
 
@@ -1705,22 +1705,22 @@
 - エンジニアリングが好きな私たちのための エンジニアリングマネジャー入門 サラ・ドラスナー 264p_4800592410.pdf
 - ソフトウェアデザイン 2024年6月号 Software Design編集部 176p_B0D21PGZHD.pdf
 - ソフトウェアデザイン 2024年7月号 Software Design編集部 192p_B0D4CH21FX.pdf
-- ドメイン駆動設計をはじめよう -ソフトウェアの実装と事業戦略を結びつける実践技法 Vlad Khononov 408p_481440073X.pdf #設計 #100冊候補
+- ドメイン駆動設計をはじめよう -ソフトウェアの実装と事業戦略を結びつける実践技法 Vlad Khononov 408p_481440073X.pdf #技術/設計 #100冊候補
 - ワールドサッカーダイジェスト 2024年 7／4 号 ［雑誌］  0p_B00KRL5BFQ.pdf #スポーツ/サッカー
 - 手を動かしてわかるクリーンアーキテクチャ ヘキサゴナルアーキテクチャによるクリーンなアプリケーション開発 Tom Hombergs 288p_429501978X.pdf
-- 関数型ドメインモデリング ドメイン駆動設計とF#でソフトウェアの複雑さに立ち向かおう Scott Wlaschin 308p_4048931164.pdf #設計 #100冊候補
+- 関数型ドメインモデリング ドメイン駆動設計とF#でソフトウェアの複雑さに立ち向かおう Scott Wlaschin 308p_4048931164.pdf #技術/設計 #100冊候補
 - ［入門］ドメイン駆動設計--基礎と実践・クリーンアーキテクチャ （Software Design別冊） 増田 亨、田中 ひさてる、奥澤 俊樹、中村 充志、成瀬 允宣、大西 政徳 160p_4297143178.pdf
 
 ## 202408
 
-- GitHub CI／CD実践ガイド--持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 （エンジニア選書） 野村 友規 400p_4297141736.pdf
+- GitHub CI／CD実践ガイド--持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 （エンジニア選書） 野村 友規 400p_4297141736.pdf #技術/インフラ
 - Software Design （ソフトウェアデザイン） 2024年08月号 Software Design 編集部 481p_B0D8RDLH1M.pdf
 - Software Design （ソフトウェアデザイン） 2024年09月号 Software Design 編集部 460p_B0DC93CJQP.pdf
-- フロントエンド開発のためのセキュリティ入門： 知らなかったでは済まされない脆弱性対策の必須知識 平野昌士 250p_4798169471.pdf
+- フロントエンド開発のためのセキュリティ入門： 知らなかったでは済まされない脆弱性対策の必須知識 平野昌士 250p_4798169471.pdf #技術/セキュリティ
 - フロントエンド開発のためのテスト入門 今からでも知っておきたい自動テスト戦略の必須知識 吉井 健文 320p_4798178187.pdf
-- 大学4年間のデータサイエンスが10時間でざっと学べる （角川文庫） 久野 遼平 256p_404605977X.pdf
-- 東京大学のデータサイエンティスト育成講座 〜Pythonで手を動かして学ぶデ-タ分析〜 塚本邦尊 448p_4839965250.pdf
-- ［入門］Webフロントエンド E2E テスト--PlaywrightによるWebアプリの自動テストから良いテストの書き方まで （エンジニア選書） 渋川 よしき 264p_4297142201.pdf #テスト #100冊候補
+- 大学4年間のデータサイエンスが10時間でざっと学べる （角川文庫） 久野 遼平 256p_404605977X.pdf #技術/AI
+- 東京大学のデータサイエンティスト育成講座 〜Pythonで手を動かして学ぶデ-タ分析〜 塚本邦尊 448p_4839965250.pdf #技術/プログラミング #Python
+- ［入門］Webフロントエンド E2E テスト--PlaywrightによるWebアプリの自動テストから良いテストの書き方まで （エンジニア選書） 渋川 よしき 264p_4297142201.pdf #技術/テスト #100冊候補
 
 ## 202409
 
@@ -1751,24 +1751,24 @@
 - [Neln]Playwrightのあるきかた ゼロから始めるE2Eテスト.pdf
 - [O2 Project]trapezium.css.pdf
 - [Platform Engineering Meetup]ちいさく始めるプラットフォームエンジニアリング.pdf
-- [SGE.go]SGE Go Tech Book Vol.06.pdf
+- [SGE.go]SGE Go Tech Book Vol.06.pdf #技術/プログラミング #Go
 - [visionOS Developer]visionOS デベロッパーへの道　改訂第2版.pdf
 - [X-Tech5執筆部]Webエンジニアのためのモニタリングオブザーバビリティ実践ガイドNew Relic編.pdf
 - [X-Tech5執筆部]Webエンジニアのためのモニタリングオブザーバビリティ実践ガイドDatadog編.pdf
 - [X-Tech5執筆部]実践フロントエンドオブザーバビリティ.pdf
 - [ちんちらんど]0から分かる！ソート・選択アルゴリズムと資源配分問題.zip
 - [はしご屋さん]APIスキーマを書くために知りたいこと.pdf
-- [もちっとカフェ]ゼロから学ぶKubernetes × Elasticsearch運用.pdf
-- [もちっとカフェ]ゼロから学ぶKubernetes × Solr運用.pdf
-- [もっちりソフト]Azure MixBook 24H1.pdf
-- [もっちりソフト]Azure MixBook 24H2.pdf
+- [もちっとカフェ]ゼロから学ぶKubernetes × Elasticsearch運用.pdf #技術/インフラ
+- [もちっとカフェ]ゼロから学ぶKubernetes × Solr運用.pdf #技術/インフラ
+- [もっちりソフト]Azure MixBook 24H1.pdf #技術/クラウド
+- [もっちりソフト]Azure MixBook 24H2.pdf #技術/クラウド
 - [ビットキー技術書部]Bitkey Techhub Vol.1.pdf
 - [プロダクトマネージャーの日常]プロダクトマネージャーの日常 ~人気Podcast厳選Topic集~ vol.1.pdf
-- [メメメモモ]クリーンアーキテクチャとサーバレスで実装するWebAPI〜AWS CDK版〜.pdf
+- [メメメモモ]クリーンアーキテクチャとサーバレスで実装するWebAPI〜AWS CDK版〜.pdf #技術/クラウド
 - [ワンドビー完全理解者の会]WandBで始める実験管理 - MLOpsからLLMOpsまで（改訂第二版）.pdf
 - [杜の都の開発室]Amazon BedrockとGitHub Actionsで文章自動レビューを実装してみる本.pdf
 - [株式会社ヘンリー]電子カルテの開発を支える技術 ~ モダンな技術で再発明する ~.pdf
-- [雑貨屋かさい]「ドキュメンテーション・データベース・クックブック」Notion DBを用いたレシピ集.pdf
+- [雑貨屋かさい]「ドキュメンテーション・データベース・クックブック」Notion DBを用いたレシピ集.pdf #技術/データベース
 
 ## 202411
 
@@ -1785,28 +1785,28 @@
 - Software Design （ソフトウェアデザイン） 2024年12月号 ［雑誌］ Software Design 編集部 472p_B0DM6WLFJ2.pdf
 - Web Designing 2024年12月号［雑誌］ Web Designing編集部 0p_B0DJSRTBVR.pdf
 - はじめてのジェンダー論 （有斐閣ストゥディア） 加藤 秀一 238p_4641150397.pdf
-- シリコンバレー一流プログラマーが教える Goプロフェッショナル大全 酒井 潤 464p_4046070897.pdf #プログラミング #100冊候補
+- シリコンバレー一流プログラマーが教える Goプロフェッショナル大全 酒井 潤 464p_4046070897.pdf #技術/プログラミング #100冊候補 #Go
 - マスタリングAPIアーキテクチャ -モノリシックからマイクロサービスへとアーキテクチャを進化させるための実践的手法 James Gough 308p_4814400896.pdf
 - 東大政治学 東京大学法学部「現代と政治」委員会 280p_4130331116.pdf
 
 ## 202501
 
 - Software Design （ソフトウェアデザイン） 2025年01月号 Software Design編集部 184p_B0DNHV6LKF.pdf
-- VTuberサプーが教える！ Python 初心者のコード／プロのコード サプー 288p_4297142856.pdf
+- VTuberサプーが教える！ Python 初心者のコード／プロのコード サプー 288p_4297142856.pdf #技術/プログラミング #Python
 - アジャイルデータモデリング 組織にデータ分析を広めるためのテーブル設計ガイド （KS情報科学専門書） ローレンス・コル 480p_4065330785.pdf
-- 体験しながら学ぶ ネットワーク技術入門 みやた ひろし 412p_4815618593.pdf
+- 体験しながら学ぶ ネットワーク技術入門 みやた ひろし 412p_4815618593.pdf #技術/インフラ
 - 多様性の科学 マシュー・サイド 366p_4799327526.pdf #学び方 #100冊候補
 - 失敗の科学 失敗から学習する組織、学習できない組織 マシュー・サイド 343p_4799320238.pdf #学び方 #100冊候補
-- 探索的テストの考え方 ソフトウェア開発のテスト設計とテクニック （Compass Booksシリーズ） James A． Whittaker 256p_4839986037.pdf #テスト #100冊候補
+- 探索的テストの考え方 ソフトウェア開発のテスト設計とテクニック （Compass Booksシリーズ） James A． Whittaker 256p_4839986037.pdf #技術/テスト #100冊候補
 
 ## 202502
 
-- Go言語プログラミングエッセンス （エンジニア選書） mattn 328p_4297134195.pdf #プログラミング #100冊候補
-- Tidy First？ -個人で実践する経験主義的ソフトウェア設計 Kent Beck 164p_4814400918.pdf #設計 #100冊候補
-- エキスパートたちのGo言語 一流のコードから応用力を学ぶ （Software Design plus） 上田 拓也 400p_4297125196.pdf #プログラミング #100冊候補
+- Go言語プログラミングエッセンス （エンジニア選書） mattn 328p_4297134195.pdf #技術/プログラミング #100冊候補 #Go
+- Tidy First？ -個人で実践する経験主義的ソフトウェア設計 Kent Beck 164p_4814400918.pdf #技術/設計 #100冊候補
+- エキスパートたちのGo言語 一流のコードから応用力を学ぶ （Software Design plus） 上田 拓也 400p_4297125196.pdf #技術/プログラミング #100冊候補 #Go
 - コンテナ物語 世界を変えたのは「箱」の発明だった 増補改訂版 マルク・レビンソン 452p_4822289931.pdf #教養 #100冊候補
-- センスの良いSQLを書く技術 達人エンジニアが実践している35の原則 ミック 256p_4046072156.pdf
-- ソフトウェアアーキテクトのための意思決定術 リーダーシップ／技術／プロダクトマネジメントの活用 Srinath Perera 304p_4295020761.pdf #設計 #100冊候補
+- センスの良いSQLを書く技術 達人エンジニアが実践している35の原則 ミック 256p_4046072156.pdf #技術/データベース
+- ソフトウェアアーキテクトのための意思決定術 リーダーシップ／技術／プロダクトマネジメントの活用 Srinath Perera 304p_4295020761.pdf #技術/設計 #100冊候補
 - デザインシステムの育て方 継続的な進化と改善のためのアプローチ ダン・モール 248p_4802511892.pdf
 - パスキーのすべて ── 導入・UX設計・実装 えーじ 256p_4297146533.pdf
 
@@ -1832,48 +1832,48 @@
 
 - Software Design （ソフトウェアデザイン） 2025年05月号 Software Design 編集部 184p_B0F3NHKPLR.pdf
 - Software Design （ソフトウェアデザイン） 2025年06月号 Software Design 編集部 184p_B00UJXLDG8.pdf
-- ドメイン駆動設計入門 ボトムアップでわかる！ ドメイン駆動設計の基本 成瀬 允宣 392p_479815072X.pdf #設計 #100冊候補
+- ドメイン駆動設計入門 ボトムアップでわかる！ ドメイン駆動設計の基本 成瀬 允宣 392p_479815072X.pdf #技術/設計 #100冊候補
 - 冬期限定ボンボンショコラ事件 （創元推理文庫） 米澤穂信 416p_4488451128.pdf
 - 初学の編集者がわかるまで書き直した 基礎から鍛える量子力学 基本の数理から現実の物理まで一歩一歩 松浦 壮 424p_4800592526.pdf
 - 政治はなぜ失敗するのか 5つの罠からの脱出 ベン・アンセル（オックスフォード大学教授） 424p_4868010077.pdf
 
 ## 技術書典18
 
-- [2023-24 Japan AWS Jr.Champions]0から始めるAWS実践ガイド-クラウド時代のアプリ開発.pdf
-- [AutoOps屋]EC2運用自動化へのアプローチ.pdf
-- [CSA JapanクラウドセキュリティWG]クラウドコンピューティングのためのセキュリティガイダンス V5 ―要約版―.pdf
-- [CSA JapanクラウドセキュリティWG]スタートアップのためのクラウドセキュリティ 2024 ―要約版―.pdf
-- [Fluorite]AWSでWebアプリ公開を段階的モダナイズ体験.pdf
+- [2023-24 Japan AWS Jr.Champions]0から始めるAWS実践ガイド-クラウド時代のアプリ開発.pdf #技術/クラウド
+- [AutoOps屋]EC2運用自動化へのアプローチ.pdf #技術/インフラ
+- [CSA JapanクラウドセキュリティWG]クラウドコンピューティングのためのセキュリティガイダンス V5 ―要約版―.pdf #技術/クラウド #技術/セキュリティ
+- [CSA JapanクラウドセキュリティWG]スタートアップのためのクラウドセキュリティ 2024 ―要約版―.pdf #技術/クラウド #技術/セキュリティ
+- [Fluorite]AWSでWebアプリ公開を段階的モダナイズ体験.pdf #技術/クラウド
 - [Hack ‘n’ Map]GIS PickUP Vol.1.pdf
-- [J-IMPACT]【前編】RustとGithub Pagesで公開するWebアプリ_クラウドにお金を払いたくない人のための開発入門.pdf
+- [J-IMPACT]【前編】RustとGithub Pagesで公開するWebアプリ_クラウドにお金を払いたくない人のための開発入門.pdf #技術/クラウド #Rust
 - [ka'sらぼ]QAファンネル・QMファンネルを読み解く.pdf
 - [KSL]実践 MCP - Model Context Protocol -.pdf
 - [MZ工房]猫トイレ監視システムの作りかた3.pdf
 - [natsuume.dev]Claude Code × MCP Serverの手引き.pdf
 - [on-keydayです。]付け焼き刃のQUIC入門～ハンドシェイク-輻輳制御・損失検出編～.pdf
-- [on-keydayです。]付け焼き刃のQUIC入門～概要-フォーマット-暗号化編～.pdf
+- [on-keydayです。]付け焼き刃のQUIC入門～概要-フォーマット-暗号化編～.pdf #技術/セキュリティ
 - [PMファミリー]プロジェクトのための「問いかけの技術」.pdf
 - [SetoFactory]Webアクセシビリティの扉を開く.pdf
-- [SGE.go]SGE Go Tech Book Vol.07.pdf
-- [TinyGo Keeb]TinyGo Keebook vol.1 マイコンを使ったGo言語開発ツアーガイド.pdf
+- [SGE.go]SGE Go Tech Book Vol.07.pdf #技術/プログラミング #Go
+- [TinyGo Keeb]TinyGo Keebook vol.1 マイコンを使ったGo言語開発ツアーガイド.pdf #技術/プログラミング #Go
 - [TinyGo Keeb]tinygo-keebook2025.pdf
 - [unset HISTFILE]rand_r(&v2).pdf
 - [VVVF製作所]スマホでさくっと鉄道車両をハックする技術 [国鉄・JR編].pdf
 - [いもあらい。]「ビジネスって何を学んだらいいの？」と思ったときに読む本.pdf
-- [おふとんトースト]【マンガでわかる】SRE、はじめました。-戦隊ヒーローから学ぶ信頼性ベースのサービス運用入門-.pdf
-- [おふとんトースト]【マンガでわかる】SRE、はじめました。2-戦隊ヒーローから学ぶインシデント対応入門-.pdf
+- [おふとんトースト]【マンガでわかる】SRE、はじめました。-戦隊ヒーローから学ぶ信頼性ベースのサービス運用入門-.pdf #技術/インフラ
+- [おふとんトースト]【マンガでわかる】SRE、はじめました。2-戦隊ヒーローから学ぶインシデント対応入門-.pdf #技術/インフラ
 - [さいてきかどうか]データ同化の基礎と応用.pdf
 - [たいら屋]教えるということ — 計算練習プリント作成プログラム —.pdf
 - [たいら屋]高校で習う統計学 平成 29,30,31 年改訂 学習指導要領 編.pdf
 - [はんままにあ]OpenRadiossの歩き方 前編.pdf
 - [はんままにあ]OpenRadiossの歩き方 後編.pdf
 - [はんままにあ]PrePoMax の歩き方　基本編.pdf
-- [はーふテックサークル]Go言語で試す！トマトアーキテクチャ.pdf
+- [はーふテックサークル]Go言語で試す！トマトアーキテクチャ.pdf #技術/プログラミング #Go
 - [めだがく]めだかの「ゼロから作るgit」学校.pdf
-- [めもおきば]サーバーレスのまわりの技術.pdf
+- [めもおきば]サーバーレスのまわりの技術.pdf #技術/クラウド
 - [よしむら＠データマネジメント]データマネージャーになろう！データマネジメント組織の立ち上げガイド.epub
-- [よしむら＠データマネジメント]データマネージャーになろう！生成AI時代のデータマネジメント推進ガイド.epub
-- [エンジニア集会]知的生産を加速するメモの整理と活用 Obsidian x LLMで試行錯誤.pdf
+- [よしむら＠データマネジメント]データマネージャーになろう！生成AI時代のデータマネジメント推進ガイド.epub #技術/AI
+- [エンジニア集会]知的生産を加速するメモの整理と活用 Obsidian x LLMで試行錯誤.pdf #技術/AI
 - [ギーつくの友利奈緒]狩猟犬用のドッグトラッカーを目指したInubashiriを動かしてみている.pdf
 - [ギークライブラリー]3日後にRAGシステムが完成し、プログラマとして終わりを悟ったネコ.pdf
 - [タムコム]エンジニアのための PowerAutomate開発入門.pdf
@@ -1895,16 +1895,16 @@
 - [竹露亭]Neovim を始める最初の半歩.pdf
 - [薬局ガレリア]実録！薬局で3Dプリンター導入したら10万円の分包機オプションパーツが作れた件.pdf
 - [親方Project]ワンストップ学び.pdf
-- [進捗ゼミナール]AIフレームワークをはじめよう！.pdf
+- [進捗ゼミナール]AIフレームワークをはじめよう！.pdf #技術/AI
 - [遊戯部すずき組]面倒くさくないメンズスキンケア：アラフォーおじさんのための最小限美容入門.pdf
 - [院生insane]ABテストがちょっとわかる本.pdf
 
 ## 202506
 
 - アドテクノロジーの教科書 デジタルマーケティング実践指南 広瀬 信輔 288p_4798144606.pdf
-- アーキテクトの教科書 価値を生むソフトウェアのアーキテクチャ構築 米久保 剛 272p_4798184772.pdf #設計 #100冊候補
-- ソフトウェアアーキテクチャ・ハードパーツ -分散アーキテクチャのためのトレードオフ分析 Neal Ford 472p_4814400063.pdf #設計 #100冊候補
-- バックエンドエンジニアを目指す人のためのRust 安東 一慈 448p_4798186015.pdf
+- アーキテクトの教科書 価値を生むソフトウェアのアーキテクチャ構築 米久保 剛 272p_4798184772.pdf #技術/設計 #100冊候補
+- ソフトウェアアーキテクチャ・ハードパーツ -分散アーキテクチャのためのトレードオフ分析 Neal Ford 472p_4814400063.pdf #技術/設計 #100冊候補
+- バックエンドエンジニアを目指す人のためのRust 安東 一慈 448p_4798186015.pdf #技術/プログラミング #Rust
 - 実践 メモリフォレンジック -揮発性メモリの効果的なフォレンジック分析 Svetlana Ostrovskaya 352p_4814400470.pdf
 - 構想力が劇的に高まる アーキテクト思考 具体と抽象を行き来する問題発見・解決の新技法 細谷 功 312p_4478113874.pdf
 - 顔面神経麻痺のリハビリテーションによる機能回復 （MB ENTONI（エントーニ）） 栢森良二 82p_4881179942.pdf
@@ -1915,7 +1915,7 @@
 - SLO サービスレベル目標 -SLI、SLO、エラーバジェット導入の実践ガイド Alex Hidalgo 432p_4814400349.pdf
 - ウォード博士の驚異の「動物行動学入門」 動物のひみつ 争い・裏切り・協力・繁栄の謎を追う アシュリー・ウォード 736p_4478116288.pdf
 - エンジニアリング組織論への招待 〜不確実性に向き合う思考と組織のリファクタリング 広木 大地 304p_4774196053.pdf #マネジメント #100冊候補
-- 入門 OpenTelemetry -現代的なオブザーバビリティシステムの構築と運用 Ted Young 212p_4814401027.pdf
+- 入門 OpenTelemetry -現代的なオブザーバビリティシステムの構築と運用 Ted Young 212p_4814401027.pdf #技術/インフラ
 - 米澤屋書店 米澤 穂信 377p_4163914528.pdf #教養 #100冊候補
 
 ## 202508
@@ -1936,7 +1936,7 @@
 - ファンタジスタ50 （NSK mook-サッカーダイジェスト）  145p_4930942357.pdf #スポーツ/サッカー
 - 最難関のリーダーシップ--変革をやり遂げる意志とスキル ロナルド・A・ハイフェッツ 464p_4862762239.pdf
 - 流浪の英雄たち シャフタール・ドネツクはサッカーをやめない アンディ・ブラッセル 336p_4862557252.pdf #スポーツ/サッカー
-- 詳解Go言語Webアプリケーション開発 清水 陽一郎 272p_4863543727.pdf #プログラミング #100冊候補
+- 詳解Go言語Webアプリケーション開発 清水 陽一郎 272p_4863543727.pdf #技術/プログラミング #100冊候補 #Go
 
 ## 202510
 
@@ -1967,28 +1967,28 @@
 - [Authマロン]実装してみてざっくりOAuth の流れを体感する.pdf
 - [Auth屋]雰囲気でOAuthを使っているエンジニアが最新のベストプラクティスOAuth2.1を整理して学べる本.pdf
 - [CANDY CHUPS Lab.]pnpm調査報告書.pdf
-- [CANDY CHUPS Lab.]ハンドメイドの世界でもAIが使いたい！.pdf
-- [CANDY CHUPS Lab.]ハンドメイドの世界でもAIが使いたい！～ハンドメイド資材管理ツールを作ってみた！～.pdf
+- [CANDY CHUPS Lab.]ハンドメイドの世界でもAIが使いたい！.pdf #技術/AI
+- [CANDY CHUPS Lab.]ハンドメイドの世界でもAIが使いたい！～ハンドメイド資材管理ツールを作ってみた！～.pdf #技術/AI
 - [ETAOIN]璃奈ちゃんを作ろう！TYPE2.pdf
 - [Livetoon]Livetoon Tech Anthology 2025.pdf
-- [mae616]カチャカチャしながらWebブラウザとJavaScriptを体系的に学ぶ_1巻.pdf
-- [mae616]カチャカチャしながらWebブラウザとJavaScriptを体系的に学ぶ_2巻_前編.pdf
-- [Platform Engineering Meetup]AI Native Platform Engineering.pdf
-- [SGE.go]SGE Go Tech Book Vol.08.pdf
+- [mae616]カチャカチャしながらWebブラウザとJavaScriptを体系的に学ぶ_1巻.pdf #技術/プログラミング #JavaScript
+- [mae616]カチャカチャしながらWebブラウザとJavaScriptを体系的に学ぶ_2巻_前編.pdf #技術/プログラミング #JavaScript
+- [Platform Engineering Meetup]AI Native Platform Engineering.pdf #技術/AI
+- [SGE.go]SGE Go Tech Book Vol.08.pdf #技術/プログラミング #Go
 - [Shade3D研究会]3DCoatでフィギュア制作ブースト作戦　(第２版）.pdf
 - [Shade3D研究会]ガレージキットイベントにディーラー参加してみた本(第2版).pdf
 - [Shade3D研究会]推しのフィギュアを作って同棲したい！(第２版) .pdf
 - [STORES 執筆部]STORES Mobile Tech Book Vol.1.pdf
 - [The Dancing Knowledge]FastMCPで音声合成APIを軽率にMCPサーバー化する本-mono.pdf
-- [The Dancing Knowledge]「AI 活用推進よろしく！」と 言われたら最初に読む本.pdf
+- [The Dancing Knowledge]「AI 活用推進よろしく！」と 言われたら最初に読む本.pdf #技術/AI
 - [URAMASU]3Cで立ち向かうチーム縮小時代の開発効率化　退職者増加で始めたCursor学習記.pdf
 - [Vordem]ソ連の三進数コンピュータСетунь.pdf
 - [いもあらい。]「設計書って何を書いたらいいの？」と思ったときに読む本.pdf
-- [けん・うすすぎ]Terraform × AWS 入門から実践へ  － SIer→SaaS エンジニア が書いた Terraform の本 －.pdf
-- [けん・うすすぎ]Terraform ＋α ×AWS 実践レシピ ― 作ってわかる 構築・運用のケース集.pdf
+- [けん・うすすぎ]Terraform × AWS 入門から実践へ  － SIer→SaaS エンジニア が書いた Terraform の本 －.pdf #技術/クラウド #技術/インフラ
+- [けん・うすすぎ]Terraform ＋α ×AWS 実践レシピ ― 作ってわかる 構築・運用のケース集.pdf #技術/クラウド #技術/インフラ
 - [こぐま茶寮]迷わない配色 少ない色でプロダクトを引き立てるコツ.pdf
 - [こたうち企画]スマートグラスの動向と考察 2025年版.pdf
-- [さんらいふ]自宅で始めるセキュリティ監視ラボ.pdf
+- [さんらいふ]自宅で始めるセキュリティ監視ラボ.pdf #技術/セキュリティ
 - [しょ〜とらば〜ず]元EV系ベンチャーのエンジニアが解説する、 NEV車とは何ぞやからのEVの最適な運用術.pdf
 - [すぎもと組]理想のカラーピッカー作ってみた！_v1.pdf
 - [なからぼ - テックポエマーCh]テックポエマーと歩くソフトウェア設計の地図 ー 読みやすさからリリース切り戻しまで.pdf
@@ -1996,11 +1996,11 @@
 - [はどら秘密研究所]作る！ 電卓 ソフトウェア編.pdf
 - [はどら秘密研究所]作る！ 電卓 古の電卓技術を探る編.pdf
 - [ひかる黄金わかめ帝国]GOAUTHにできること.pdf
-- [まぐろのみぞおち]Oracle PLSQLをPostgreSQL PLpgSQLにする本.pdf
-- [まぐろのみぞおち]PLpgSQLの実装から性能向上のヒントを探ろうとした本.pdf
-- [まぐろのみぞおち]PLpgSQL完全ガイド.pdf
+- [まぐろのみぞおち]Oracle PLSQLをPostgreSQL PLpgSQLにする本.pdf #技術/データベース
+- [まぐろのみぞおち]PLpgSQLの実装から性能向上のヒントを探ろうとした本.pdf #技術/データベース
+- [まぐろのみぞおち]PLpgSQL完全ガイド.pdf #技術/データベース
 - [イエナリ]25年度新卒エンジニア5人がこだわりを持ち寄った本.pdf
-- [イモに聞け]JavaScript徹底攻略 変数 第2版.pdf
+- [イモに聞け]JavaScript徹底攻略 変数 第2版.pdf #技術/プログラミング #JavaScript
 - [ウォンバット]技術屋のための和平交渉マニュアル.pdf
 - [ハッピー佐藤]ハッピーなチームを作ろう　-プライベートから仕事まで明日から使えるチームビルディングの実例と手法-.pdf
 - [メルトラテクノロジーズ]p5.jsでつくる テックノスタルジア.pdf
@@ -2016,7 +2016,7 @@
 - [河童書房]エンジニアのための日記駆動仕事術 日記で回す仕事とアウトプットのループ.pdf
 - [河童書房]メタエンジニアリング 【第2版】 技術広報・採用・組織開発による個人と組織の支援.pdf
 - [河童書房]技術広報のこころ.pdf
-- [物理とはずがたり]ソフトウェアテストの数学.pdf #テスト #100冊候補
+- [物理とはずがたり]ソフトウェアテストの数学.pdf #技術/テスト #100冊候補
 - [物理とはずがたり]テンソル.pdf
 - [物理とはずがたり]物理を学びはじめるための数学.pdf
 - [画像野郎]俺ノGit並行世界凍結術式.pdf
@@ -2049,7 +2049,7 @@
 - あなたの会社は原価計算で損をする 復刻版 一倉 定 216p_4296110012.pdf
 - まったく新しいアカデミック・ライティングの教科書 阿部幸大 176p_4334103804.pdf
 - アイデアのつくり方 ジェームス・W・ヤング 102p_4484881047.pdf
-- 優れたデザインにとってコンセプトが重要な理由： 使いやすく安心なソフトウェアを作るために 中島 震 326p_4621308130.pdf #設計 #100冊候補
+- 優れたデザインにとってコンセプトが重要な理由： 使いやすく安心なソフトウェアを作るために 中島 震 326p_4621308130.pdf #技術/設計 #100冊候補
 - 恐れのない組織--「心理的安全性」が学習・イノベーション・成長をもたらす エイミー・C・エドモンドソン 320p_4862762883.pdf #マネジメント #100冊候補
 
 ## 202602
@@ -2057,7 +2057,7 @@
 - 2025J1＆J2＆J3選手名鑑（NSK MOOK）  306p_4911086084.pdf
 - 33歳独身女騎士隊長。 （4） （フレックスコミックス） 天原 152p_4866754818.pdf
 - 6年版 はじめての人にもよくわかる 年末調整の仕方と1月の源泉徴収事務 岡本 勝秀 348p_4539747118.pdf
-- クリーンコードクックブック -コードの設計と品質を改善するためのレシピ集 Maximiliano Contieri 456p_4814400977.pdf #設計 #100冊候補
+- クリーンコードクックブック -コードの設計と品質を改善するためのレシピ集 Maximiliano Contieri 456p_4814400977.pdf #技術/設計 #100冊候補
 - ゲームデータアナリティクス よりよい開発・運営に向けたデータ分析の教科書 ThinkingData 232p_4798188212.pdf
 - テクニウム--テクノロジーはどこへ向かうのか？ ケヴィン・ケリー 456p_4622077531.pdf #教養 #100冊候補
 - 日本人のためのイスラム原論 新装版 小室 直樹 392p_4797674288.pdf
@@ -2075,33 +2075,33 @@
 ## 技術書典 20
 
 - [20 Hour Exception]Accessibility Visualizerの本.zip
-- [AIデバイス研究所]AIデバイス未来考察.pdf
+- [AIデバイス研究所]AIデバイス未来考察.pdf #技術/AI
 - [Blockchain Biz Community]NFT開発の基礎 NFT-Maker の作り方.pdf
 - [Blockchain Biz Community]これ1冊でOK！ NFTをステーブルコインで販売できるサイトの作り方.pdf
 - [Blockchain Biz Community]ブロックチェーンで切り拓く未来.pdf
 - [Bottleneck Press]ソフトウェアテストと哲学を同時に学ぶ.pdf
-- [CANDY CHUPS Lab.]ハンドメイドの世界でもAIが使いたい！ Let’s Start Cross Stitch！.pdf
+- [CANDY CHUPS Lab.]ハンドメイドの世界でもAIが使いたい！ Let’s Start Cross Stitch！.pdf #技術/AI
 - [finatext-techbook]Finatext Tech Book #1 金融サービスの裏側へ。.pdf #金融
 - [HackSick]Karteのカルテ〜同人誌を書くつもりがアプリが完成！？〜.pdf
-- [kakira9618]個人開発AIプロダクトのアイデア原石.pdf
+- [kakira9618]個人開発AIプロダクトのアイデア原石.pdf #技術/AI
 - [kotobuki]バイブ・コーディングでメガネ型マウスをつくる.pdf
-- [mae616]カチャカチャしながらWebブラウザとJavaScriptを体系的に学ぶ ② 後編 ──JavaScr.pdf
+- [mae616]カチャカチャしながらWebブラウザとJavaScriptを体系的に学ぶ ② 後編 ──JavaScr.pdf #技術/プログラミング #JavaScript
 - [mconfjp]人類が滅んでも使えるORM ① ORM前史.pdf
 - [Muture有志]「全員が正しくて、全員がずれている」 ——新規事業・プロダクト開発６つのケーススタディ.epub
 - [Muture有志]リキャスト PARTI ── 組織変革を始める、3つのデザイン.pdf
-- [NeRU関数]LLMに数学を仕込んだ話.pdf
+- [NeRU関数]LLMに数学を仕込んだ話.pdf #技術/AI
 - [on-keydayです。]付け焼き刃のQUIC入門 QUIC-LB編.pdf
 - [RPACommunity]ワタシハ ライトニングトーク チョットデキル～ライトニングトークを極める 完全マニュアル～.pdf
-- [Security for beginners]今日から使えるセキュリティの歩き方.pdf
-- [Security for beginners]今日から使えるセキュリティの泳ぎ方.pdf
-- [SGE.go]SGE Go Tech Book Vol.09.pdf
+- [Security for beginners]今日から使えるセキュリティの歩き方.pdf #技術/セキュリティ
+- [Security for beginners]今日から使えるセキュリティの泳ぎ方.pdf #技術/セキュリティ
+- [SGE.go]SGE Go Tech Book Vol.09.pdf #技術/プログラミング #Go
 - [URAMASU]Planモードとcc-sdd（仕様駆動開発）でGleamのRealWorldをアップデート.pdf
 - [『エンジニアtype』編集部]その文章、誰が読むの？ 編集部1年目、怒られ15選。.pdf
-- [いずれこの技術が滅びるとしても]航空機と衛星のサイバーセキュリティ入門II 「空と宇宙のサイバーセキュリティ入門」補足.pdf
-- [くるみ割り書房]じゅじゅちゅ！　jj new で始める Jujutsu × AI ワークフロー.zip
+- [いずれこの技術が滅びるとしても]航空機と衛星のサイバーセキュリティ入門II 「空と宇宙のサイバーセキュリティ入門」補足.pdf #技術/セキュリティ
+- [くるみ割り書房]じゅじゅちゅ！　jj new で始める Jujutsu × AI ワークフロー.zip #技術/AI
 - [すなあび]ピープルマネジメントのレベルデザイン　たのしい経験の積ませ方.pdf
 - [ながらえん]コミュニケーションは技術です。.pdf
-- [はーふテックサークル]インフラ管理をサクッと!NitricでデプロイするGo APIサーバー Google Cloud 編.pdf
+- [はーふテックサークル]インフラ管理をサクッと!NitricでデプロイするGo APIサーバー Google Cloud 編.pdf #技術/クラウド #技術/インフラ #Go
 - [ふくLab.]一人情シス・個人開発者のための Cloudflare One 入門.pdf
 - [みゃち]理工系文学少女、アーキテクトになる。～不確実な時代を漂うエンジニア（仮）のためのサバイバル術～.pdf
 - [もっちりソフト]上から下までMicrosoftテクノロジーで作る！ 秘書エージェント.pdf
@@ -2110,11 +2110,11 @@
 - [シンプルフォーム技術書執筆部]技術論考 #2.pdf
 - [トゲトゲ団]New Relicに詳しい人達が書いた本 Vol.2　オブザーバービリティアンチパターン.pdf
 - [ヘンリー執筆部]電子カルテの開発を支える技術4 ~ モダンな技術で再発明する ~.pdf
-- [ムラオサ工房]新人が突然理解しはじめるIT研修 ～ミニチュアで学ぶITインフラ～.pdf
+- [ムラオサ工房]新人が突然理解しはじめるIT研修 ～ミニチュアで学ぶITインフラ～.pdf #技術/インフラ
 - [メルカリ技術書典部]Unleash Mercari Tech! vol.8.pdf
 - [万年ハシビロ]認証認可超入門.pdf
 - [三峰スズ工房]ブラウザから自作デバイスを制御する.pdf
-- [世迷言ラボ]Java 10+a年振り返り （上巻）.pdf
+- [世迷言ラボ]Java 10+a年振り返り （上巻）.pdf #技術/プログラミング #Java
 - [半田技術研究所]探索的テスト＋Claude無料プラン.pdf
 - [同人サークルTRAWNSE]ＡＷＳ認定　全冠攻略本.pdf
 - [増井技術士事務所]ブックマークレット32本ノック.pdf
@@ -2129,17 +2129,17 @@
 - [放課後舎・ビールの放課後]増補改訂版　ビールの放課後　創刊号＋有明本.pdf
 - [放課後舎・ビールの放課後]増補版　ビールの放課後　第7号　日本のクラフトビール30年.pdf
 - [放課後舎・ビールの放課後]歴史から考えるクラフトビール.pdf
-- [有限会社六方　有志]さようならOpenClaw セルフビルドAIエージェントkojo.pdf
+- [有限会社六方　有志]さようならOpenClaw セルフビルドAIエージェントkojo.pdf #技術/AI
 - [朱野帰子]小規模企業共済を全力でやってきたけど満足してる.pdf
 - [株式会社プレーンテキスト]店舗を読み解く技術～実践編～ 2026 Spring.pdf
-- [浜風もっこす]ネットワークゲーム同期入門 完全同期編.pdf
-- [白熊出版会]Go Review Guide Guide - 51の観点から目指すGoらしさの極北.pdf
+- [浜風もっこす]ネットワークゲーム同期入門 完全同期編.pdf #技術/インフラ
+- [白熊出版会]Go Review Guide Guide - 51の観点から目指すGoらしさの極北.pdf #技術/プログラミング #Go
 - [秘密じゃない花園]QA学園 Deviation Vol.1.pdf
 - [秘密じゃない花園]QA学園 Human Specification Stories Vol.1.pdf
 - [秘密じゃない花園]QA学園　第1巻　「生徒手帳は仕様書です」.pdf
 - [羽多奈緒事務所]億の業務システムコンペで勝った話.pdf
-- [赤煉瓦倉庫]DatabricksではじめるAI Safetyとガバナンス入門.pdf
-- [進捗ゼミナール]AIフレンドリーアーキテクチャ.pdf
+- [赤煉瓦倉庫]DatabricksではじめるAI Safetyとガバナンス入門.pdf #技術/AI
+- [進捗ゼミナール]AIフレンドリーアーキテクチャ.pdf #技術/AI
 - [銀背文庫]実践 Kong Konnect.pdf
 - [電子工作社]はんだごてとわたくし.pdf
 - [電子工作社]本当はおもしろいはんだごてメーカーの本1.pdf
@@ -2165,7 +2165,7 @@
 - システム設計・データ活用のためのデータモデル入門 ビジネスを飛躍させる概念データモデルの理解 （DATA UTILIZATION） データ総研 388p_479819008X.pdf
 - ジョブ型雇用社会とは何か： 正社員体制の矛盾と転機 （岩波新書） 濱口 桂一郎 306p_4004318947.pdf
 - ソフトウェアエンジニアガイドブック -世界基準エンジニアの成功戦略ロードマップ Gergely Orosz 588p_4814401213.pdf
-- ソフトウェア透明性 攻撃ベクトルを知り、脆弱性と戦うための最新知識 Chris Hughes 416p_4798187968.pdf
+- ソフトウェア透明性 攻撃ベクトルを知り、脆弱性と戦うための最新知識 Chris Hughes 416p_4798187968.pdf #技術/セキュリティ
 - データフローダイアグラム いにしえの技術がもたらすシステム設計の可能性 大嶋 和幸 256p_4798189332.pdf
 - 現代サッカーに適応する選手の育成メソッド 浜吉正則 288p_4801944833.pdf #スポーツ/サッカー
 
@@ -2174,7 +2174,7 @@
 - 2026J1＆J2＆J3百年構想リーグ選手名鑑 （NSK MOOK）  244p_4911086157.pdf
 - 7年版 はじめての人にもよくわかる 年末調整の仕方と1月の源泉徴収事務 岡本 勝秀 350p_4539747312.pdf
 - xGENIUS エックスジーニアス 確率と統計で観るサッカー ジェームズ・ティペット 352p_4781624510.pdf #スポーツ/サッカー
-- アーキテクチャモダナイゼーション 組織とビジネスの未来を設計する Nick Tune 560p_4798194077.pdf #設計 #100冊候補
+- アーキテクチャモダナイゼーション 組織とビジネスの未来を設計する Nick Tune 560p_4798194077.pdf #技術/設計 #100冊候補
 - ジャンルイジ・ブッフォン自伝 何度でも立ち上がる ジャンルイジ・ブッフォン 336p_4491063915.pdf
 - ワールドサッカーダイジェスト： ［総力特集］永久保存版 ワールドカップ全22大会を完全網羅 W杯レジェンド1000人 （2026年5月7日号）  0p_B0GS4CRDL5.pdf #スポーツ/サッカー
 - 暗黙知の次元 （ちくま学芸文庫） マイケル・ポランニー 194p_4480088164.pdf
@@ -2193,7 +2193,7 @@
 
 - APIデザイン・パターン （Compass Booksシリーズ） JJ Geewax 528p_4839979391.pdf
 - EMPOWERED 普通のチームが並外れた製品を生み出すプロダクトリーダーシップ マーティ・ケーガン 448p_4820729241.pdf #プロダクト #100冊候補
-- Exercise Go プログラマ脳を鍛える至高の問題集 Miki Tebeka 128p_4798190217.pdf #プログラミング #100冊候補
+- Exercise Go プログラマ脳を鍛える至高の問題集 Miki Tebeka 128p_4798190217.pdf #技術/プログラミング #100冊候補 #Go
 - HIGH OUTPUT MANAGEMENT（ハイアウトプット マネジメント） 人を育て、成果を最大にするマネジメント アンドリュー・S・グローブ 336p_4822255018.pdf #マネジメント #古典 #100冊候補
 - エンジニアリングマネージャーのしごと -チームが必要とするマネージャーになる方法 James Stanier 376p_4873119944.pdf
 - サッカーで、生きていけるか。--プロへの道筋と現実、ネクストキャリアの考え方 阿部博一 248p_4862763405.pdf #キャリア #100冊候補 #スポーツ/サッカー
@@ -2202,9 +2202,9 @@
 ## 202609
 
 - みえる・みえないのひみつ 沢田ユキオ 144p_4051045218.pdf
-- アート・オブ・クリーンコード： 複雑さを避けてシンプルに生きるためのベストプラクティス Christian Mayer 216p_4320125894.pdf #設計 #100冊候補
+- アート・オブ・クリーンコード： 複雑さを避けてシンプルに生きるためのベストプラクティス Christian Mayer 216p_4320125894.pdf #技術/設計 #100冊候補
 - スキンケアの科学 科学的に正しい皮膚の話 （ブルーバックス） 平山 令明 256p_4065416876.pdf
-- ドメイン特化言語 パターンで学ぶDSLのベストプラクティス46項目 マーチン ファウラー 656p_4864010471.pdf #設計 #100冊候補
+- ドメイン特化言語 パターンで学ぶDSLのベストプラクティス46項目 マーチン ファウラー 656p_4864010471.pdf #技術/設計 #100冊候補
 - ワールドサッカーダイジェスト 2026年 3／19 号 ［雑誌］  82p_B0GP8QNQCV.pdf #スポーツ/サッカー
 - 初めてのGraphQL -Webサービスを作って学ぶ新世代API Eve Porcello 256p_487311893X.pdf
 - 本田鹿の子の本棚 LOVEクラフト篇 （リイドカフェコミックス） 佐藤 将 160p_4845871440.pdf
