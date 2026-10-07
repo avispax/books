@@ -246,7 +246,7 @@
 - Game Programming Gems 7 日本語版 Scott Jacobs 592p_4862460763.pdf #ゲーム
 - Game Programming Gems 8 日本語版 Adam Lake 656p_4862461417.pdf #ゲーム
 - Game Programming Gems Mark DeLoura 648p_4939007286.pdf #ゲーム
-- Game Programming Patterns ソフトウェア開発の問題解決メニュー （impress top gear） Robert Nystrom 368p_4844338900.pdf #ゲーム
+- Game Programming Patterns ソフトウェア開発の問題解決メニュー （impress top gear） Robert Nystrom 368p_4844338900.pdf #ゲーム #100冊 
 - GitHub CI／CD実践ガイド--持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 （エンジニア選書） 野村 友規 400p_4297141736.pdf #技術/インフラ
 - GitHub 実践入門 〜Pull Request による開発の変革 （WEB+DB PRESS plus） 大塚 弘記 304p_477416366X.pdf #技術/ツール
 - GitLabに学ぶ 世界最先端のリモート組織のつくりかた ドキュメントの活用でオフィスなしでも最大の成果を出すグローバル企業のしくみ 千田 和央 312p_4798179426.pdf #マネジメント/組織
@@ -395,9 +395,9 @@
 - Tailwind CSS実践入門 （エンジニア選書） 工藤 智祥 384p_429713943X.pdf #技術/フロントエンド
 - TCP／IP ソケットプログラミング C 言語編 Michael J． Donahoo 181p_4274065197.pdf #C #技術/プログラミング #技術/インフラ
 - Team Geek -Google のギークたちはいかにしてチームを作るのか Brian W． Fitzpatrick 228p_4873116309.pdf #マネジメント/チーム
-- The Art of Computer Programming Volume 1 Fundamental Algorithms Third Edition 日本語版 Donald E．Knuth 656p_4048694022.pdf #技術/コンピュータ
-- The Art of Computer Programming Volume 2 Seminumerical Algorithms Third Edition 日本語版 Donald E．Knuth 744p_4048694162.pdf #技術/コンピュータ
-- The Art of Computer Programming Volume 3 Sorting and Searching Second Edition 日本語版 Donald E．Knuth 741p_4048694316.pdf #技術/コンピュータ
+- The Art of Computer Programming Volume 1 Fundamental Algorithms Third Edition 日本語版 Donald E．Knuth 656p_4048694022.pdf #技術/コンピュータ #技術/プログラミング 
+- The Art of Computer Programming Volume 2 Seminumerical Algorithms Third Edition 日本語版 Donald E．Knuth 744p_4048694162.pdf #技術/コンピュータ #技術/プログラミング 
+- The Art of Computer Programming Volume 3 Sorting and Searching Second Edition 日本語版 Donald E．Knuth 741p_4048694316.pdf #技術/コンピュータ #技術/プログラミング 
 - The Art of Multiprocessor Programming 並行プログラミングの原理から実践まで Maurice Herlihy 576p_4048679880.pdf #技術/コンピュータ #技術/プログラミング
 - The DevOps 逆転だ！ ジーン・キム 400p_4822285359.pdf #アジャイル #100冊/候補 
 - Tidy First？ -個人で実践する経験主義的ソフトウェア設計 Kent Beck 164p_4814400918.pdf #技術/設計 
